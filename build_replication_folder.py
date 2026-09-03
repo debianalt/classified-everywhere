@@ -3,14 +3,18 @@
 # subfolders would break the chain.
 import shutil, pathlib, re, sys
 
-SRC = pathlib.Path(r"C:\Users\ant\OneDrive\articles_3\2026_2")
-DST = pathlib.Path(r"C:\Users\ant\OneDrive\articles_3\classified")
+SRC = pathlib.Path(__file__).resolve().parent
+DST = SRC.parent / "classified"
 
 def _wipe(root):
     # OneDrive holds a handle on a folder it has just synced, so rmtree can
     # fail on the directory even when every file inside it is gone. Delete the
     # files, then remove what directories will go, and carry on.
     for f in sorted(root.rglob("*"), key=lambda q: -len(q.parts)):
+        # never touch the git metadata: an earlier version of this wipe
+        # destroyed the local repository on the first rebuild after init
+        if ".git" in f.parts:
+            continue
         try:
             f.unlink() if f.is_file() else f.rmdir()
         except OSError:
@@ -30,7 +34,12 @@ for d in ("data/raw/covariates", "data/processed", "tables", "figures",
 
 # ── code: every script, flat, as in the project ──────────────────────────────
 n_code = 0
+# generate_docx.py stays out: it holds the author's name, ORCID, email and
+# postal address in constants and cannot run without the manuscript sources
+SKIP_CODE = {"generate_docx.py"}
 for p in sorted(SRC.glob("*.R")) + sorted(SRC.glob("*.py")):
+    if p.name in SKIP_CODE:
+        continue
     shutil.copy2(p, DST / p.name)
     n_code += 1
 

@@ -98,8 +98,10 @@ the category labels and the shared space builder, and every script sources it.
 figures; `38_tablas_si.R` writes the supplementary tables; `99_crossval.R`
 compares the R results against the frozen Python pass in `validation/`.
 
-`build_si_tables.py` and `generate_docx.py` assemble the submission documents
-from the manuscript sources, which are not distributed here.
+`build_si_tables.py` writes the curated supplementary tables into the
+manuscript's markdown, which is not distributed here; it is included because it
+documents how each supplementary table is drawn from `tables/`. The script that
+assembles the submission documents is not in this repository.
 
 ## Guards
 

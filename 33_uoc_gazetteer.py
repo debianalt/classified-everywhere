@@ -56,10 +56,12 @@ def get_key():
     f = Path.home() / ".deepseek_key"
     if f.exists():
         return f.read_text(encoding="utf-8").strip()
-    env = Path(r"C:\Users\ant\OneDrive\articles_2_\2026_19_positions\.env")
-    for line in env.read_text(encoding="utf-8").splitlines():
-        if line.startswith("DEEPSEEK_API_KEY="):
-            return line.split("=", 1)[1].strip()
+    # a .env beside the scripts, as a last resort
+    env = PROJECT / ".env"
+    if env.exists():
+        for line in env.read_text(encoding="utf-8").splitlines():
+            if line.startswith("DEEPSEEK_API_KEY="):
+                return line.split("=", 1)[1].strip()
     sys.exit("DEEPSEEK_API_KEY no encontrada")
 
 

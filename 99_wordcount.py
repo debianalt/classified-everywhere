@@ -1,7 +1,7 @@
 import re
 from pathlib import Path
 
-SEC = Path(r"C:\Users\ant\OneDrive\articles_3\2026_2\sections")
+SEC = Path(__file__).resolve().parent / "sections"
 FILES = ["00_abstract.md", "01_introduction.md", "02_framework.md",
          "04_data_methods.md", "05_results.md", "06_discussion.md",
          "07_conclusions.md", "08_references.md"]
