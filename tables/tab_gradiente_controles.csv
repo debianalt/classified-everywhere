@@ -1,0 +1,5 @@
+"especificacion","valor"
+"sin controles (Spearman)",0.637
+"parcial | log stock de sociedades",0.478
+"parcial | log stock + ITPP",0.465
+"OLS: coef de anclado (shares), con log stock + ITPP",0.469

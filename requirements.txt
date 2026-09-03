@@ -1,0 +1,11 @@
+# Data layer. Python 3.14 was used; nothing here needs that exact version.
+pandas==2.3.3
+numpy==2.3.5
+pyarrow==23.0.0
+openpyxl==3.1.5
+matplotlib==3.10.7
+scikit-learn==1.7.2
+prince==0.16.5
+# only for the submission build, which needs the manuscript sources
+python-docx==1.2.0
+pypandoc==1.17

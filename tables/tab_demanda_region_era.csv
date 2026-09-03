@@ -1,0 +1,10 @@
+region,era,administracion,ciencia_universidad,cultura_educacion,infraestructura,salud_social,seguridad_defensa,share_territorial
+Metro,fernandez,0.147,0.078,0.038,0.086,0.137,0.515,0.552
+Metro,macri,0.262,0.067,0.053,0.102,0.15,0.367,0.387
+Metro,milei,0.103,0.051,0.013,0.028,0.092,0.713,0.698
+NEA,fernandez,0.118,0.017,0.006,0.212,0.029,0.619,0.9
+NEA,macri,0.113,0.009,0.005,0.344,0.057,0.472,0.84
+NEA,milei,0.133,0.018,0.001,0.078,0.015,0.754,0.94
+Resto,fernandez,0.116,0.05,0.011,0.204,0.06,0.559,0.794
+Resto,macri,0.123,0.052,0.011,0.325,0.073,0.416,0.696
+Resto,milei,0.11,0.032,0.003,0.067,0.031,0.756,0.873

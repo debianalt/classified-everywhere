@@ -1,0 +1,540 @@
+uoc,saf,tipo_organismo,n_adj,localidad,provincia,lat,lon,confianza,fuente,verificado
+68/00 - Departamento de Administracion de Bienes - ANLIS,906 - Administración Nacional de Laboratorios e Institutos de Salud “Dr. Carlos Malbrán,salud_social,4195,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/77 - Departamento Contaduría y Finanzas (EMGE),374 - Estado Mayor General del Ejercito,seguridad_defensa,3362,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/13 - Dirección de Remonta y Veterinaria,374 - Estado Mayor General del Ejercito,seguridad_defensa,2287,CABA,CABA,-34.6075,-58.4371,alta,manual,1
+97/000 - Hospital Nacional Dr Baldomero Sommer,903 - Hospital Nacional Dr Baldomero Sommer,salud_social,2052,General Rodríguez,Buenos Aires,-34.6082064832342,-58.9510798915332,alta,deepseek+georef,1
+84/26 - Hospital Militar Central 601,374 - Estado Mayor General del Ejercito,seguridad_defensa,2004,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+47 - Dpto. de Compras y Servicios- INIDEP,607 - Instituto Nacional de Investigación y Desarrollo Pesquero,ciencia_universidad,1944,Mar del Plata,Buenos Aires,-38.0064494189987,-57.5438377776641,alta,deepseek+georef,1
+14/3 - Centro Atómico Bariloche - CNEA,105 - Comisión Nacional de Energía Atómica,ciencia_universidad,1881,San Carlos de Bariloche,Río Negro,-41.1358081611304,-71.3043392567773,alta,deepseek+georef,1
+96 - Dirección General de Administración,908 - Hospital Nacional Profesor Alejandro Posadas,salud_social,1878,El Palomar,Buenos Aires,-34.6108556165017,-58.5956810077115,alta,deepseek+georef,1
+487 - División Compras y Suministros - Superintendencia de Bienestar de la Policia Federal Argentina,403 - Superintendencia de Bienestar de la Policia Federal Argentina,seguridad_defensa,1758,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+38/15 JEFATURA DE OBTENCION DE LA ARMADA,379 - Estado Mayor General de la Armada,seguridad_defensa,1643,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/129 - Dirección de Arsenales,374 - Estado Mayor General del Ejercito,seguridad_defensa,1596,Boulogne Sur Mer,Buenos Aires,-34.5094800482416,-58.5669108609788,alta,deepseek+georef,1
+84/17 - Comando Brigada de Montaña V,374 - Estado Mayor General del Ejercito,seguridad_defensa,1473,Salta,Salta,-24.7831983811283,-65.4102509654276,alta,deepseek+georef,1
+40/014 - UOC DPTO CDR,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,1471,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+52 - Coordinación de Compras y Contrataciones - SENASA,623 - Servicio Nacional de Sanidad y Calidad Agroalimentaria,administracion,1372,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+340/001 - Dirección General de Administración - SSSLD,376 - Subsecretaría de Planeamiento Operativo y Servicio Logístico de la Defensa,seguridad_defensa,1361,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+66/00 - Dirección de Compras; Suministros; Logística y Arquitectura - ANMAT,904 - Administración Nacional de Medicamentos; Alimentos y Tecnología Médica - ANMAT,salud_social,1358,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+83/000 - Dirección General de Administración Financiera - MC,337 - Secretaría de Cultura,cultura_educacion,1338,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+14 - Compras y Contrataciones - CNEA,105 - Comisión Nacional de Energía Atómica,ciencia_universidad,1323,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+14/2 - Centro Atómico Ezeiza - CNEA,105 - Comisión Nacional de Energía Atómica,ciencia_universidad,1301,Ezeiza,Buenos Aires,-34.8543939582115,-58.524757807358,alta,denominacion,1
+40/039 - UOC DPTO CDR,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,1256,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+Departamento Contrataciones Córdoba - UOC 40/47,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,1194,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,denominacion,1
+84/134 - Comando de Adiestramiento y Alistamiento,374 - Estado Mayor General del Ejercito,seguridad_defensa,1186,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,alta,deepseek+georef,1
+84/07 - Dirección de Aviación de Ejercito - Ejercito Argentino,374 - Estado Mayor General del Ejercito,seguridad_defensa,1169,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,alta,deepseek+georef,1
+84/24 - Colegio Militar de la Nación - Compras y Contrataciones,374 - Estado Mayor General del Ejercito,seguridad_defensa,1163,El Palomar,Buenos Aires,-34.6108556165017,-58.5956810077115,alta,deepseek+georef,1
+38/6 - INTENDENCIA NAVAL USHUAIA,379 - Estado Mayor General de la Armada,seguridad_defensa,1162,Ushuaia,Tierra del Fuego,-54.8074039816905,-68.3037571781958,alta,denominacion,1
+38/01 - ARSENAL NAVAL PUERTO BELGRANO,379 - Estado Mayor General de la Armada,seguridad_defensa,1142,Punta Alta,Buenos Aires,-38.8781733532983,-62.0794804613607,alta,deepseek+georef,1
+72/00 - Dirección Administrativa Financiera- EMCFFAA- Dpto de contrataciones,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,1121,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/89 - Dirección General de Educación,374 - Estado Mayor General del Ejercito,seguridad_defensa,1102,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+63/000 - Dirección de Contrataciones - ANSES II,850 - Administración Nacional de la Seguridad Social,salud_social,1061,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+38/27 - Agrupación Servicios de Cuartel,379 - Estado Mayor General de la Armada,seguridad_defensa,1039,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+84/140 - Comando de Brigada de Monte III,374 - Estado Mayor General del Ejercito,seguridad_defensa,1034,Resistencia,Chaco,-27.4510757112285,-58.9864835287395,alta,deepseek+georef,1
+38/12 - Comando de la Flota de Mar,379 - Estado Mayor General de la Armada,seguridad_defensa,1034,Punta Alta,Buenos Aires,-38.8781733532983,-62.0794804613607,alta,deepseek+georef,1
+HOSPITAL NACIONAL Y COMUNIDAD DR. RAMON CARRILLO,909 - Colonia Nacional Dr. Manuel Montes de Oca,salud_social,1006,Torres,Buenos Aires,-34.4309916604575,-59.1278642374609,alta,manual,1
+14/1 - Centro Atómico Constituyentes - CNEA,105 - Comisión Nacional de Energía Atómica,ciencia_universidad,999,Villa Maipú,Buenos Aires,-34.568894989108,-58.5244410540779,alta,deepseek+georef,1
+84/03 - Comando de la 1ra División de Ejército,374 - Estado Mayor General del Ejercito,seguridad_defensa,981,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+84/16 - Comando Brigada Blindada II,374 - Estado Mayor General del Ejercito,seguridad_defensa,978,Paraná,Entre Ríos,-31.7401601621031,-60.5274260494443,alta,manual,1
+84/06 - Dirección General de Salud,374 - Estado Mayor General del Ejercito,seguridad_defensa,969,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+79/000 - Dirección General Técnico - Administrativa - JGM,305 - Jefatura de Gabinete de Ministros,administracion,963,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/23 - Escuela de Suboficiales del Ejercito Sargento Cabral - Estado Mayor General del Ejercito,374 - Estado Mayor General del Ejercito,seguridad_defensa,960,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,alta,deepseek+georef,1
+80/000 - Dirección General de Administración - MS,310 - Ministerio de Salud,salud_social,955,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/04 - 4° Mendoza - DNV,604 - Dirección Nacional de Vialidad,infraestructura,924,Mendoza,Mendoza,-32.8897325533642,-68.8444442314254,alta,denominacion,1
+84/15 - Comando de Brigada Blindada I,374 - Estado Mayor General del Ejercito,seguridad_defensa,920,Tandil,Buenos Aires,-37.3286954825526,-59.1368975569569,alta,deepseek+georef,1
+23/000 - Dirección General de Administración - SG,301 - Secretaria General de la Presidencia de la Nación,administracion,919,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+73 - Direccion General de  Administración - CNRT,661 - Comisión Nacional de Regulación de Transporte,administracion,918,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/22 - Comando de Brigada de Monte XII,374 - Estado Mayor General del Ejercito,seguridad_defensa,911,Posadas,Misiones,-27.3664259799962,-55.8939802751923,alta,deepseek+georef,1
+33/000 - Dirección General de Administración - MT,350 - Ministerio de Trabajo; Empleo y Seguridad Social,salud_social,911,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/39 - Comando Brigada Paracaidista IV,374 - Estado Mayor General del Ejercito,seguridad_defensa,900,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,deepseek+georef,1
+38/2 - UOC Base Naval Puerto Belgrano - EMGA,379 - Estado Mayor General de la Armada,seguridad_defensa,899,Punta Alta,Buenos Aires,-38.8781733532983,-62.0794804613607,alta,deepseek+georef,1
+38/33 - Unidad Operativa de Contrataciones - Base Naval Mar del Plata,379 - Estado Mayor General de la Armada,seguridad_defensa,898,Mar del Plata,Buenos Aires,-38.0064494189987,-57.5438377776641,alta,denominacion,1
+38/19 - División Contrataciones del Cuartel General del EMGA,379 - Estado Mayor General de la Armada,seguridad_defensa,895,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/024 - UOC CRV,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,877,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+40/028 - AREA DE MATERIAL RIO IV,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,876,Río Cuarto,Córdoba,-33.1238369342208,-64.3490032179798,alta,deepseek+georef,1
+64/000 - Departamento de Compras y Contrataciones- SRT,852 - Superintendencia de Riesgos del Trabajo,administracion,872,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+95/000 - Dirección de Administración de Niñez; Adolescencia y Familia - SENNAF,311 - Ministerio de Desarrollo Social,salud_social,872,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+38/18 - Division Contrataciones - Comando de Transportes Navales,379 - Estado Mayor General de la Armada,seguridad_defensa,863,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+55 - Gerencia de Administración- Área de Compras y Contrataciones,651 - Ente Nacional Regulador del Gas,administracion,854,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/21 - Comando Brigada Mecanizada XI,374 - Estado Mayor General del Ejercito,seguridad_defensa,849,Río Gallegos,Santa Cruz,-51.6234632663739,-69.2158645331237,alta,manual,1
+82 - DIRECCIÓN GENERAL DE ADMINISTRACIÓN,330 - SECRETARIA DE EDUCACIÓN – MINISTERIO DE CAPITAL HUMANO,cultura_educacion,844,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+15 - Subgerencia de Compras y Contrataciones,106 - Comisión Nacional de Actividades Espaciales,ciencia_universidad,841,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+16/000 - Dirección General de Administración-ARN,112 - Autoridad Regulatoria Nuclear,ciencia_universidad,832,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+347/000 - Dirección General de Administración - MS,343 - Ministerio de Seguridad,seguridad_defensa,823,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+38/25 - Base Aeronaval Comandante espora,379 - Estado Mayor General de la Armada,seguridad_defensa,821,Bahía Blanca,Buenos Aires,-38.7227702772442,-62.2727419998288,alta,deepseek+georef,1
+46/000 - Coordinación de Licitaciones y Contrataciones - DNV,604 - Dirección Nacional de Vialidad,infraestructura,816,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/88 - DIRECCION DE EDUCACION OPERACIONAL,374 - Estado Mayor General del Ejercito,seguridad_defensa,800,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+21/000 - Dirección General de Administración - DNM,201 - Dirección Nacional de Migraciones,administracion,799,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+17 - Oficina de Compras- TNC,113 - Teatro Nacional Cervantes,cultura_educacion,788,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/13 - 13° Chubut - DNV,604 - Dirección Nacional de Vialidad,infraestructura,780,Trelew,Chubut,-43.2531867505795,-65.3093805893395,alta,manual,1
+46/17 - 17° Entre Rios - DNV,604 - Dirección Nacional de Vialidad,infraestructura,768,Paraná,Entre Ríos,-31.7401601621031,-60.5274260494443,alta,deepseek+georef,1
+40/016 - AREA MATERIAL QUILMES,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,758,Quilmes,Buenos Aires,-34.7200676236621,-58.254346982141,alta,denominacion,1
+84/08 - Hospital General 602 Campo de Mayo,374 - Estado Mayor General del Ejercito,seguridad_defensa,755,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,alta,denominacion,1
+84/48 - Batallón de Ingenieros Anfibios 121,374 - Estado Mayor General del Ejercito,seguridad_defensa,746,Santo Tomé,Corrientes,-28.5498158069218,-56.0348110765932,alta,deepseek+georef,1
+38/38 - MINISTERIO DE DEFENSA - ARMADA ARGENTINA - HOSPITAL NAVAL BUENOS AIRES CIRUJANO MAYOR DOCTOR PEDRO MALLO,379 - Estado Mayor General de la Armada,seguridad_defensa,738,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/20 - Comando Brigada Mecanizada IX,374 - Estado Mayor General del Ejercito,seguridad_defensa,732,Comodoro Rivadavia,Chubut,-45.8625644045819,-67.494000786158,alta,deepseek+georef,1
+49/00 - Instituto Nacional de Vitivinicultura,609 - Instituto Nacional de Vitivinicultura,administracion,724,Mendoza,Mendoza,-32.8897325533642,-68.8444442314254,alta,deepseek+georef,1
+84/99 - Hospital Militar Regional Mendoza,374 - Estado Mayor General del Ejercito,seguridad_defensa,722,Mendoza,Mendoza,-32.8897325533642,-68.8444442314254,alta,denominacion,1
+26/000 - Dirección de Compras y Contrataciones - MRE,307 - Ministerio de Relaciones Exteriores; Comercio Internacional y Culto,administracion,713,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/19 - Comando Brigada de Montaña VIII,374 - Estado Mayor General del Ejercito,seguridad_defensa,710,Mendoza,Mendoza,-32.8897325533642,-68.8444442314254,alta,deepseek+georef,1
+65 - División Suministros y Contrataciones,902 - Hospital Nacional en Red Especializado en Salud Mental y Adicciones Licenciada Laura Bonaparte,salud_social,708,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/37 - Hospital Militar Regional Córdoba,374 - Estado Mayor General del Ejercito,seguridad_defensa,703,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,denominacion,1
+38/37 - Hospital Naval Puerto Belgrano,379 - Estado Mayor General de la Armada,seguridad_defensa,692,Punta Alta,Buenos Aires,-38.8781733532983,-62.0794804613607,alta,deepseek+georef,1
+88/00 - Compras - Instituto Nacional de Rehabilitación Psicofísica del Sur,910 - Instituto Nacional de Rehabilitación Psicofísica del Sur Dr. Juan Otimio Tesone,salud_social,689,Mar del Plata,Buenos Aires,-38.0064494189987,-57.5438377776641,alta,deepseek+georef,1
+35/000 - Dirección General de Administración - MD,370 - Ministerio de Defensa,seguridad_defensa,686,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+Departamento Contrataciones Córdoba - UOC 40/49,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,685,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,denominacion,1
+38/03 - UOC de la Intendencia Naval Puerto Belgrano - Armada Argentina,379 - Estado Mayor General de la Armada,seguridad_defensa,670,Punta Alta,Buenos Aires,-38.8781733532983,-62.0794804613607,alta,deepseek+georef,1
+84/30 - Liceo Militar General Paz,374 - Estado Mayor General del Ejercito,seguridad_defensa,668,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,deepseek+georef,1
+46/08 - 8° La Rioja - DNV,604 - Dirección Nacional de Vialidad,infraestructura,660,La Rioja,La Rioja,-29.412884219358,-66.8558279775847,alta,denominacion,1
+38/021 - Jefatura Militar de la Dirección General de Educación de la Armada,379 - Estado Mayor General de la Armada,seguridad_defensa,651,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+84/28 - Jefatura Agrupación Artillería Antiaérea Ej. 601 - EC,374 - Estado Mayor General del Ejercito,seguridad_defensa,645,Mar del Plata,Buenos Aires,-38.0064494189987,-57.5438377776641,alta,deepseek+georef,1
+38/00 - JEFATURA ADMINISTRATIVA FINANCIERA DE LA ARMADA,379 - Estado Mayor General de la Armada,seguridad_defensa,641,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+28 -  Departamento de Compras y Patrimonio- MTU,322 - Ministerio de Turismo y Deportes,administracion,637,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/018 - UOC PAR,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,636,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+46/07 - 7° Santa Fe - DNV,604 - Dirección Nacional de Vialidad,infraestructura,634,Santa Fe,Santa Fe,-31.6574749533861,-60.7104784410123,alta,denominacion,1
+40/022 - UOC DIL,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,621,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+84/12 - Dirección de Ingenieros e Infraestructura,374 - Estado Mayor General del Ejercito,seguridad_defensa,617,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+67 - Departamento de compras y contrataciones- INCUCAI,905 - Instituto Nacional Central Único Coordinador de Ablación e Implante,salud_social,615,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+38/17 - Escuela Naval Militar,379 - Estado Mayor General de la Armada,seguridad_defensa,615,Río Santiago,Buenos Aires,-34.8513758,-57.8868726,alta,deepseek+nominatim,1
+92 - Departamento de Compras y Contrataciones- BN,116 - Biblioteca Nacional,cultura_educacion,603,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/035 - UOC BASMAR,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,603,Bahía Blanca,Buenos Aires,-38.7227702772442,-62.2727419998288,media,deepseek+georef,0
+40/019 - UOC  RTA,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,601,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+38/5 - División de Compras - Arsenal Aereonaval Comandante Espora,379 - Estado Mayor General de la Armada,seguridad_defensa,593,Bahía Blanca,Buenos Aires,-38.7227702772442,-62.2727419998288,alta,manual,1
+84/128 - Dirección General de Intendencia,374 - Estado Mayor General del Ejercito,seguridad_defensa,591,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+38/008 - Base Naval Zárate,379 - Estado Mayor General de la Armada,seguridad_defensa,588,Zárate,Buenos Aires,-34.0989165196293,-59.0296629320907,alta,denominacion,1
+Departamento Contrataciones Córdoba - UOC 40/51,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,587,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,denominacion,1
+40/9 - por Base Aérea Militar Resistencia,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,573,Resistencia,Chaco,-27.4510757112285,-58.9864835287395,alta,denominacion,1
+84/135 - Dirección General de Material,374 - Estado Mayor General del Ejercito,seguridad_defensa,572,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+95/000 - Dirección de Administración de Niñez; Adolescencia y Familia - SENNAF,311 - Ministerio de Salud y Desarrollo Social,salud_social,572,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/23 - 23° Santa Cruz - DNV,604 - Dirección Nacional de Vialidad,infraestructura,571,Río Gallegos,Santa Cruz,-51.6234632663739,-69.2158645331237,alta,deepseek+georef,0
+46/18 - 18° Chaco - DNV,604 - Dirección Nacional de Vialidad,infraestructura,570,Resistencia,Chaco,-27.4510757112285,-58.9864835287395,alta,deepseek+georef,0
+38/31 - DIRECCION GENERAL DE INTELIGENCIA DE LA ARMADA,379 - Estado Mayor General de la Armada,seguridad_defensa,551,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+38/4 - INTENDENCIA NAVAL MAR DEL PLATA,379 - Estado Mayor General de la Armada,seguridad_defensa,548,Mar del Plata,Buenos Aires,-38.0064494189987,-57.5438377776641,alta,denominacion,1
+38/23 - Licitaciones y Compras - Base Aeronaval Punta Indio,379 - Estado Mayor General de la Armada,seguridad_defensa,547,Punta Indio,Buenos Aires,-35.2685627801267,-57.2474704888542,alta,denominacion,1
+38/22 - Secretaria General de la Armada,379 - Estado Mayor General de la Armada,seguridad_defensa,546,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/21 - 21° La Pampa - DNV,604 - Dirección Nacional de Vialidad,infraestructura,543,Santa Rosa,La Pampa,-36.6204011947334,-64.2906300356297,alta,deepseek+georef,0
+318 - Coordinación de Patrimonio; Compras y Contrataciones - ACUMAR,556 - Autoridad de Cuenca Matanza Riachuelo,infraestructura,540,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/22 - 22° Formosa - DNV,604 - Dirección Nacional de Vialidad,infraestructura,537,Formosa,Formosa,-26.185008983147,-58.1748964834654,alta,denominacion,1
+46/20 - 20° Río Negro - DNV,604 - Dirección Nacional de Vialidad,infraestructura,531,Viedma,Río Negro,-40.8083677299022,-62.9949287297467,alta,deepseek+georef,0
+46/24 - 24° Tierra del Fuego - DNV,604 - Dirección Nacional de Vialidad,infraestructura,524,Ushuaia,Tierra del Fuego,-54.8074039816905,-68.3037571781958,alta,deepseek+georef,0
+84/136 COMANDO GUARNICIÓN MILITAR BUENOS AIRES,374 - Estado Mayor General del Ejercito,seguridad_defensa,521,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/11 - 11° Catamarca - DNV,604 - Dirección Nacional de Vialidad,infraestructura,521,San Fernando del Valle de Catamarca,Catamarca,-28.4690132409229,-65.7789173519908,alta,deepseek+georef,0
+46/15 - 15° Misiones - DNV,604 - Dirección Nacional de Vialidad,infraestructura,519,Posadas,Misiones,-27.3664259799962,-55.8939802751923,alta,deepseek+georef,0
+46/01 - 19° Bahía Blanca - DNV,604 - Dirección Nacional de Vialidad,infraestructura,518,Bahía Blanca,Buenos Aires,-38.7227702772442,-62.2727419998288,alta,denominacion,1
+84/81 - Jefatura Agrupación Comunicaciones 601,374 - Estado Mayor General del Ejercito,seguridad_defensa,517,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+84/31 - Liceo Militar General Belgrano,374 - Estado Mayor General del Ejercito,seguridad_defensa,515,Santa Fe,Santa Fe,-31.6574749533861,-60.7104784410123,alta,deepseek+georef,0
+40/021 - UOC RYD,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,515,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/00 - ADMINISTRACIÓN DE PARQUES NACIONALES - COORDINACIÓN DE CONTRATACIONES,107 - Administración de Parques Nacionales,administracion,507,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+38/16 - Licitaciones y Compras - Base Aeronaval Almirante Zar,379 - Estado Mayor General de la Armada,seguridad_defensa,505,Trelew,Chubut,-43.2531867505795,-65.3093805893395,alta,deepseek+georef,0
+39 - Dirección General de Administración- PNA,380 - Prefectura Naval Argentina,seguridad_defensa,502,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/06 - 6° Jujuy - DNV,604 - Dirección Nacional de Vialidad,infraestructura,499,San Salvador de Jujuy,Jujuy,-24.1858286711634,-65.2994830799205,alta,deepseek+georef,0
+40/032 - AREA LOGISTICA PALOMAR,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,497,El Palomar,Buenos Aires,-34.6108556165017,-58.5956810077115,alta,deepseek+georef,0
+84/18 - Comando de la Brigada de Montaña VI,374 - Estado Mayor General del Ejercito,seguridad_defensa,491,San Martín de los Andes,Neuquén,-40.1569379390652,-71.352714325536,media,deepseek+georef,0
+84/33 - DIRECCION DE INTELIGENCIA OPERACIONAL,374 - Estado Mayor General del Ejercito,seguridad_defensa,488,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+46/03 - 3° Tucumán - DNV,604 - Dirección Nacional de Vialidad,infraestructura,482,San Miguel de Tucumán,Tucumán,-26.8303887617109,-65.2037797033494,alta,deepseek+georef,0
+46/16 - 16° Santiago del Estero - DNV,604 - Dirección Nacional de Vialidad,infraestructura,479,Santiago del Estero,Santiago del Estero,-27.787684474002,-64.259668066644,alta,denominacion,1
+46/19 - 1° Buenos Aires - DNV,604 - Dirección Nacional de Vialidad,infraestructura,475,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/020 - UOC DOZ,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,474,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+32/000 - Dirección General de Administración - MJyDDHH,332 - Ministerio de Justicia y Derechos Humanos,administracion,473,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/71 - Liceo Militar General Roca,374 - Estado Mayor General del Ejercito,seguridad_defensa,467,Comodoro Rivadavia,Chubut,-45.8625644045819,-67.494000786158,media,deepseek+georef,0
+84/11 - Liceo Militar General San Martin,374 - Estado Mayor General del Ejercito,seguridad_defensa,466,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/045 - UOC PAL,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,458,El Palomar,Buenos Aires,-34.6108556165017,-58.5956810077115,media,deepseek+georef,0
+81/100 - DIRECCIÓN GENERAL DE ADMINISTRACIÓN,325 - Ministerio del Interior,administracion,457,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/40 - Comando Brigada Mecanizada X,374 - Estado Mayor General del Ejercito,seguridad_defensa,457,La Plata,Buenos Aires,-34.9154959630273,-57.9479884807815,media,deepseek+georef,0
+34/000 - Dirección General de Administración - MHA,357 - Ministerio de Economía,administracion,446,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+38/26 - Unidad Operativa de Contrataciones - Escuela suboficiales de la Armada,379 - Estado Mayor General de la Armada,seguridad_defensa,445,Puerto Belgrano,Buenos Aires,-38.8778269,-62.090821,alta,deepseek+nominatim,0
+279/000 - Departamento de Compras - PSA,382 - Policia de Seguridad Aeroportuaria,seguridad_defensa,440,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+436 - MINISTERIO DE ECONOMÍA - JUNTA DE SEGURIDAD EN EL TRANSPORTE - COMPRAS,671 - JUNTA DE SEGURIDAD EN EL TRANSPORTE,administracion,433,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/01 - Departamento de Administracion  - Parque Nacional Nahuel Huapi,107 - Administración de Parques Nacionales,administracion,431,San Carlos de Bariloche,Río Negro,-41.1358081611304,-71.3043392567773,alta,deepseek+georef,0
+98/00 - Dir. Compras,101 - Fundación Miguel Lillo,ciencia_universidad,417,San Miguel de Tucumán,Tucumán,-26.8303887617109,-65.2037797033494,alta,deepseek+georef,0
+454/000 - Subdirección de Compras y Contrataciones,207 - Ente Nacional de Comunicaciones,administracion,416,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+315/000 - Dirección General de Administración - MP,362 - Ministerio de Desarrollo Productivo,administracion,414,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/017 - I BRIGADA AEREA PALOMAR,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,413,El Palomar,Buenos Aires,-34.6108556165017,-58.5956810077115,alta,deepseek+georef,0
+40/005 - BASE AEREA MILITAR MORON,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,410,Morón,Buenos Aires,-34.6474573245916,-58.6218615494078,alta,denominacion,1
+84/05 - Comando de la 3ra División de Ejército,374 - Estado Mayor General del Ejercito,seguridad_defensa,404,Paraná,Entre Ríos,-31.7401601621031,-60.5274260494443,media,deepseek+georef,0
+74/34 - Direccion de Lucha Contra Incendios Forestales y Emergencias - Administración de Parques Nacionales,107 - Administración de Parques Nacionales,administracion,403,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+78/000 - División Compras,200 - Registro Nacional de las Personas,administracion,403,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/36 - Escuela Militar de Montaña,374 - Estado Mayor General del Ejercito,seguridad_defensa,402,San Martín de los Andes,Neuquén,-40.1569379390652,-71.352714325536,alta,deepseek+georef,0
+41 - División Compras y Contrataciones-IGN,450 - Instituto Geográfico Nacional,ciencia_universidad,401,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/12 - 12° Neuquen - DNV,604 - Dirección Nacional de Vialidad,infraestructura,397,Neuquén,Neuquén,-38.9518288206176,-68.0591813073308,alta,denominacion,1
+40/030 - UOC LADE,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,396,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+87 - Coordinación de Compras; Contrataciones y Servicios Generales - INCAA,801 - Instituto Nacional de Cine y Artes Audiovisuales - INCAA,cultura_educacion,396,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+392/000 - Dirección General de Administración - AABE,205 - Agencia de Administración de Bienes del Estado,administracion,396,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+44/000 - Gerencia de Servicios Centrales - CNV,602 - Comisión Nacional de Valores,administracion,396,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+90 - Departamento de Compras y Licitaciones-ENOHSA,613 - Ente Nacional de Obras Hídricas de Saneamiento,infraestructura,394,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/147 - ESCUELA MILITAR DE MONTE,374 - Estado Mayor General del Ejercito,seguridad_defensa,392,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+27/000 - Dirección de Patrimonio y Suministros - INDEC,321 - Instituto Nacional de Estadísticas y Censos,administracion,390,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+76/000 - Gerencia de Administración y Capital Humano - SIGEN,109 - Sindicatura General de la Nación,administracion,389,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+30/00 - División Contrataciones - Policia Federal Argentina,326 - Super Intendencia de la Administracion de la Policia Federal,seguridad_defensa,386,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+96 - Dirección General de Administración,908 - Hospital Nacional Dr. Alejandro Posadas,salud_social,376,El Palomar,Buenos Aires,-34.6108556165017,-58.5956810077115,alta,deepseek+georef,1
+43 - Departamento de Compras  - Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares - Ministerio de Defensa,470 - Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares,seguridad_defensa,373,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+75 - Instituto Nacional del Agua - Departamente Compras,108 - Instituto Nacional del Agua,ciencia_universidad,365,Ezeiza,Buenos Aires,-34.8543939582115,-58.524757807358,media,deepseek+georef,0
+40/34 - Base Aérea Militar Río Gallegos,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,362,Río Gallegos,Santa Cruz,-51.6234632663739,-69.2158645331237,alta,denominacion,1
+262/000 - Dirección General de Administración Y Finanzas - MAD,317 - Ministerio de Ambiente y Desarrollo Sostenible,administracion,362,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/10 - 10° Corrientes - DNV,604 - Dirección Nacional de Vialidad,infraestructura,353,Corrientes,Corrientes,-27.4633450136008,-58.8394728460849,alta,denominacion,1
+71 -   Coordinación de Contrataciones y Patrimonio-SSS,914 - Superintendencia de Servicios de Salud,salud_social,353,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+22 - Dpto de Compras y Suministros - Caja de Retiros Jubilaciones y Pensiones de la Policía Federal,250 - Caja de Retiros Jubilaciones y Pensiones de la Policía Federal,seguridad_defensa,345,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/98 - Regimiento de Infantería 1 Patricios,374 - Estado Mayor General del Ejercito,seguridad_defensa,342,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+327 - Departamento de Compras y Contrataciones- ANAC,669 - Administración Nacional de Aviación Civil,administracion,341,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/32 - Liceo Militar General Araoz de Lamadrid,374 - Estado Mayor General del Ejercito,seguridad_defensa,337,San Miguel de Tucumán,Tucumán,-26.8303887617109,-65.2037797033494,media,deepseek+georef,0
+37/001 - Unidad Tecnica Administrativa Contable DNG,375 - Gendarmeria Nacional,seguridad_defensa,336,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+101 - Departamento de Compras y Contrataciones,622 - Instituto Nacional de la Propiedad Industrial,administracion,335,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/29 - Liceo Militar General Espejo,374 - Estado Mayor General del Ejercito,seguridad_defensa,333,Mendoza,Mendoza,-32.8897325533642,-68.8444442314254,media,deepseek+georef,0
+40/037 - INSTITUTO DE FORMACION EZEIZA,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,330,Ezeiza,Buenos Aires,-34.8543939582115,-58.524757807358,alta,denominacion,1
+Servicio Geológico Minero Argentino - Dir. Administración y Finanzas - Compras,624 - Servicio Geológico Minero Argentino,ciencia_universidad,323,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/143-JEFATURA DE AGRUPACION DE ARTILLERIA DE CAMPAÑA 601,374 - Estado Mayor General del Ejercito,seguridad_defensa,319,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+80/000 - Dirección General de Administración - MS,310 - Secretaría de Gobierno de Salud,salud_social,318,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/35 - Instituto Social Militar Dámaso Centeno,374 - Estado Mayor General del Ejercito,seguridad_defensa,312,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/14 - 14° San Luis - DNV,604 - Dirección Nacional de Vialidad,infraestructura,309,San Luis,San Luis,-33.3020864829706,-66.336854573535,alta,denominacion,1
+Departamento Contrataciones Córdoba - UOC 40/52,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,306,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,denominacion,1
+46/05 - 5° Salta - DNV,604 - Dirección Nacional de Vialidad,infraestructura,304,Salta,Salta,-24.7831983811283,-65.4102509654276,alta,denominacion,1
+31/000 - Direccion de Contrataciones - SPF,331 - Servicio Penitenciario Federal,seguridad_defensa,304,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+24/000 - Dirección General de Administración - SEDRONAR,303 - Secretaría de Políticas Integrales Sobre Drogas de la Nación Argentina  (SEDRONAR),salud_social,302,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/003 - Parque Nacional Lanin,107 - Administración de Parques Nacionales,administracion,300,San Martín de los Andes,Neuquén,-40.1569379390652,-71.352714325536,alta,deepseek+georef,0
+84/74 - Sastrería Militar,374 - Estado Mayor General del Ejercito,seguridad_defensa,298,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+289 - Dirección General de Administración-SMN,452 - Servicio Metereológico Nacional,ciencia_universidad,293,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/005 - Escuela De  Gendarmería Nacional Grl D. M.M. De Güemes,375 - Gendarmeria Nacional,seguridad_defensa,286,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+46/09 - 9° San Juan - DNV,604 - Dirección Nacional de Vialidad,infraestructura,284,San Juan,San Juan,-31.5372590360945,-68.5250172058885,alta,denominacion,1
+451/000 - Dirección de Contrataciones,327 - Ministerio de Transporte,infraestructura,282,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/014 - Destacamento Movil 2,375 - Gendarmeria Nacional,seguridad_defensa,279,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+340/001 - Dirección General de Administración - SSSLD,376 - Subsecreataría de Planeamiento Operativo y Servicio Logístico de la Defensa,seguridad_defensa,277,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+50 - Departamento de Compras y Contrataciones,614 - Instituto Nacional de Semillas,administracion,275,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/34 - Regimiento de Granaderos a Caballo,374 - Estado Mayor General del Ejercito,seguridad_defensa,274,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+33/000 - Dirección General de Administración - MT,350 - Secretaría de Gobierno de Trabajo y Empleo,salud_social,270,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+142/000 –Subsecretaria de Gestión Administrativa de Innovación; Ciencia y Tecnología,336 - SECRETARÍA DE INNOVACIÓN; CIENCIA Y TECNOLOGÍA,ciencia_universidad,267,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+300/000 - Dirección General de Administración - SECLyT,338 - Secretaria Legal y Técnica,administracion,266,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/026 - DIRECCION DE VIGILANCIA Y CONTROL DEL AEROESPACIO,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,264,Morón,Buenos Aires,-34.6474573245916,-58.6218615494078,media,deepseek+georef,0
+18 - Area Compras-INAES,114 - Instituto Nacional de Asociativismo y Economía Social,administracion,263,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/009 - Instituto De Capacitación Especializada Cabo Juan Adolfo Romero,375 - Gendarmeria Nacional,seguridad_defensa,262,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+84/138 - Comando de la Fuerza de Despliegue Rápido,374 - Estado Mayor General del Ejercito,seguridad_defensa,262,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+38/28 - Liceo Naval Militar Almirante Storni,379 - Estado Mayor General de la Armada,seguridad_defensa,258,Posadas,Misiones,-27.3664259799962,-55.8939802751923,media,deepseek+georef,0
+37/002 - Unidad Tecnica Administrativa Contable Digeapoyo,375 - Gendarmeria Nacional,seguridad_defensa,256,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+457/000 - SECRETARÍA DE MEDIOS Y COMUNICACIÓN PÚBLICA - COORD. COMPRAS Y CONTRATACIONES,347 - Secretaría de Gobierno del Sistema Federal de Medios y Contenidos Públicos,administracion,252,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/007 - Escuela De Suboficiales Cabo Raúl Remberto Cuello,375 - Gendarmeria Nacional,seguridad_defensa,252,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+64/000 - Departamento de Compras y Contrataciones- SRT,852 - Superintendencia de Riesgos de Trabajo,administracion,250,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/043 - LICEO AERONAUTICO MILITAR,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,249,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,deepseek+georef,0
+37/003 - Centro Asistencial Buenos Aires,375 - Gendarmeria Nacional,seguridad_defensa,249,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/04 - Comando de la 2da División de Ejército,374 - Estado Mayor General del Ejercito,seguridad_defensa,248,Rosario,Santa Fe,-32.9472133838031,-60.6331755763544,media,deepseek+georef,0
+38/11 - División de Compras - Destacamento naval Rio Grande,379 - Estado Mayor General de la Armada,seguridad_defensa,248,Río Grande,Tierra del Fuego,-53.7863260891398,-67.6963281355519,alta,denominacion,1
+37/083 - Secretaria General,375 - Gendarmeria Nacional,seguridad_defensa,246,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/072 - Servicio De Aviación,375 - Gendarmeria Nacional,seguridad_defensa,245,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+494 - Área de Compras y Contrataciones,121 - Banco Nacional de Datos Genéticos,ciencia_universidad,242,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/02 - IGUAZU- OFICINA DE ADMINISTRACION,107 - Administración de Parques Nacionales,administracion,237,Puerto Iguazú,Misiones,-25.5972100979327,-54.5772230013845,alta,deepseek+georef,0
+38/030 - Fragata A.R.A. Libertad,379 - Estado Mayor General de la Armada,seguridad_defensa,232,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+83/000 - Dirección General de Administración Financiera - MC,337 - Secretaría de Gobierno de Cultura,cultura_educacion,231,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/10 - INTENDENCIA EL PALMAR,107 - Administración de Parques Nacionales,administracion,230,Concordia,Entre Ríos,-31.3974508914818,-58.0172034297914,media,deepseek+georef,0
+483 - Compras,917 - Agencia Nacional de Discapacidad,salud_social,224,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+46/02 - 2° Córdoba - DNV,604 - Dirección Nacional de Vialidad,infraestructura,222,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,denominacion,1
+84/41 - Contaduría general del Ejercito,374 - Estado Mayor General del Ejercito,seguridad_defensa,220,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+56 - Compras y Contrataciones - ENRE,652 - Ente Nacional Regulador de la Electricidad,administracion,218,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/013 - Comando De Región II,375 - Gendarmeria Nacional,seguridad_defensa,217,Rosario,Santa Fe,-32.9472133838031,-60.6331755763544,media,deepseek+georef,0
+40/023 - VII BRIGADA AEREA MORENO,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,216,Moreno,Buenos Aires,-34.6469059433022,-58.7889292381186,alta,denominacion,1
+501/000-Ministerio de Obras Públicas,364-Ministerio de Obras Públicas,infraestructura,215,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/46 - Parque Nacional Iberá,107 - Administración de Parques Nacionales,administracion,208,Colonia Carlos Pellegrini,Corrientes,-28.5372356876725,-57.1713500894698,media,deepseek+georef,0
+263 - Unidad Operativa de Compras-SENAF,341 - Secretaría Nacional de Niñez; Adolescencia y Familia,salud_social,203,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+500/000-Ministerio de las Mujeres; Géneros y Diversidad - Dirección de Compras; Contrataciones; Patrimonio y Suministros,386-Ministerio de las Mujeres; Géneros y Diversidad,salud_social,196,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+38/034 - Arsenal Naval Mar del Plata,379 - Estado Mayor General de la Armada,seguridad_defensa,194,Mar del Plata,Buenos Aires,-38.0064494189987,-57.5438377776641,alta,denominacion,1
+37/010 - Comando De Región I,375 - Gendarmeria Nacional,seguridad_defensa,194,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+26/000 - Dirección de Compras y Contrataciones - MRE,307 - Ministerio de Relaciones Exteriores y Culto,administracion,192,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+488 - Coordinación de Compras y Contrataciones,349 - Procuración del Tesoro de la Nación,administracion,189,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/105 - Direccion De Criminalistica Y Estudios Forenses,375 - Gendarmeria Nacional,seguridad_defensa,186,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+AGRUPACION CENTINELA II,375 - Gendarmeria Nacional,seguridad_defensa,185,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+502/000-Dirección de Compras y Contrataciones - MDTYH,365-Ministerio de Desarrollo Territorial y Hábitat,infraestructura,184,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/25 - Parque Nacional Ciervo de los Pantanos,107 - Administración de Parques Nacionales,administracion,181,Campana,Buenos Aires,-34.1636631,-58.9586837,media,deepseek+nominatim,0
+74/04 - Parque Nacional Los Alerces,107 - Administración de Parques Nacionales,administracion,180,Esquel,Chubut,-42.9173207104894,-71.3215725535306,alta,deepseek+georef,0
+40/11 - UOC DPTO CDR,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,179,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/28 - Parque Nacional Río Pilcomayo,107 - Administración de Parques Nacionales,administracion,179,Clorinda,Formosa,-25.2860808806453,-57.7224081997743,media,deepseek+georef,0
+38/35 - Escuela Nacional de Pesca - Armada Argentina,379 - Estado Mayor General de la Armada,seguridad_defensa,177,Mar del Plata,Buenos Aires,-38.0064494189987,-57.5438377776641,alta,deepseek+georef,0
+45 - Dirección General de Administración-SSN,603 - Superintendencia de Seguros de la Nación,administracion,173,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+313/00 - AGENCIA NACIONAL DE SEGURIDAD VIAL - DEP. DE COMPRAS,203 - Agencia Nacional de Seguridad Vial,administracion,172,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/27 - Parque Nacional Chaco,107 - Administración de Parques Nacionales,administracion,171,Capitán Solari,Chaco,-26.8023878089949,-59.5570832354769,media,deepseek+georef,0
+34/000 - Dirección General de Administración - MHA,357- Ministerio de Hacienda,administracion,168,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/047 - Jefatura De Agrupación X San Juan,375 - Gendarmeria Nacional,seguridad_defensa,167,San Juan,San Juan,-31.5372590360945,-68.5250172058885,alta,denominacion,1
+74/17 - Parque Nacional Talampaya,107 - Administración de Parques Nacionales,administracion,167,Villa Unión,La Rioja,-29.3165749850402,-68.2273993332811,alta,deepseek+georef,0
+334/000 - Coordinación de Compras y Contrataciones - MA,363 - Ministerio de Agricultura; Ganadería y Pesca,administracion,165,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/038 - Escuadrón 20 Orán,375 - Gendarmeria Nacional,seguridad_defensa,164,Orán,Salta,-23.33267,-64.3165433,alta,deepseek+nominatim,1
+74/44 - Parque Nacional el Impenetrable,107 - Administración de Parques Nacionales,administracion,162,Juan José Castelli,Chaco,-25.9465789293466,-60.6200670449467,media,deepseek+georef,0
+37/040 - Escuadrón 52 Tartagal,375 - Gendarmeria Nacional,seguridad_defensa,160,Tartagal,Salta,-22.5168183262948,-63.8056049178567,alta,denominacion,1
+466/000 - Dirección Nacional de Administración,208 - Agencia Nacional de Materiales Controlados,administracion,158,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/31 - Parque Nacional Lihué Calel,107 - Administración de Parques Nacionales,administracion,158,Lihué Calel,La Pampa,-38.0041979,-65.5948505,alta,denominacion,1
+37/017 - Escuadrón 47 Ituzaingo,375 - Gendarmeria Nacional,seguridad_defensa,158,Ituzaingó,Corrientes,-27.5851000792357,-56.68704523972,alta,denominacion,1
+38/029 - Zona Naval Santa Cruz,379 - Estado Mayor General de la Armada,seguridad_defensa,157,Río Gallegos,Santa Cruz,-51.6234632663739,-69.2158645331237,alta,deepseek+georef,0
+60 - Oficina de Compras y Contrataciones - CONEAU,804 - Comisión Nacional de Evaluación y Acreditación Universitaria,ciencia_universidad,156,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+82 - DIRECCIÓN GENERAL DE ADMINISTRACIÓN,330 - Ministerio de Educación; Cultura; Ciencia y Tecnología,cultura_educacion,153,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/061 - Escuadrón 34 Bariloche,375 - Gendarmeria Nacional,seguridad_defensa,152,San Carlos de Bariloche,Río Negro,-41.1358081611304,-71.3043392567773,alta,deepseek+georef,1
+36 - Departamento de Compras y Contrataciones - CITEDEF,372 - Instituto de Investigaciones Científicas y Técnicas para la Defensa,seguridad_defensa,150,Villa Martelli,Buenos Aires,-34.5513042797618,-58.5066267194854,alta,deepseek+georef,0
+71 -   Coordinación de Contrataciones y Patrimonio-SSS,914 - Superintendecia de Servicios de Salud,salud_social,150,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+24/000 - Dirección General de Administración - SEDRONAR,303 - Secretaría de Políticas Integrales sobre Drogas,salud_social,149,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+81/100 - DIRECCIÓN GENERAL DE ADMINISTRACIÓN,325 - Ministerio del Interior; Obras Públicas y Vivienda,infraestructura,148,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/051 - Escuadrón 27 Uspallata,375 - Gendarmeria Nacional,seguridad_defensa,147,Uspallata,Mendoza,-32.5911328492886,-69.3478325007629,alta,denominacion,1
+74/35 - Parque Nacional Copo,107 - Administración de Parques Nacionales,administracion,146,Pampa del Infierno,Chaco,-26.5035583962904,-61.1765724474723,media,deepseek+georef,0
+37/036 - Destacamento Movil 5,375 - Gendarmeria Nacional,seguridad_defensa,146,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+37/037 - Jefatura De Agrupación VII Salta,375 - Gendarmeria Nacional,seguridad_defensa,144,Salta,Salta,-24.7831983811283,-65.4102509654276,alta,denominacion,1
+84/105 - DISTRITO ELECTORAL - SALTA,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,144,Salta,Salta,-24.7831983811283,-65.4102509654276,alta,denominacion,1
+84/142 - Regimiento de Artillería 1,374 - Estado Mayor General del Ejercito,seguridad_defensa,143,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+84/109 - COMANDO GENERAL ELECTORAL,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,142,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/050 - Jefatura De Agrupación XI Cuyo,375 - Gendarmeria Nacional,seguridad_defensa,142,Mendoza,Mendoza,-32.8897325533642,-68.8444442314254,alta,deepseek+georef,0
+450/000 - Dirección General de Administración y Finanzas,366 - Secretaría de Innovación Pública,administracion,139,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/115 - Escuadron 60 San Pedro,375 - Gendarmeria Nacional,seguridad_defensa,138,San Pedro,Buenos Aires,-33.6759480318045,-59.6630158141548,alta,denominacion,1
+37/025 - Escuadrón 9 Oberá,375 - Gendarmeria Nacional,seguridad_defensa,137,Oberá,Misiones,-27.4867909555976,-55.1200569831231,alta,denominacion,1
+37/060 - Escuadrón 33 San Martin De Los Andes,375 - Gendarmeria Nacional,seguridad_defensa,136,San Martín de los Andes,Neuquén,-40.1569379390652,-71.352714325536,alta,denominacion,1
+38/13 - Centro de instrucción y adiestramiento en técnicas y tácticas navales,379 - Estado Mayor General de la Armada,seguridad_defensa,134,Puerto Belgrano,Buenos Aires,-38.8778269,-62.090821,media,deepseek+nominatim,0
+37/019 - Jefatura De Agrupación V Entre Rios,375 - Gendarmeria Nacional,seguridad_defensa,134,Paraná,Entre Ríos,-31.7401601621031,-60.5274260494443,alta,deepseek+georef,0
+37/078 - Escuadrón 57 Santo Tome,375 - Gendarmeria Nacional,seguridad_defensa,131,Santo Tomé,Corrientes,-28.5498158069218,-56.0348110765932,alta,denominacion,1
+74/20 - Parque Nacional Quebrada del Condorito,107 - Administración de Parques Nacionales,administracion,129,Parque Nacional Quebrada del Condorito,Córdoba,-31.6687529,-64.7702443,alta,denominacion,1
+368/000 - Dirección General de Administración - UIF,670 - Unidad de Información Financiera,administracion,129,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/110 - Jefatura De Agrupacion XV Santa Fe,375 - Gendarmeria Nacional,seguridad_defensa,128,Santa Fe,Santa Fe,-31.6574749533861,-60.7104784410123,alta,denominacion,1
+37/109 - Jefatura De Agrupacion XVII Santiago Del Estero,375 - Gendarmeria Nacional,seguridad_defensa,128,Santiago del Estero,Santiago del Estero,-27.787684474002,-64.259668066644,alta,denominacion,1
+37/026 - Escuadrón 10 Eldorado,375 - Gendarmeria Nacional,seguridad_defensa,127,Eldorado,Misiones,-26.4088769640649,-54.6070530398259,alta,denominacion,1
+37/111 - Agrupación Mantenimiento y Capacitación de Tecnologías de la  Información y Comunicaciones,375 - Gendarmeria Nacional,seguridad_defensa,127,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/027 - Escuadrón 11 San Ignacio,375 - Gendarmeria Nacional,seguridad_defensa,125,San Ignacio,Misiones,-27.2586133303264,-55.5389747941103,alta,denominacion,1
+37/064 - Escuadrón 36 Esquel,375 - Gendarmeria Nacional,seguridad_defensa,124,Esquel,Chubut,-42.9173207104894,-71.3215725535306,alta,denominacion,1
+58 - Dto de compras y contrataciones  - ORSNA,664 - Organismo Regulador del Sistema Nacional de Aeropuertos,administracion,122,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/018 - Escuadron 7 Pasos De Los Libres,375 - Gendarmeria Nacional,seguridad_defensa,122,Paso de los Libres,Corrientes,-29.7137148107283,-57.085405398509,alta,deepseek+georef,1
+88/00 - Compras - Instituto Nacional de Rehabilitación Psicofísica del Sur,910 - Instituto Nacional de Rehabilitación Psicofísica del Sur DR. Juan otimio Tessone,salud_social,120,Mar del Plata,Buenos Aires,-38.0064494189987,-57.5438377776641,alta,deepseek+georef,1
+74/09 - INTENDENCIA LAGO PUELO,107 - Administración de Parques Nacionales,administracion,120,Lago Puelo,Chubut,-42.0601321615066,-71.5971400319398,alta,denominacion,1
+37/042 - Escuadrón 54 Aguaray,375 - Gendarmeria Nacional,seguridad_defensa,120,Aguaray,Salta,-22.2448726575794,-63.7353344088724,alta,denominacion,1
+37/029 - Escuadrón 13 Iguazú,375 - Gendarmeria Nacional,seguridad_defensa,120,Puerto Iguazú,Misiones,-25.5972100979327,-54.5772230013845,alta,deepseek+georef,1
+37/015 - Jefatura De Agrupacion III Corrientes,375 - Gendarmeria Nacional,seguridad_defensa,115,Corrientes,Corrientes,-27.4633450136008,-58.8394728460849,alta,denominacion,1
+380/000 - COMPRAS Y CONTRATACIONES - CNCPS,345 - Consejo Nacional de Coordinación de Politicas Sociales,salud_social,114,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/011 - Destacamento Movil 1,375 - Gendarmeria Nacional,seguridad_defensa,114,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/095 - Escuadrón 22 San Antonio De Los Cobres,375 - Gendarmeria Nacional,seguridad_defensa,112,San Antonio de los Cobres,Salta,-24.2161442771278,-66.3210644859191,alta,denominacion,1
+37/121 - Instituto De Formacion De Gendarmes Gendarmes Felix Manifior,375 - Gendarmeria Nacional,seguridad_defensa,112,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+91/00 - Departamento de Compras; Mantenimiento y Suministros,103 - Consejo Nacional de Investigaciones Científicas y Técnicas,ciencia_universidad,111,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/129 - Agrupación Fuerza de Operaciones Especiales,375 - Gendarmeria Nacional,seguridad_defensa,111,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+84/116 - DISTRITO ELECTORAL - SANTA FE,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,110,Santa Fe,Santa Fe,-31.6574749533861,-60.7104784410123,alta,denominacion,1
+37/093 - Escuadron Seguridad Vial Autopistas Sur,375 - Gendarmeria Nacional,seguridad_defensa,109,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/079 - Jefatura De Agrupación IX Jujuy,375 - Gendarmeria Nacional,seguridad_defensa,107,San Salvador de Jujuy,Jujuy,-24.1858286711634,-65.2994830799205,alta,deepseek+georef,0
+74/26 - Parque Nacional Mburucuya,107 - Administración de Parques Nacionales,administracion,105,Mburucuyá,Corrientes,-28.0468575823017,-58.2303056698416,alta,denominacion,1
+37/071 - Agrupación Unidades Operativas Buenos Aires,375 - Gendarmeria Nacional,seguridad_defensa,105,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/119 - Gendarmería Nacional - Escuadrón 61 Salvador Mazza,375 - Gendarmeria Nacional,seguridad_defensa,104,Profesor Salvador Mazza,Salta,-22.0516570030053,-63.6918927739648,alta,manual,1
+490 - Agencia de Acceso a la Información Pública,209 - Agencia de Acceso a la Información Pública,administracion,104,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/32 - PARQUE NACIONAL MONTE LEÓN,107 - Administración de Parques Nacionales,administracion,102,Monte León,Santa Cruz,-50.2198834,-68.9400934,alta,denominacion,1
+37/030 - Jefatura De Agrupación VIFormosa,375 - Gendarmeria Nacional,seguridad_defensa,101,Formosa,Formosa,-26.185008983147,-58.1748964834654,alta,denominacion,1
+37/118 - Unidad Especial De Transporte Macacha Guemes,375 - Gendarmeria Nacional,seguridad_defensa,101,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/006 - Escuela Superior De Gn Grl Br D. M.M. Calderón,375 - Gendarmeria Nacional,seguridad_defensa,101,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+28 -  Departamento de Compras y Patrimonio- MTU,322 - Secretaría de Gobierno de Turismo,administracion,100,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/052 - Escuadrón 28 Tunuyan,375 - Gendarmeria Nacional,seguridad_defensa,100,Tunuyán,Mendoza,-33.5812531556326,-69.0153685595424,alta,denominacion,1
+182 - Departamento de Compras y Contrataciones- INADI,202 - Instituto Nacional contra la Discriminación; la Xenofobia y el Racismo,administracion,99,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/032 - Escuadrón 16 Clorinda,375 - Gendarmeria Nacional,seguridad_defensa,99,Clorinda,Formosa,-25.2860808806453,-57.7224081997743,alta,denominacion,1
+37/41 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO ESCUADRÓN 53 JUJUY,375 - Gendarmeria Nacional,seguridad_defensa,99,San Salvador de Jujuy,Jujuy,-24.1858286711634,-65.2994830799205,alta,deepseek+georef,1
+84/148 ESCUELA DE TROPAS AEROTRANSPORTADAS Y OPERACIONES ESPECIALES,374 - Estado Mayor General del Ejercito,seguridad_defensa,99,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+37/020 - Escuadrón 4 Concordia,375 - Gendarmeria Nacional,seguridad_defensa,98,Concordia,Entre Ríos,-31.3974508914818,-58.0172034297914,alta,denominacion,1
+37/125 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO ESCUADRÓN 45 SALTA,375 - Gendarmeria Nacional,seguridad_defensa,98,Salta,Salta,-24.7831983811283,-65.4102509654276,alta,denominacion,1
+20 - Dirección General de Administración - INT,117 - Instituto Nacional del Teatro,cultura_educacion,98,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/084 - Escuadrón 14 Las Palmas,375 - Gendarmeria Nacional,seguridad_defensa,97,La Leonesa,Chaco,-27.0381487234311,-58.7072486236073,alta,manual,1
+37/134 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO ESCUADRÓN 65 CORDOBA,375 - Gendarmeria Nacional,seguridad_defensa,96,Sinsacate,Córdoba,-30.9429292725557,-64.0940329405365,alta,manual,1
+37/024 - Escuadrón 8 Alto Uruguay,375 - Gendarmeria Nacional,seguridad_defensa,96,Concepción de la Sierra,Misiones,-27.9805783904721,-55.5215882217731,alta,manual,1
+37/046 - Escuadrón 24 Chilecito,375 - Gendarmeria Nacional,seguridad_defensa,95,Chilecito,La Rioja,-29.162385830377,-67.4993074296546,alta,denominacion,1
+37/131 - Jefatura De Agrupación XXI  “Santa Fe Norte,375 - Gendarmeria Nacional,seguridad_defensa,95,Reconquista,Santa Fe,-29.1445173299237,-59.6435478986104,media,deepseek+georef,0
+84/141 - Jefatura Agrupación de Ingenieros 601,374 - Estado Mayor General del Ejercito,seguridad_defensa,94,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+450/000 - Dirección General de Administración y Finanzas,366 - Secretaría de Gobierno de Modernización,administracion,94,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/073 - Operativo Centinela (Jefatura Zona Oeste),375 - Gendarmeria Nacional,seguridad_defensa,94,La Matanza,Buenos Aires,-34.6776067204493,-58.5610082406866,media,deepseek+georef,0
+37/023 - Jefatura De Agrupación Iv Misiones,375 - Gendarmeria Nacional,seguridad_defensa,92,Posadas,Misiones,-27.3664259799962,-55.8939802751923,alta,deepseek+georef,0
+37/021 - Escuadrón 6 Concepción Del Uruguay,375 - Gendarmeria Nacional,seguridad_defensa,92,Concepción del Uruguay,Entre Ríos,-32.4846612655344,-58.2321207793941,alta,denominacion,1
+59 - Compras-FNA,802 - Fondo Nacional de las Artes,cultura_educacion,92,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/77 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO ESCUADRÓN 48 CORRIENTES,375 - Gendarmeria Nacional,seguridad_defensa,91,Corrientes,Corrientes,-27.4633450136008,-58.8394728460849,alta,denominacion,1
+37/000 - Departamento Contrataciones,375 - Gendarmeria Nacional,seguridad_defensa,91,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+95/000 - Dirección de Administración de Niñez; Adolescencia y Familia - SENNAF,311 - Desarrollo Humano y Economía Solidaria,salud_social,91,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+503 - SECRETARÍA DE COMUNICACIÓN Y MEDIOS - DIRECCIÓN DE COMPRAS; CONTRATACIONES; PATRIMONIO Y SUMINISTROS,368 - SECRETARÍA DE COMUNICACIÓN Y MEDIOS DE LA PRESIDENCIA DE LA NACIÓN,administracion,90,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/044 - Jefatura De Agrupación  VIII Catamarca,375 - Gendarmeria Nacional,seguridad_defensa,90,San Fernando del Valle de Catamarca,Catamarca,-28.4690132409229,-65.7789173519908,alta,deepseek+georef,0
+37/106 - Direccion General De Inteligencia Criminal E Investigaciones,375 - Gendarmeria Nacional,seguridad_defensa,89,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/097 - Comando De Región IV,375 - Gendarmeria Nacional,seguridad_defensa,89,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/19 - Parque Nacional El Leoncito,107 - Administración de Parques Nacionales,administracion,87,Barreal,San Juan,-31.6447415,-69.4721794,alta,deepseek+nominatim,0
+315/000 - Dirección General de Administración - MP,362 - Ministerio de Producción y Trabajo,administracion,87,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/113 - Jefatura De Agrupacion XXVIII Chaco,375 - Gendarmeria Nacional,seguridad_defensa,87,Resistencia,Chaco,-27.4510757112285,-58.9864835287395,alta,deepseek+georef,0
+74/29 - Parque Nacional Laguna Blanca,107 - Administración de Parques Nacionales,administracion,87,Laguna Blanca,Catamarca,-26.5869996,-66.9413064,alta,denominacion,1
+37/063 - Jefatura De Agrupación XIV Chubut,375 - Gendarmeria Nacional,seguridad_defensa,87,Rawson,Chubut,-43.3052236685054,-65.1036957322757,alta,deepseek+georef,0
+85/000 - Dirección General de Administracion,620 - Tribunal Fiscal de la Nación,administracion,87,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/031 - OUC INFRA,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,86,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/085 - Escuadrón 37 Jose De San Martin,375 - Gendarmeria Nacional,seguridad_defensa,86,José de San Martín,Chubut,-44.0514653137899,-70.4707413513195,alta,denominacion,1
+262/000 - Dirección General de Administración Y Finanzas - MAD,317 - Secretaría de Gobierno de Ambiente y Desarrollo Sustentable,administracion,85,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/112 - Dirección de Tecnologías de la Información y Comunicaciones,375 - Gendarmeria Nacional,seguridad_defensa,85,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/122 - JEFATURA DE REGIÓN VI,375 - Gendarmeria Nacional,seguridad_defensa,84,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/062 - Escuadrón 35 El Bolson,375 - Gendarmeria Nacional,seguridad_defensa,84,El Bolsón,Río Negro,-41.9650216282198,-71.5343635899288,alta,denominacion,1
+142/000 –Subsecretaria de Gestión Administrativa de Innovación; Ciencia y Tecnología,336 - Secretaría de Gobierno de Ciencia; Tecnología e Innovación Productiva,ciencia_universidad,83,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/133 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO ESCUADRÓN 64 MENDOZA,375 - Gendarmeria Nacional,seguridad_defensa,83,Mendoza,Mendoza,-32.8897325533642,-68.8444442314254,alta,denominacion,1
+37/094 - Centro De Reconocimiento Y Operaciones Contra El Narcotrafico,375 - Gendarmeria Nacional,seguridad_defensa,83,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+84/42 - CENTRO DE EDUCACION OPERACIONAL DUQUE DE CAXIAS,374 - Estado Mayor General del Ejercito,seguridad_defensa,82,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+74/11 - Dirección Regional Patagonia Norte - APN,107 - Administración de Parques Nacionales,administracion,81,San Carlos de Bariloche,Río Negro,-41.1358081611304,-71.3043392567773,alta,deepseek+georef,0
+37/102 - Destacamento Movil 6,375 - Gendarmeria Nacional,seguridad_defensa,80,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/108 - Dirección De Educación E Institutos,375 - Gendarmeria Nacional,seguridad_defensa,80,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+38/10 - Unidad Operativa de Contrataciones - Escuela de Oficiales de la Armada,379 - Estado Mayor General de la Armada,seguridad_defensa,80,Puerto Belgrano,Buenos Aires,-38.8778269,-62.090821,media,deepseek+nominatim,0
+37/048 - Escuadrón 25 Jachal,375 - Gendarmeria Nacional,seguridad_defensa,80,San José de Jáchal,San Juan,-30.2417460758843,-68.7464564792971,alta,manual,1
+74/45 - Parque Nacional Islas de Santa Fe,107 - Administración de Parques Nacionales,administracion,79,Santa Fe,Santa Fe,-31.6574749533861,-60.7104784410123,alta,denominacion,1
+334/000 - Coordinación de Compras y Contrataciones - MA,363 - Secretaría de Gobierno de Agroindustria,administracion,78,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/028 - Escuadrón 12 Bernardo De Irigoyen,375 - Gendarmeria Nacional,seguridad_defensa,78,Bernardo de Irigoyen,Misiones,-26.255330197167,-53.6467345738917,alta,denominacion,1
+37/008 - Destacamento Movil 3,375 - Gendarmeria Nacional,seguridad_defensa,78,,,,,baja,sin_resolver,0
+37/098 - Escuadron 1 Roque Saenz Peña,375 - Gendarmeria Nacional,seguridad_defensa,78,Presidencia Roque Sáenz Peña,Chaco,-26.7909717754736,-60.4412483249411,alta,manual,1
+74/15 - Parque Nacional Sierra de las Quijadas - Dpto. Administracion,107 - Administración de Parques Nacionales,administracion,78,San Luis,San Luis,-33.3020864829706,-66.336854573535,alta,deepseek+georef,0
+37/053 - Escuadrón 29 Malargüe,375 - Gendarmeria Nacional,seguridad_defensa,77,Malargüe,Mendoza,-35.4683739980962,-69.5847075525399,alta,denominacion,1
+40/001 - UOC DPTO CDR,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,77,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/059 - Escuadrón 32 Alumine,375 - Gendarmeria Nacional,seguridad_defensa,76,Aluminé,Neuquén,-39.2384698023024,-70.9159526192148,alta,denominacion,1
+37/031 - Escuadrón 5 Pirané,375 - Gendarmeria Nacional,seguridad_defensa,76,Pirané,Formosa,-25.7326498192715,-59.1098080633516,alta,denominacion,1
+42/02 -  Fabrica Militar Rio Tercero,451 - Dirección General de Fabricaciones Militares,seguridad_defensa,76,Río Tercero,Córdoba,-32.1767393738221,-64.1129628407675,alta,denominacion,1
+37/101 - Escuadron 41 Comodoro Rivadavia,375 - Gendarmeria Nacional,seguridad_defensa,76,Comodoro Rivadavia,Chubut,-45.8625644045819,-67.494000786158,alta,denominacion,1
+37/043 - Escuadrón 55 Tucumán,375 - Gendarmeria Nacional,seguridad_defensa,75,San Miguel de Tucumán,Tucumán,-26.8303887617109,-65.2037797033494,alta,deepseek+georef,1
+74/8 - Parque Nacional Los Glaciares,107 - Administración de Parques Nacionales,administracion,75,El Calafate,Santa Cruz,-50.3380295398274,-72.2606652422011,alta,deepseek+georef,0
+37/086 - Escuadrón Seguridad Vial Rafaela,375 - Gendarmeria Nacional,seguridad_defensa,75,Rafaela,Santa Fe,-31.2526675330419,-61.4916615599108,alta,denominacion,1
+37/049 - Escuadrón 26 Barreal,375 - Gendarmeria Nacional,seguridad_defensa,75,Barreal,San Juan,-31.6447415,-69.4721794,alta,denominacion,1
+37/035 - Jefatura de Región III,375 - Gendarmeria Nacional,seguridad_defensa,74,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/066 - Jefatura De Agrupacion XVISanta Cruz,375 - Gendarmeria Nacional,seguridad_defensa,73,Río Gallegos,Santa Cruz,-51.6234632663739,-69.2158645331237,media,deepseek+georef,0
+37/130 JEFATURA DE REGION VIII,375 - Gendarmeria Nacional,seguridad_defensa,73,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+457/000 - SECRETARÍA DE MEDIOS Y COMUNICACIÓN PÚBLICA - COORD. COMPRAS Y CONTRATACIONES,347 - Secretaría de Medios y Comunicación Pública,administracion,73,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/36 - Reserva Natural Formosa,107 - Administración de Parques Nacionales,administracion,73,Formosa,Formosa,-26.185008983147,-58.1748964834654,alta,denominacion,1
+29/000 - Dirección General de Administracion,323 - Comision Nacional de Comercio Exterior,administracion,72,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/121 - DISTRITO ELECTORAL - CHUBUT,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,72,Rawson,Chubut,-43.3052236685054,-65.1036957322757,media,deepseek+georef,0
+74/6 - Parque Nacional Calilegua,107 - Administración de Parques Nacionales,administracion,72,Calilegua,Jujuy,-23.7745688572598,-64.7700370415998,alta,denominacion,1
+37/022 - Escuadrón 56 Gualeguaychú,375 - Gendarmeria Nacional,seguridad_defensa,70,Gualeguaychú,Entre Ríos,-33.0077976973495,-58.5107700863228,alta,denominacion,1
+37/057 - Escuadrón 30 Chos Malal,375 - Gendarmeria Nacional,seguridad_defensa,70,Chos Malal,Neuquén,-37.3748278814013,-70.2763310746376,alta,denominacion,1
+37/100 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO ESCUADRÓN 59 SANTIAGO DEL ESTERO,375 - Gendarmeria Nacional,seguridad_defensa,70,Santiago del Estero,Santiago del Estero,-27.787684474002,-64.259668066644,alta,denominacion,1
+74/52 - PARQUE FEDERAL CAMPO SAN JUAN,107 - Administración de Parques Nacionales,administracion,69,Campo San Juan,Misiones,-27.3965483,-55.649989,alta,denominacion,1
+160 - Gestión de compras- TTN,612 - Tribunal de Tasaciones de la Nación,administracion,68,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/127 - Jefatura De Agrupación XX Cordoba,375 - Gendarmeria Nacional,seguridad_defensa,68,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,denominacion,1
+37/128 - Escuadron Seguridad Vial Villa Maria,375 - Gendarmeria Nacional,seguridad_defensa,68,Villa María,Córdoba,-32.4135041930881,-63.248329032642,alta,denominacion,1
+84/113 - DISTRITO ELECTORAL - SANTIAGO DEL ESTERO,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,68,Santiago del Estero,Santiago del Estero,-27.787684474002,-64.259668066644,alta,denominacion,1
+37/004 - Unidad De Inteligencia Buenos Aires Sur,375 - Gendarmeria Nacional,seguridad_defensa,68,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+84/122 - DISTRITO ELECTORAL - CORDOBA,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,66,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,denominacion,1
+84/102 - DISTRITO ELECTORAL - MENDOZA,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,66,Mendoza,Mendoza,-32.8897325533642,-68.8444442314254,alta,denominacion,1
+74/18 - CENTRO DE FORMACION Y CAPACITACION EMBALSE,107 - Administración de Parques Nacionales,administracion,65,Embalse,Córdoba,-32.206746994887,-64.4006426100595,alta,denominacion,1
+37/082 - Escuadrón Segurdad Atucha,375 - Gendarmeria Nacional,seguridad_defensa,65,Lima,Buenos Aires,-34.0447948866739,-59.1961491544738,media,deepseek+georef,0
+84/123 - DISTRITO ELECTORAL - CORRIENTES,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,65,Corrientes,Corrientes,-27.4633450136008,-58.8394728460849,alta,denominacion,1
+84/124 - DISTRITO ELECTORAL - ENTRE RIOS,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,65,Paraná,Entre Ríos,-31.7401601621031,-60.5274260494443,media,deepseek+georef,0
+58/01 - Fideicomiso- ORSNA,664 - Organismo Regulador del Sistema Nacional de Aeropuertos,administracion,65,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+40/023 - DIVISIÓN CONTRATACIONES MORENO,381 - Estado Mayor General de La Fuerza Aérea,seguridad_defensa,65,Moreno,Buenos Aires,-34.6469059433022,-58.7889292381186,alta,denominacion,1
+37/136 - ESCUADRON 49 SAN VICENTE,375 - Gendarmeria Nacional,seguridad_defensa,65,San Vicente,Buenos Aires,-35.0259018058616,-58.4224036148088,alta,denominacion,1
+37/76 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO ESCUADRÓN 15 BAJO PARAGUAY,375 - Gendarmeria Nacional,seguridad_defensa,64,Formosa,Formosa,-26.185008983147,-58.1748964834654,alta,manual,1
+37/80 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO ESCUADRÓN 46 ROSARIO-VICTORIA,375 - Gendarmeria Nacional,seguridad_defensa,64,Rosario,Santa Fe,-32.9472133838031,-60.6331755763544,alta,denominacion,1
+37/091 - Escuadrón Seguridad Vial San Justo,375 - Gendarmeria Nacional,seguridad_defensa,64,San Justo,Santa Fe,-30.7891711509703,-60.5933005911998,alta,denominacion,1
+37/126 - Centro De Apoyo Y Adiestramiento Antidrogas General Mosconi,375 - Gendarmeria Nacional,seguridad_defensa,63,General Mosconi,Salta,-22.5995511048695,-63.8113270912528,alta,denominacion,1
+143/000 - AGENCIA NACIONAL DE PROMOCIÓN DE LA INVESTIGACIÓN; EL DESARROLLO TECNOLÓGICO Y LA INNOVACIÓN,173 - AGENCIA NACIONAL DE PROMOCIÓN DE LA INVESTIGACIÓN; EL DESARROLLO TECNOLÓGICO Y LA INNOVACIÓN,ciencia_universidad,63,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/112 - DISTRITO ELECTORAL - SAN LUIS,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,63,San Luis,San Luis,-33.3020864829706,-66.336854573535,alta,denominacion,1
+37/039 - Escuadrón 21 La Quiaca,375 - Gendarmeria Nacional,seguridad_defensa,63,La Quiaca,Jujuy,-22.1044517820432,-65.5963734749511,alta,denominacion,1
+50 - Departamento de Compras y Contrataciones,614 - Instituto Nacional de las Semillas,administracion,63,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/069 - Escuadrón 43 Rio Turbio,375 - Gendarmeria Nacional,seguridad_defensa,63,Río Turbio,Santa Cruz,-51.5369364,-72.3360417,alta,denominacion,1
+37/117 - Escuadron Seguridad Vial Pergamino,375 - Gendarmeria Nacional,seguridad_defensa,62,Pergamino,Buenos Aires,-33.8911091446081,-60.5745861929678,alta,denominacion,1
+84/103 - DISTRITO ELECTORAL - MISIONES,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,61,Posadas,Misiones,-27.3664259799962,-55.8939802751923,media,deepseek+georef,0
+327/1 - Fideicomiso ANAC,669 - Administración Nacional de Aviación Civil,administracion,60,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/120 - DISTRITO ELECTORAL - CHACO,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,60,Resistencia,Chaco,-27.4510757112285,-58.9864835287395,media,deepseek+georef,0
+37/068 - Escuadrón 42 Calafate,375 - Gendarmeria Nacional,seguridad_defensa,60,El Calafate,Santa Cruz,-50.3380295398274,-72.2606652422011,alta,deepseek+georef,1
+84/115 - DISTRITO ELECTORAL - SANTA CRUZ,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,59,Río Gallegos,Santa Cruz,-51.6234632663739,-69.2158645331237,media,deepseek+georef,0
+74/30 - Parque Nacional Perito Moreno,107 - Administración de Parques Nacionales,administracion,58,Perito Moreno,Santa Cruz,-46.5938169680365,-70.9299116754894,alta,denominacion,1
+84/111 - DISTRITO ELECTORAL - RIO NEGRO,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,58,Viedma,Río Negro,-40.8083677299022,-62.9949287297467,media,deepseek+georef,0
+37/114 - Jefatura Agrupacion XIX Tierra Del Fuego,375 - Gendarmeria Nacional,seguridad_defensa,58,Ushuaia,Tierra del Fuego,-54.8074039816905,-68.3037571781958,media,deepseek+georef,0
+74/50 - Parque Nacional traslasierra,107 - Administración de Parques Nacionales,administracion,57,Villa Dolores,Córdoba,-31.9449767629495,-65.1902396962461,media,deepseek+georef,0
+37/090 – Agrupación “Cinturón Sur,375 - Gendarmeria Nacional,seguridad_defensa,55,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/067 - Escuadrón 39 Perito Moreno,375 - Gendarmeria Nacional,seguridad_defensa,55,Perito Moreno,Santa Cruz,-46.5938169680365,-70.9299116754894,alta,denominacion,1
+37/75 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO ESCUADRÓN 50 POSADAS,375 - Gendarmeria Nacional,seguridad_defensa,53,Posadas,Misiones,-27.3664259799962,-55.8939802751923,alta,denominacion,1
+37/056 - Jefatura De Agrupación XII Comahue,375 - Gendarmeria Nacional,seguridad_defensa,52,Neuquén,Neuquén,-38.9518288206176,-68.0591813073308,media,deepseek+georef,0
+74/47 - Dirección Regional Patagonia Austral - APN,107 - Administración de Parques Nacionales,administracion,52,Río Gallegos,Santa Cruz,-51.6234632663739,-69.2158645331237,media,deepseek+georef,0
+37/034 - Escuadrón 19 Ingeniero Juarez,375 - Gendarmeria Nacional,seguridad_defensa,52,Ingeniero Juárez,Formosa,-23.8987602,-61.8545928,alta,denominacion,1
+84/126 - SUBDISTRITO ELECTORAL TIGRE,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,52,Tigre,Buenos Aires,-34.4248130997973,-58.5755281971763,alta,denominacion,1
+37/033 - Escuadron 18 Lomitas,375 - Gendarmeria Nacional,seguridad_defensa,50,Las Lomitas,Formosa,-24.7081356055775,-60.5913768828427,alta,manual,1
+37/087 - Escuadron Seguridad Vial Sierra Grande,375 - Gendarmeria Nacional,seguridad_defensa,50,Sierra Grande,Río Negro,-41.6054599449508,-65.3570237719529,alta,denominacion,1
+37/088 - Escuadron Seguridad Vial Balcarce,375 - Gendarmeria Nacional,seguridad_defensa,50,Balcarce,Buenos Aires,-37.8463826227702,-58.2554911688579,alta,denominacion,1
+84/118 - DISTRITO ELECTORAL - CABA,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,49,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/058 - Escuadrón 31 Las Lajas,375 - Gendarmeria Nacional,seguridad_defensa,49,Las Lajas,Neuquén,-38.5234149456937,-70.361640644378,alta,denominacion,1
+84/119 - DISTRITO ELECTORAL - CATAMARCA,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,48,San Fernando del Valle de Catamarca,Catamarca,-28.4690132409229,-65.7789173519908,media,deepseek+georef,0
+182 - Departamento de Compras y Contrataciones- INADI,202 - Instituto Nacional contra la Discriminación; Xenofobia y el Racismo,administracion,47,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/092 - Escuadrón Seguridad Embalse,375 - Gendarmeria Nacional,seguridad_defensa,47,Embalse,Córdoba,-32.206746994887,-64.4006426100595,alta,denominacion,1
+42 -  Dirección General de Fabricaciones Militares (SC)-FFMM,451 - Dirección General de Fabricaciones Militares,seguridad_defensa,46,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/05 - Parque Nacional El Rey,107 - Administración de Parques Nacionales,administracion,46,Embarcación,Salta,-23.2077625709462,-64.0949438566909,media,deepseek+georef,0
+37/065 - Escuadrón 38 Rio Mayo,375 - Gendarmeria Nacional,seguridad_defensa,46,Río Mayo,Chubut,-45.6861769975897,-70.2566379579333,alta,denominacion,1
+84/104 - DISTRITO ELECTORAL - NEUQUEN,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,46,Neuquén,Neuquén,-38.9518288206176,-68.0591813073308,alta,denominacion,1
+74/33 - Monumento Natural Bosques Petrificados,107 - Administración de Parques Nacionales,administracion,44,Jaramillo,Santa Cruz,-47.1840284109773,-67.1447240080037,media,deepseek+georef,0
+37/081 - Escuadrón Seguridad El Chocon,375 - Gendarmeria Nacional,seguridad_defensa,43,Villa El Chocón,Neuquén,-39.2615472701827,-68.7789277377405,alta,manual,1
+74/38 - Parque Interjurisdiccional Marino Costero Patagonia,107 - Administración de Parques Nacionales,administracion,43,Puerto Madryn,Chubut,-42.7672814961937,-65.0366755877063,media,deepseek+georef,0
+37/096 - Escuadrón 58 La Rioja,375 - Gendarmeria Nacional,seguridad_defensa,43,La Rioja,La Rioja,-29.412884219358,-66.8558279775847,alta,denominacion,1
+37/155 - INSTITUTO DE FORMACIÓN DE GENDARMES GENDARME MIGUEL ANGEL TRIPPEPI,375 - Gendarmeria Nacional,seguridad_defensa,43,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+408 - Centro Internacional - CIPDH,206 - Centro Internacional para la Promoción de los Derechos Humanos,administracion,43,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/144-REGIMIENTO DE INFANTERIA 4,374 - Estado Mayor General del Ejercito,seguridad_defensa,41,Monte Caseros,Corrientes,-30.2494229600191,-57.6294817667543,media,deepseek+georef,0
+93 - Sector Compras- ORSEP,656 - Organismo Regulador de Seguridad de Presas,administracion,41,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/24 - Direccion Regional NEA,107 - Administración de Parques Nacionales,administracion,40,Puerto Iguazú,Misiones,-25.5972100979327,-54.5772230013845,media,deepseek+georef,0
+74/43 - Parque Nacional Patagonia,107 - Administración de Parques Nacionales,administracion,40,El Chaltén,Santa Cruz,-49.3328246557123,-72.8859114198951,media,deepseek+georef,0
+42/01 -  Fábrica Militar de Pólvoras y Explosivos Villa María - Compras,451 - Dirección General de Fabricaciones Militares,seguridad_defensa,40,Villa María,Córdoba,-32.4135041930881,-63.248329032642,alta,denominacion,1
+84/114 - DISTRITO ELECTORAL - TIERRA DEL FUEGO,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,40,Ushuaia,Tierra del Fuego,-54.8074039816905,-68.3037571781958,alta,deepseek+georef,0
+37/089 - Escuadrón Seguridad Vial San Nicolas,375 - Gendarmeria Nacional,seguridad_defensa,39,San Nicolás,Buenos Aires,-34.6037699996038,-58.3815970890394,alta,denominacion,1
+84/127 - SUBDISTRITO ELECTORAL BAHIA BLANCA,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,38,Bahía Blanca,Buenos Aires,-38.7227702772442,-62.2727419998288,alta,denominacion,1
+37/045 - Escuadrón 23 Tinogasta,375 - Gendarmeria Nacional,seguridad_defensa,38,Tinogasta,Catamarca,-28.0655616313794,-67.564368979148,alta,denominacion,1
+74/13 - PARQUE NACIONAL CAMPO DE LOS ALISOS,107 - Administración de Parques Nacionales,administracion,37,Campo de los Alisos,Tucumán,-24.8164401,-65.4359594,alta,denominacion,1
+37/116 - Escuadron 62 Rio Grande,375 - Gendarmeria Nacional,seguridad_defensa,37,Río Grande,Tierra del Fuego,-53.7863260891398,-67.6963281355519,alta,denominacion,1
+491/0 - Dirección General Técnica y Administrativa - ADN,120 - Agencia de Deportes Nacional,administracion,36,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/16 - Delegación Centro DRC - APN,107 - Administración de Parques Nacionales,administracion,36,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/42 - Unidad de Compras - Parque Nacional Campos del Tuyú,107 - Administración de Parques Nacionales,administracion,36,General Lavalle,Buenos Aires,-36.4080860934361,-56.9433578443012,media,deepseek+georef,0
+42/04 -  Compras Fray Luis Beltrán,451 - Dirección General de Fabricaciones Militares,seguridad_defensa,36,Fray Luis Beltrán,Santa Fe,-32.7815481103946,-60.7310114690631,alta,denominacion,1
+Dirección de Compras y Contrataciones de Energía,328 - Secretaría de Gobierno de Energía,administracion,36,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+477/000 - Departamento de Compras y Adquisiciones -INC,915 - Instituto Nacional del Cáncer,salud_social,35,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+505 - MINISTERIO DE CAPITAL HUMANO,388 - MINSTERIO DE CAPITAL HUMANO,salud_social,35,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+74/21 - Monumento Natural Laguna de los Pozuelos,107 - Administración de Parques Nacionales,administracion,35,Laguna de los Pozuelos,Jujuy,-22.3512684,-66.00129,alta,denominacion,1
+74/37 - Parque Nacional San Guillermo,107 - Administración de Parques Nacionales,administracion,34,San Guillermo,San Juan,-30.3584540113083,-61.9173192981809,alta,denominacion,1
+84/108 - DISTRITO ELECTORAL - LA PAMPA,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,34,Santa Rosa,La Pampa,-36.6204011947334,-64.2906300356297,alta,deepseek+georef,0
+74/49 - Unidad Coordinadora de Proyectos con Financiamiento Externo - UCEFE,107 - Administración de Parques Nacionales,administracion,33,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/07 - INTENDENCIA TIERRA DEL FUEGO,107 - Administración de Parques Nacionales,administracion,33,Ushuaia,Tierra del Fuego,-54.8074039816905,-68.3037571781958,alta,deepseek+georef,0
+37/137 - ESCUADRÓN NÚCLEO AGUILARES,375 - Gendarmeria Nacional,seguridad_defensa,33,Aguilares,Tucumán,-27.4350836108284,-65.6149801745018,alta,denominacion,1
+74/12 - Dirección Regional NOA,107 - Administración de Parques Nacionales,administracion,31,Salta,Salta,-24.7831983811283,-65.4102509654276,media,deepseek+georef,0
+74/14 - Parque Nacionales Los Cardones,107 - Administración de Parques Nacionales,administracion,30,Cachi,Salta,-25.1199676490935,-66.1618759239973,media,deepseek+georef,0
+74/41 - Reserva Nacional Pizarro,107 - Administración de Parques Nacionales,administracion,30,General Mosconi,Salta,-22.5995511048695,-63.8113270912528,media,deepseek+georef,0
+46/02 - 2° Distrito Córdoba - DNV,604 - Dirección Nacional de Vialidad,infraestructura,29,Córdoba,Córdoba,-31.4150461523809,-64.1791140755104,alta,denominacion,1
+74/40 - RESERVA NATURAL ESTRICTA SAN ANTONIO,107 - Administración de Parques Nacionales,administracion,29,San Antonio,Misiones,-26.0573709006984,-53.7341195284472,alta,denominacion,1
+436 - Dirección General de Administración - JST,671 - JUNTA DE SEGURIDAD EN EL TRANSPORTE,administracion,28,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+493/00 - COMPRAS DE LA DIRECCION DE OBRA SOCIAL DEL S.P.F,9196 - Dirección de Obra Social del Servicio Penitenciario Federal,seguridad_defensa,28,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/140 - ESCUADRON 66 SAN JUAN,375 - Gendarmeria Nacional,seguridad_defensa,28,San Juan,San Juan,-31.5372590360945,-68.5250172058885,alta,denominacion,1
+37/123 - Comando De Región VIII,375 - Gendarmeria Nacional,seguridad_defensa,28,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+80/12 - Compras y Contrataciones Internacionales - MSYDS,310 - Ministerio de Salud,salud_social,27,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/110 - DISTRITO ELECTORAL - TUCUMAN,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,27,San Miguel de Tucumán,Tucumán,-26.8303887617109,-65.2037797033494,alta,deepseek+georef,0
+37/055 - Destacamento Movil 4,375 - Gendarmeria Nacional,seguridad_defensa,26,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+84/125 - DISTRITO ELECTORAL - FORMOSA,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,24,Formosa,Formosa,-26.185008983147,-58.1748964834654,alta,denominacion,1
+37/074 - Escuadrón Seguridad Zarate - Brazo Largo,375 - Gendarmeria Nacional,seguridad_defensa,24,Zárate,Buenos Aires,-34.0989165196293,-59.0296629320907,alta,denominacion,1
+48/000 - Departamento de Suministros,608 - Instituto Nacional de Tecnología Industrial,ciencia_universidad,23,San Martín,Buenos Aires,-34.5771577,-58.5377237,media,deepseek+nominatim,0
+262/11 Direccion General de Proyectos con Financiamiento Externo y Cooperacion Internacional,317 - Ministerio de Ambiente y Desarrollo Sostenible,administracion,22,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/48 - Parque Interjurisdiccional Marino Makenke,107 - Administración de Parques Nacionales,administracion,22,Puerto Deseado,Santa Cruz,-47.7517194088909,-65.9009487268108,media,deepseek+georef,0
+37/123 - COMANDO DE REGIÓN VII,375 - Gendarmeria Nacional,seguridad_defensa,22,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/138 - ESCUADRON 51  FONTANA,375 - Gendarmeria Nacional,seguridad_defensa,22,Fontana,Chaco,-27.4202374033126,-59.0373912551351,alta,denominacion,1
+58 - Organismo Regulador del Sistema Nacional de Aeropuertos,664 - Organismo Regulador del Sistema Nacional de Aeropuertos,administracion,22,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+140/000 - Dirección de Compras y Contrataciones - INAI,118 - Instituto Nacional de Asuntos Indígenas,salud_social,21,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+504 - SUBSECRETARÍA DE GESTIÓN ADMINISTRATIVA DE INFRAESTRUCTURA,377 - INFRAESTRUCTURA ECONOMICA Y SOCIAL,infraestructura,20,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/22 - Departamento de Administración - Parque Nacional Baritu,107 - Administración de Parques Nacionales,administracion,20,Baritú,Salta,-22.4985119,-64.7680251,alta,denominacion,1
+Dirección de Compras y Contrataciones de Energía,328 - Secretaría de Energía,administracion,20,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+450/000 - Dirección General de Administración y Finanzas,366 - Ministerio de Modernización,administracion,19,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/139 - AGRUPACIÓN ESPECIAL DE DESPLIEGUE RÁPIDO GRL D MARTÍN MIGUEL DE GÜEMES,375 - Gendarmeria Nacional,seguridad_defensa,17,Campo de Mayo,Buenos Aires,-34.5550627752485,-58.6522136037965,media,deepseek+georef,0
+72/2 - SUB DISTRITO ELECTORAL 3 MORENO,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,17,Moreno,Buenos Aires,-34.6469059433022,-58.7889292381186,alta,denominacion,1
+95/1 Dirección de Programas y Proyectos Sectoriales y Especiales de Niñez Adolescencia y Familia,311 - Ministerio de Salud y Desarrollo Social,salud_social,17,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/154 - CENTRO INTERNACIONAL DE ANÁLISIS DEL DELITO COMPLEJO EN LA TRIPLE FRONTERA,375 - Gendarmeria Nacional,seguridad_defensa,16,Puerto Iguazú,Misiones,-25.5972100979327,-54.5772230013845,media,deepseek+georef,0
+43/1-Departamento de Compras (FE) - Instituto de Ayuda Financiera para Pago de Retiros y Pensiones Militares - Ministerio de Defensa,470 - Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares,seguridad_defensa,15,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+132/61 - UNIDAD ASISTENCIAL DR. CESAR MILSTEIN,911 - Instituto Nacional de Servicios Sociales para Jubilados y Pensionados - INSSJP,salud_social,14,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/23 - Parque Nacional Pre Delta,107 - Administración de Parques Nacionales,administracion,14,Diamante,Entre Ríos,-32.0671282176756,-60.6426461219973,media,deepseek+georef,0
+63/000 - Dirección de Contrataciones - ANSES,850 - Administración Nacional de la Seguridad Social,salud_social,14,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/135 - SERVICIO ADMINISTRATIVO FINANCIERO DESCONCENTRADO SEGURIDAD VIAL CATALINA,375 - Gendarmeria Nacional,seguridad_defensa,14,Catalina,Córdoba,-32.0710336,-64.5344371,alta,denominacion,1
+37/145 - REGION IX,375 - Gendarmeria Nacional,seguridad_defensa,13,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+58/01 - Organismo Regulador del Sistema Nacional de Aeropuertos,664 - Organismo Regulador del Sistema Nacional de Aeropuertos,administracion,13,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+84/117 - DISTRITO ELECTORAL - BUENOS AIRES,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,13,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+95/1 Dirección de Programas y Proyectos Sectoriales y Especiales de Niñez Adolescencia y Familia,311 - Ministerio de Desarrollo Social,salud_social,12,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+72/3 - Subdistrito Electoral Nro 7 - Mar del Plata,371 - Estado Mayor Conjunto (EMCO),seguridad_defensa,12,Mar del Plata,Buenos Aires,-38.0064494189987,-57.5438377776641,alta,denominacion,1
+340/000 - Dirección General de Servicio Logístico de la Defensa - SSSLD,376 - Subsecreataría de Planeamiento Operativo y Servicio Logístico de la Defensa,seguridad_defensa,12,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/054 - Comando De  Región V,375 - Gendarmeria Nacional,seguridad_defensa,10,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/141 - ESCUADRON 67 CATAMARCA,375 - Gendarmeria Nacional,seguridad_defensa,10,San Fernando del Valle de Catamarca,Catamarca,-28.4690132409229,-65.7789173519908,alta,deepseek+georef,0
+37/142 - ESCUADRON 69 “SANTA CRUZ,375 - Gendarmeria Nacional,seguridad_defensa,7,Río Gallegos,Santa Cruz,-51.6234632663739,-69.2158645331237,alta,deepseek+georef,0
+74/51 - Parque Interjurisdiccional Marino - Isla Pingüino,107 - Administración de Parques Nacionales,administracion,7,Puerto Deseado,Santa Cruz,-47.7517194088909,-65.9009487268108,media,deepseek+georef,0
+507 - Ministerio de Desregulación y Transformación del Estado,389 - Ministerio de Desregulación y Transformación del Estado,administracion,7,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+132/64 - HOSPITAL DR. BERNARDO HOUSSAY,911 - Instituto Nacional de Servicios Sociales para Jubilados y Pensionados - INSSJP,salud_social,6,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/54 - PARQUE NACIONAL ANSENUZA,107 - Administración de Parques Nacionales,administracion,6,Malargüe,Mendoza,-35.4683739980962,-69.5847075525399,media,deepseek+georef,0
+132 - GERENCIA DE ADMINITRACIÓN,911 - Instituto Nacional de Servicios Sociales para Jubilados y Pensionados - INSSJP,salud_social,5,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+478/000 - Dirección de Contrataciones - ANLAP,916 - Agencia Nacional de Laboratorios Públicos,salud_social,4,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+37/123 - JEFATURA DE REGIÓN VII,375 - Gendarmeria Nacional,seguridad_defensa,4,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+262/008 - Proyecto adaptación al cambio climático en ciudades y ecosistemas costeros vulnerables del Río Uruguay,317 - Ministerio de Ambiente y Desarrollo Sostenible,administracion,3,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+489 - BICE Fideicomisos S.A,716 - BICE Fideicomisos S.A,administracion,3,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+484 - Dirección General de Administración- INAM,918 - Instituto Nacional de las Mujeres,salud_social,3,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+74/53 - Parque Nacional Islote Lobos,107 - Administración de Parques Nacionales,administracion,3,Sierra Grande,Río Negro,-41.6054599449508,-65.3570237719529,media,deepseek+georef,0
+81/100 - DIRECCIÓN GENERAL DE ADMINISTRACIÓN,364-Ministerio de Obras Públicas,infraestructura,3,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+37/70 - ESCUADRON 44 USHUAIA,375 - Gendarmeria Nacional,seguridad_defensa,3,Ushuaia,Tierra del Fuego,-54.8074039816905,-68.3037571781958,alta,denominacion,1
+504 - MINISTERIO DE INFRAESTRUCTURA,377 - INFRAESTRUCTURA ECONOMICA Y SOCIAL,infraestructura,3,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+262/009 Proyecto Inversiones Integradas Bajas en Carbono y Conservación en Ciudades Argentinas,317 - Ministerio de Ambiente y Desarrollo Sostenible,administracion,2,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+262/000 - Dirección General de Administración Y Finanzas - MAD,317 - Ministerio de Ambiente y Desarrollo Sustentable,administracion,2,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+262/010 Proyecto Cooperación Institucional; Técnica y Científica para la Contribución de Políticas Públicas Ambientales / Argentina - Portugal  (MOU),317 - Ministerio de Ambiente y Desarrollo Sostenible,administracion,2,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+132/20 - UGL XX - LA PAMPA,911 - Instituto Nacional de Servicios Sociales para Jubilados y Pensionados - INSSJP,salud_social,2,Santa Rosa,La Pampa,-36.6204011947334,-64.2906300356297,alta,deepseek+georef,0
+37/122 - Comando De Región VI,375 - Gendarmeria Nacional,seguridad_defensa,1,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+28 -  Departamento de Compras y Patrimonio- MTU,322 - Ministerio de Turismo,administracion,1,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+508 - AGENCIA NACIONAL DE PUERTOS Y NAVEGACIÓN,673 - AGENCIA NACIONAL DE PUERTOS Y NAVEGACIÓN,administracion,1,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+82 - DIRECCIÓN GENERAL DE ADMINISTRACIÓN,330 - Ministerio de Educación,cultura_educacion,1,CABA,CABA,-34.6075,-58.4371,alta,deepseek+georef,0
+315/000 - Dirección General de Administración - MP,362 - Ministerio de Producción,administracion,1,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+340/000 - Dirección General de Servicio Logístico de la Defensa - SSSLD,376 - Subsecretaría de Planeamiento Operativo y Servicio Logístico de la Defensa,seguridad_defensa,1,CABA,CABA,-34.6075,-58.4371,media,deepseek+georef,0
+132/2 - UGL II - CORRIENTES,911 - Instituto Nacional de Servicios Sociales para Jubilados y Pensionados - INSSJP,salud_social,1,Corrientes,Corrientes,-27.4633450136008,-58.8394728460849,alta,denominacion,1

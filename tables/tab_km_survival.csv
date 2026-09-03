@@ -1,0 +1,89 @@
+"modelo","grupo","t","n_risk","n_event","surv","lo","hi"
+"region","region=NEA",1,495,233,0.529,0.487,0.575
+"region","region=NEA",2,262,54,0.42,0.379,0.466
+"region","region=NEA",3,179,34,0.34,0.3,0.386
+"region","region=NEA",4,136,33,0.258,0.22,0.302
+"region","region=NEA",5,86,17,0.207,0.171,0.25
+"region","region=NEA",6,49,6,0.182,0.146,0.225
+"region","region=NEA",7,29,0,0.182,0.146,0.225
+"region","region=NEA",8,0,0,0.182,0.146,0.225
+"region","region=Metro",1,4259,1993,0.532,0.517,0.547
+"region","region=Metro",2,2266,408,0.436,0.422,0.451
+"region","region=Metro",3,1711,328,0.353,0.338,0.367
+"region","region=Metro",4,1292,252,0.284,0.27,0.298
+"region","region=Metro",5,906,150,0.237,0.224,0.251
+"region","region=Metro",6,590,96,0.198,0.185,0.212
+"region","region=Metro",7,342,0,0.198,0.185,0.212
+"region","region=Metro",8,0,0,0.198,0.185,0.212
+"region","region=Resto",1,2463,1188,0.518,0.498,0.538
+"region","region=Resto",2,1275,233,0.423,0.404,0.443
+"region","region=Resto",3,946,187,0.339,0.321,0.359
+"region","region=Resto",4,687,137,0.272,0.254,0.291
+"region","region=Resto",5,466,94,0.217,0.2,0.235
+"region","region=Resto",6,289,47,0.182,0.165,0.2
+"region","region=Resto",7,157,0,0.182,0.165,0.2
+"region","region=Resto",8,0,0,0.182,0.165,0.2
+"territorial","territorial=otro",1,3601,1872,0.48,0.464,0.497
+"territorial","territorial=otro",2,1729,295,0.398,0.383,0.415
+"territorial","territorial=otro",3,1367,274,0.318,0.303,0.334
+"territorial","territorial=otro",4,1020,215,0.251,0.237,0.266
+"territorial","territorial=otro",5,695,145,0.199,0.186,0.213
+"territorial","territorial=otro",6,410,88,0.156,0.143,0.17
+"territorial","territorial=otro",7,222,0,0.156,0.143,0.17
+"territorial","territorial=otro",8,0,0,0.156,0.143,0.17
+"territorial","territorial=anclado",1,3616,1542,0.574,0.558,0.59
+"territorial","territorial=anclado",2,2074,400,0.463,0.447,0.479
+"territorial","territorial=anclado",3,1469,275,0.376,0.361,0.393
+"territorial","territorial=anclado",4,1095,207,0.305,0.29,0.321
+"territorial","territorial=anclado",5,763,116,0.259,0.244,0.275
+"territorial","territorial=anclado",6,518,61,0.228,0.213,0.244
+"territorial","territorial=anclado",7,306,0,0.228,0.213,0.244
+"territorial","territorial=anclado",8,0,0,0.228,0.213,0.244
+"region x territorial","region=NEA, territorial=otro   ",1,78,50,0.359,0.267,0.483
+"region x territorial","region=NEA, territorial=otro   ",2,28,2,0.333,0.244,0.456
+"region x territorial","region=NEA, territorial=otro   ",3,26,5,0.269,0.187,0.388
+"region x territorial","region=NEA, territorial=otro   ",4,20,8,0.162,0.097,0.269
+"region x territorial","region=NEA, territorial=otro   ",5,11,4,0.103,0.052,0.203
+"region x territorial","region=NEA, territorial=otro   ",6,6,1,0.086,0.04,0.185
+"region x territorial","region=NEA, territorial=otro   ",7,3,0,0.086,0.04,0.185
+"region x territorial","region=NEA, territorial=otro   ",8,0,0,0.086,0.04,0.185
+"region x territorial","region=NEA, territorial=anclado",1,417,183,0.561,0.515,0.611
+"region x territorial","region=NEA, territorial=anclado",2,234,52,0.436,0.391,0.487
+"region x territorial","region=NEA, territorial=anclado",3,153,29,0.354,0.31,0.404
+"region x territorial","region=NEA, territorial=anclado",4,116,25,0.277,0.236,0.327
+"region x territorial","region=NEA, territorial=anclado",5,75,13,0.229,0.189,0.278
+"region x territorial","region=NEA, territorial=anclado",6,43,5,0.203,0.162,0.253
+"region x territorial","region=NEA, territorial=anclado",7,26,0,0.203,0.162,0.253
+"region x territorial","region=NEA, territorial=anclado",8,0,0,0.203,0.162,0.253
+"region x territorial","region=Metro, territorial=otro   ",1,2767,1418,0.488,0.469,0.507
+"region x territorial","region=Metro, territorial=otro   ",2,1349,243,0.4,0.382,0.418
+"region x territorial","region=Metro, territorial=otro   ",3,1049,220,0.316,0.299,0.334
+"region x territorial","region=Metro, territorial=otro   ",4,774,154,0.253,0.237,0.27
+"region x territorial","region=Metro, territorial=otro   ",5,528,100,0.205,0.19,0.222
+"region x territorial","region=Metro, territorial=otro   ",6,319,65,0.163,0.148,0.18
+"region x territorial","region=Metro, territorial=otro   ",7,169,0,0.163,0.148,0.18
+"region x territorial","region=Metro, territorial=otro   ",8,0,0,0.163,0.148,0.18
+"region x territorial","region=Metro, territorial=anclado",1,1492,575,0.615,0.59,0.64
+"region x territorial","region=Metro, territorial=anclado",2,917,165,0.504,0.479,0.53
+"region x territorial","region=Metro, territorial=anclado",3,662,108,0.422,0.397,0.448
+"region x territorial","region=Metro, territorial=anclado",4,518,98,0.342,0.318,0.368
+"region x territorial","region=Metro, territorial=anclado",5,378,50,0.297,0.273,0.323
+"region x territorial","region=Metro, territorial=anclado",6,271,31,0.263,0.239,0.289
+"region x territorial","region=Metro, territorial=anclado",7,173,0,0.263,0.239,0.289
+"region x territorial","region=Metro, territorial=anclado",8,0,0,0.263,0.239,0.289
+"region x territorial","region=Resto, territorial=otro   ",1,756,404,0.466,0.431,0.503
+"region x territorial","region=Resto, territorial=otro   ",2,352,50,0.399,0.366,0.436
+"region x territorial","region=Resto, territorial=otro   ",3,292,49,0.332,0.3,0.368
+"region x territorial","region=Resto, territorial=otro   ",4,226,53,0.254,0.225,0.288
+"region x territorial","region=Resto, territorial=otro   ",5,156,41,0.188,0.161,0.219
+"region x territorial","region=Resto, territorial=otro   ",6,85,22,0.139,0.114,0.17
+"region x territorial","region=Resto, territorial=otro   ",7,50,0,0.139,0.114,0.17
+"region x territorial","region=Resto, territorial=otro   ",8,0,0,0.139,0.114,0.17
+"region x territorial","region=Resto, territorial=anclado",1,1707,784,0.541,0.518,0.565
+"region x territorial","region=Resto, territorial=anclado",2,923,183,0.434,0.411,0.458
+"region x territorial","region=Resto, territorial=anclado",3,654,138,0.342,0.32,0.366
+"region x territorial","region=Resto, territorial=anclado",4,461,84,0.28,0.258,0.303
+"region x territorial","region=Resto, territorial=anclado",5,310,53,0.232,0.211,0.255
+"region x territorial","region=Resto, territorial=anclado",6,204,25,0.203,0.183,0.227
+"region x territorial","region=Resto, territorial=anclado",7,107,0,0.203,0.183,0.227
+"region x territorial","region=Resto, territorial=anclado",8,0,0,0.203,0.183,0.227

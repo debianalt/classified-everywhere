@@ -1,0 +1,17 @@
+# Supplier microdata: taxpayer identifiers and names. Never commit these.
+data/raw/comprar_*.csv
+data/raw/sipro_*.csv
+data/raw/arca_*
+data/raw/contratar_*
+data/raw/mapainversiones_*
+data/processed/*.parquet
+data/processed/*.csv
+!data/processed/.gitkeep
+
+# Working output
+Rplots.pdf
+.Rhistory
+.RData
+__pycache__/
+*.pyc
+figures/_working/

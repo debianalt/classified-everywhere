@@ -1,0 +1,73 @@
+provincia,era,gobernador,partido,familia_politica,alineado,partido_en_poder_desde,alternancias_1983_2023
+Buenos Aires,macri,María Eugenia Vidal,PRO-Cambiemos,jxc,1,2015,
+Buenos Aires,fernandez,Axel Kicillof,FdT,peronismo,1,2019,
+Buenos Aires,milei,Axel Kicillof,UP,peronismo,0,2019,
+CABA,macri,Horacio Rodríguez Larreta,PRO,jxc,1,2007,
+CABA,fernandez,Horacio Rodríguez Larreta,PRO,jxc,0,2007,
+CABA,milei,Jorge Macri,PRO,jxc,0.5,2007,
+Catamarca,macri,Lucía Corpacci,PJ-FPV,peronismo,0,2011,
+Catamarca,fernandez,Raúl Jalil,PJ-FdT,peronismo,1,2011,
+Catamarca,milei,Raúl Jalil,PJ,peronismo,0.5,2011,
+Chaco,macri,Domingo Peppo,PJ,peronismo,0,2007,4
+Chaco,fernandez,Jorge Capitanich,PJ-FdT,peronismo,1,2007,4
+Chaco,milei,Leandro Zdero,UCR-JxC,jxc,0.5,2023,4
+Chubut,macri,Das Neves / Arcioni,Chubut Somos Todos,peronismo_prov,0.5,2003,
+Chubut,fernandez,Mariano Arcioni,Chubut Somos Todos,peronismo_prov,0.5,2003,
+Chubut,milei,Ignacio Torres,PRO-JxC,jxc,0.5,2023,
+Córdoba,macri,Juan Schiaretti,PJ cordobés,peronismo_prov,0.5,1999,
+Córdoba,fernandez,Juan Schiaretti,PJ cordobés,peronismo_prov,0.5,1999,
+Córdoba,milei,Martín Llaryora,PJ cordobés,peronismo_prov,0.5,1999,
+Corrientes,macri,Colombi / Valdés,UCR-ECO,ucr,1,2001,3
+Corrientes,fernandez,Gustavo Valdés,UCR-ECO,ucr,0,2001,3
+Corrientes,milei,Gustavo Valdés,UCR-ECO,ucr,0.5,2001,3
+Entre Ríos,macri,Gustavo Bordet,PJ,peronismo,0,2003,
+Entre Ríos,fernandez,Gustavo Bordet,PJ-FdT,peronismo,1,2003,
+Entre Ríos,milei,Rogelio Frigerio,PRO-JxC,jxc,1,2023,
+Formosa,macri,Gildo Insfrán,PJ,peronismo,0,1983,0
+Formosa,fernandez,Gildo Insfrán,PJ-FdT,peronismo,1,1983,0
+Formosa,milei,Gildo Insfrán,PJ,peronismo,0,1983,0
+Jujuy,macri,Gerardo Morales,UCR-Cambiemos,ucr,1,2015,
+Jujuy,fernandez,Gerardo Morales,UCR-JxC,ucr,0,2015,
+Jujuy,milei,Carlos Sadir,UCR,ucr,0.5,2015,
+La Pampa,macri,Carlos Verna,PJ,peronismo,0,1983,
+La Pampa,fernandez,Sergio Ziliotto,PJ-FdT,peronismo,1,1983,
+La Pampa,milei,Sergio Ziliotto,PJ,peronismo,0,1983,
+La Rioja,macri,Sergio Casas,PJ,peronismo,0,1983,
+La Rioja,fernandez,Ricardo Quintela,PJ-FdT,peronismo,1,1983,
+La Rioja,milei,Ricardo Quintela,PJ,peronismo,0,1983,
+Mendoza,macri,Alfredo Cornejo,UCR-Cambiemos,ucr,1,2015,
+Mendoza,fernandez,Rodolfo Suárez,UCR-JxC,ucr,0,2015,
+Mendoza,milei,Alfredo Cornejo,UCR,ucr,1,2015,
+Misiones,macri,Hugo Passalacqua,FRC,peronismo_prov,0.5,2003,2
+Misiones,fernandez,Oscar Herrera Ahuad,FRC,peronismo_prov,0.5,2003,2
+Misiones,milei,Hugo Passalacqua,FRC,peronismo_prov,0.5,2003,2
+Neuquén,macri,Omar Gutiérrez,MPN,provincial,0.5,1983,
+Neuquén,fernandez,Omar Gutiérrez,MPN,provincial,0.5,1983,
+Neuquén,milei,Rolando Figueroa,Neuquinizate,provincial,0.5,2023,
+Río Negro,macri,Alberto Weretilneck,JSRN,provincial,0.5,2012,
+Río Negro,fernandez,Arabela Carreras,JSRN,provincial,0.5,2012,
+Río Negro,milei,Alberto Weretilneck,JSRN,provincial,0.5,2012,
+Salta,macri,Juan Manuel Urtubey,PJ,peronismo,0.5,1995,
+Salta,fernandez,Gustavo Sáenz,indep. peronista,peronismo_prov,0.5,2019,
+Salta,milei,Gustavo Sáenz,indep. peronista,peronismo_prov,0.5,2019,
+San Juan,macri,Sergio Uñac,PJ,peronismo,0,2003,
+San Juan,fernandez,Sergio Uñac,PJ-FdT,peronismo,1,2003,
+San Juan,milei,Marcelo Orrego,Producción y Trabajo-JxC,jxc,0.5,2023,
+San Luis,macri,Alberto Rodríguez Saá,PJ,peronismo,0,1983,
+San Luis,fernandez,Alberto Rodríguez Saá,PJ-FdT,peronismo,1,1983,
+San Luis,milei,Claudio Poggi,Cambia San Luis-JxC,jxc,0.5,2023,
+Santa Cruz,macri,Alicia Kirchner,PJ-FPV,peronismo,0,1991,
+Santa Cruz,fernandez,Alicia Kirchner,PJ-FdT,peronismo,1,1991,
+Santa Cruz,milei,Claudio Vidal,SER,provincial,0.5,2023,
+Santa Fe,macri,Miguel Lifschitz,PS-FPCyS,socialismo,0,2007,
+Santa Fe,fernandez,Omar Perotti,PJ-FdT,peronismo,1,2019,
+Santa Fe,milei,Maximiliano Pullaro,UCR-Unidos,ucr,0.5,2023,
+Santiago del Estero,macri,Gerardo Zamora,Frente Cívico,provincial,0.5,2005,
+Santiago del Estero,fernandez,Gerardo Zamora,Frente Cívico,provincial,1,2005,
+Santiago del Estero,milei,Gerardo Zamora,Frente Cívico,provincial,0,2005,
+Tierra del Fuego,macri,Rosana Bertone,PJ-FPV,peronismo,0,2015,
+Tierra del Fuego,fernandez,Gustavo Melella,FORJA-FdT,peronismo,1,2019,
+Tierra del Fuego,milei,Gustavo Melella,FORJA,peronismo,0,2019,
+Tucumán,macri,Juan Manzur,PJ,peronismo,0,2003,
+Tucumán,fernandez,Juan Manzur,PJ-FdT,peronismo,1,2003,
+Tucumán,milei,Osvaldo Jaldo,PJ,peronismo,0.5,2003,

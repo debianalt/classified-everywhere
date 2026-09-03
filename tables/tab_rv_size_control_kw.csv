@@ -1,0 +1,5 @@
+"prueba","estadistico","p","provincias"
+"Kruskal-Wallis entre estratos, RV observado",4.676,0.0965,12
+"Kruskal-Wallis entre estratos, RV a n = 150",2.522,0.283,12
+"Spearman: n vs RV observado",0.308,0.331,12
+"Spearman: n vs RV a n = 150",-0.427,0.169,12

@@ -1,0 +1,33 @@
+"cat","dim.1","dim.2","dim.3"
+"D_repuestos.si",12.5,1.6,5.2
+"D_equipos.si",11.4,0.2,3.9
+"D_mantenimiento.si",11.2,0.7,1.7
+"A_rubro.ALIMENTOS",8,26.6,0.2
+"A_rubro.ALQUILER",7,9.7,20.7
+"D_alimentos.si",6.4,27.4,0.3
+"A_rubro.MANT. REPARACION Y",6,0.3,0.9
+"D_mantenimiento.no",4.5,0.3,0.7
+"D_equipos.no",4.2,0.1,1.4
+"D_construccion.si",4,0.6,0.1
+"A_cliente.salud_social",3.5,1.8,6.2
+"D_repuestos.no",3.2,0.4,1.3
+"D_profesional.si",2.7,1.4,4.3
+"D_informatica.si",2.7,0.1,0
+"A_rubro.EQUIPOS",2.2,0.1,0.4
+"D_alquiler.si",1.9,6,22.5
+"D_profesional.no",1.5,0.7,2.3
+"A_cliente.ciencia_universidad",1,0.1,0.4
+"A_cliente.infraestructura",1,0,0.2
+"A_personeria.SRL",0.9,0.2,0.1
+"D_construccion.no",0.7,0.1,0
+"D_alimentos.no",0.7,2.8,0
+"A_personeria.PersFisica",0.6,0.2,0.6
+"A_cliente.cultura_educacion",0.4,0.5,3.2
+"A_cliente.seguridad_defensa",0.4,8.5,0.6
+"D_informatica.no",0.4,0,0
+"D_alquiler.no",0.3,0.9,3.3
+"A_personeria.OtraForma",0.2,0.3,1.3
+"A_rubro.SERV. PROFESIONAL ",0.2,3.8,15.7
+"A_personeria.SA",0.1,0.3,0
+"A_rubro.OTROS",0.1,0.2,0.4
+"A_cliente.administracion",0.1,4.2,1.8

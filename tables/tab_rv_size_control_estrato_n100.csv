@@ -1,0 +1,4 @@
+"estrato","provincias","replicas","rv_mediano_n150","ic_lo","ic_hi","rv_observado_medio","n_min","n_max"
+"middle",7,2099,0.478,0.263,0.674,0.547,110,243
+"outer",6,1800,0.461,0.287,0.663,0.486,109,228
+"core",5,1500,0.423,0.202,0.638,0.637,325,3954

@@ -1,0 +1,10 @@
+direccion,clave,n,share
+proveedor_NEA->unidad,administracion,945,0.23386243386243386
+proveedor_NEA->unidad,ciencia_universidad,113,0.0
+proveedor_NEA->unidad,cultura_educacion,25,0.0
+proveedor_NEA->unidad,infraestructura,1338,0.7144992526158446
+proveedor_NEA->unidad,salud_social,180,0.0
+proveedor_NEA->unidad,seguridad_defensa,4754,0.4924274295330248
+unidad_NEA->proveedor,Metro,4810,0.4604633352479418
+unidad_NEA->proveedor,NEA,3518,0.3367796285659583
+unidad_NEA->proveedor,Resto,2118,0.20275703618609994

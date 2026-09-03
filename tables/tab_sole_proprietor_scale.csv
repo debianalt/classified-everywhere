@@ -1,0 +1,7 @@
+"forma","region","n_proveedores","monto_mediano","monto_medio","monto_mediano_usd","monto_medio_usd","valor_mediano_por_adj","valor_mediano_por_adj_usd","adj_medianas","organismos_medianos","rubros_medianos","anios_medianos","share_directa","share_anclado"
+"Persona fisica","NEA",444,12796507,296554737,12086,297938,5088782,4728,2,1,1,1,0.554,0.863
+"Persona fisica","Metro",2048,25734019,197021552,23077,185095,7761272,7014,2,1,1,2,0.517,0.43
+"Persona fisica","Resto",1740,19700782,117538821,18221,112021,7168631,6766,2,1,1,1,0.551,0.724
+"Sociedad","NEA",207,32018053,268087926,31557,247741,9779326,8793,2,1,1,2,0.575,0.823
+"Sociedad","Metro",4250,128529990,1803843685,118925,1694608,29074566,26693,3,1,1,2,0.402,0.33
+"Sociedad","Resto",1531,53029530,773377845,49929,690404,14807808,13774,2,1,1,2,0.502,0.692

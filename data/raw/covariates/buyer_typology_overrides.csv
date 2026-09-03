@@ -1,0 +1,20 @@
+organismo,tipo_override,motivo
+802 - Fondo Nacional de las Artes,cultura_educacion,arts funding body; name carries no rule keyword
+804 - Comisión Nacional de Evaluación y Acreditación Universitaria,ciencia_universidad,university accreditation agency
+108 - Instituto Nacional del Agua,ciencia_universidad,national applied-research institute
+624 - Servicio Geológico Minero Argentino,ciencia_universidad,national geological survey
+121 - Banco Nacional de Datos Genéticos,ciencia_universidad,scientific institution
+452 - Servicio Metereológico Nacional,ciencia_universidad,technical-scientific service
+450 - Instituto Geográfico Nacional,ciencia_universidad,technical-scientific cartographic body
+917 - Agencia Nacional de Discapacidad,salud_social,disability policy
+341 - Secretaría Nacional de Niñez; Adolescencia y Familia,salud_social,social policy
+345 - Consejo Nacional de Coordinación de Politicas Sociales,salud_social,social policy
+311 - Desarrollo Humano y Economía Solidaria,salud_social,consistency: jurisdiction 311 is social development
+386-Ministerio de las Mujeres; Géneros y Diversidad,salud_social,social policy portfolio
+918 - Instituto Nacional de las Mujeres,salud_social,social policy portfolio
+118 - Instituto Nacional de Asuntos Indígenas,salud_social,social policy under social development
+303 - Secretaría de Políticas Integrales sobre Drogas,salud_social,drug prevention and treatment
+303 - Secretaría de Políticas Integrales Sobre Drogas de la Nación Argentina  (SEDRONAR),salud_social,drug prevention and treatment
+350 - Secretaría de Gobierno de Trabajo y Empleo,salud_social,consistency: jurisdiction 350 labour and social security
+556 - Autoridad de Cuenca Matanza Riachuelo,infraestructura,river-basin sanitation works authority
+365-Ministerio de Desarrollo Territorial y Hábitat,infraestructura,housing and habitat public works

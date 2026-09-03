@@ -1,0 +1,25 @@
+"variable","categoria","dim.1","dim.2","dim.3","typic.dim.1","typic.dim.2","typic.dim.3"
+"jurisdiccion","Buenos Aires",-0.069,-0.074,0.202,-4.1,-4.4,11.9
+"jurisdiccion","CABA",0.086,0.473,-0.062,6.8,37.6,-5
+"jurisdiccion","Catamarca",0.281,-0.51,0.225,2.2,-3.9,1.7
+"jurisdiccion","Chaco",-0.149,-0.65,-0.149,-1.9,-8.3,-1.9
+"jurisdiccion","Chubut",-0.013,-0.514,-0.366,-0.2,-8.1,-5.8
+"jurisdiccion","Córdoba",-0.234,-0.123,0.011,-6.4,-3.4,0.3
+"jurisdiccion","Corrientes",-0.268,-0.579,0.004,-3.4,-7.3,0.1
+"jurisdiccion","Entre Ríos",0.024,-0.472,-0.149,0.3,-6.3,-2
+"jurisdiccion","Formosa",-0.039,-0.902,0.08,-0.4,-9.5,0.8
+"jurisdiccion","Jujuy",0.289,-0.796,-0.115,2.9,-7.9,-1.1
+"jurisdiccion","La Pampa",0.331,-0.582,-0.251,3.2,-5.7,-2.4
+"jurisdiccion","La Rioja",0.232,-0.579,-0.013,1.9,-4.6,-0.1
+"jurisdiccion","Mendoza",-0.005,-0.305,-0.059,-0.1,-5.6,-1.1
+"jurisdiccion","Misiones",-0.357,-0.767,0.022,-5.5,-11.7,0.3
+"jurisdiccion","Neuquén",0.107,-0.482,-0.455,1.3,-6,-5.7
+"jurisdiccion","Río Negro",0.192,-0.495,-0.296,2.7,-6.9,-4.1
+"jurisdiccion","Salta",-0.096,-0.544,0.03,-1.1,-6.3,0.3
+"jurisdiccion","San Juan",0.117,-0.407,-0.123,1.2,-4.3,-1.3
+"jurisdiccion","San Luis",0.226,-0.365,-0.114,1.9,-3.1,-1
+"jurisdiccion","Santa Cruz",0.069,-0.625,-0.12,0.8,-7.4,-1.4
+"jurisdiccion","Santa Fe",-0.071,-0.163,0.114,-1.5,-3.6,2.5
+"jurisdiccion","Santiago del Estero",0.103,-0.693,-0.16,0.9,-6.2,-1.4
+"jurisdiccion","Tierra del Fuego",-0.093,-0.188,-0.074,-1.1,-2.2,-0.8
+"jurisdiccion","Tucumán",0.16,-0.451,0.066,1.9,-5.3,0.8

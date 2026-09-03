@@ -1,0 +1,25 @@
+"provincia","grupo","share_directa_fernandez","share_directa_macri","share_directa_milei","delta","n_adj_fernandez","n_adj_macri","n_adj_milei"
+"Tierra del Fuego","Patagonia",0.446,0.175,0.401,0.226,397,160,237
+"Corrientes","North-east",0.453,0.275,0.419,0.144,2189,422,1259
+"Formosa","North-east",0.751,0.56,0.669,0.109,265,25,118
+"Jujuy","North-west",0.578,0.479,0.561,0.082,249,48,82
+"Misiones","North-east",0.441,0.392,0.409,0.017,671,102,499
+"Salta","North-west",0.415,0.344,0.322,-0.022,311,96,174
+"Santa Cruz","Patagonia",0.415,0.463,0.439,-0.024,311,67,139
+"Entre Ríos","Pampean",0.393,0.384,0.334,-0.049,615,86,344
+"Santiago del Estero","North-west",0.676,0.771,0.681,-0.091,145,35,72
+"Buenos Aires","Metropolitan",0.318,0.376,0.265,-0.112,27308,5609,15831
+"San Juan","Cuyo",0.494,0.592,0.453,-0.139,636,49,415
+"Córdoba","Pampean",0.397,0.472,0.32,-0.152,6056,1109,3967
+"CABA","Metropolitan",0.379,0.449,0.284,-0.165,44803,9746,23335
+"San Luis","Cuyo",0.443,0.463,0.283,-0.181,350,136,184
+"Chaco","North-east",0.407,0.476,0.278,-0.198,600,170,277
+"La Pampa","Pampean",0.425,0.5,0.302,-0.198,233,74,63
+"Santa Fe","Pampean",0.461,0.536,0.325,-0.211,2672,683,2064
+"Mendoza","Cuyo",0.433,0.542,0.311,-0.232,1630,271,1741
+"La Rioja","North-west",0.7,0.625,0.377,-0.248,130,32,61
+"Río Negro","Patagonia",0.491,0.631,0.38,-0.251,749,149,274
+"Catamarca","North-west",0.608,0.696,0.442,-0.255,148,56,43
+"Chubut","Patagonia",0.409,0.513,0.253,-0.26,784,115,392
+"Tucumán","North-west",0.448,0.63,0.335,-0.295,286,81,188
+"Neuquén","Patagonia",0.366,0.462,0.134,-0.328,284,52,172

@@ -1,0 +1,163 @@
+organismo,n_adj,tipo,anclaje_territorial,asignacion
+107 - Administración de Parques Nacionales,6208,administracion,True,rule
+301 - Secretaria General de la Presidencia de la Nación,1510,administracion,False,rule
+623 - Servicio Nacional de Sanidad y Calidad Agroalimentaria,1492,administracion,False,rule
+305 - Jefatura de Gabinete de Ministros,1483,administracion,False,rule
+661 - Comisión Nacional de Regulación de Transporte,1043,administracion,False,rule
+201 - Dirección Nacional de Migraciones,979,administracion,True,rule
+852 - Superintendencia de Riesgos del Trabajo,948,administracion,False,rule
+651 - Ente Nacional Regulador del Gas,915,administracion,False,rule
+609 - Instituto Nacional de Vitivinicultura,789,administracion,False,rule
+332 - Ministerio de Justicia y Derechos Humanos,767,administracion,False,rule
+307 - Ministerio de Relaciones Exteriores; Comercio Internacional y Culto,759,administracion,False,rule
+322 - Ministerio de Turismo y Deportes,648,administracion,False,rule
+307 - Ministerio de Relaciones Exteriores y Culto,629,administracion,False,rule
+205 - Agencia de Administración de Bienes del Estado,592,administracion,False,rule
+321 - Instituto Nacional de Estadísticas y Censos,565,administracion,False,rule
+207 - Ente Nacional de Comunicaciones,557,administracion,False,rule
+109 - Sindicatura General de la Nación,541,administracion,False,rule
+671 - JUNTA DE SEGURIDAD EN EL TRANSPORTE,520,administracion,False,rule
+602 - Comisión Nacional de Valores,508,administracion,False,rule
+347 - Secretaría de Gobierno del Sistema Federal de Medios y Contenidos Públicos,506,administracion,False,rule
+200 - Registro Nacional de las Personas,504,administracion,False,rule
+325 - Ministerio del Interior,482,administracion,False,rule
+357 - Ministerio de Economía,477,administracion,False,rule
+669 - Administración Nacional de Aviación Civil,445,administracion,False,rule
+362 - Ministerio de Desarrollo Productivo,437,administracion,False,rule
+852 - Superintendencia de Riesgos de Trabajo,397,administracion,False,rule
+317 - Ministerio de Ambiente y Desarrollo Sostenible,393,administracion,False,rule
+622 - Instituto Nacional de la Propiedad Industrial,384,administracion,False,rule
+338 - Secretaria Legal y Técnica,376,administracion,False,rule
+114 - Instituto Nacional de Asociativismo y Economía Social,371,administracion,False,rule
+366 - Secretaría de Gobierno de Modernización,343,administracion,False,rule
+357- Ministerio de Hacienda,338,administracion,False,rule
+614 - Instituto Nacional de Semillas,283,administracion,False,rule
+664 - Organismo Regulador del Sistema Nacional de Aeropuertos,252,administracion,False,rule
+652 - Ente Nacional Regulador de la Electricidad,233,administracion,False,rule
+362 - Ministerio de Producción y Trabajo,231,administracion,False,rule
+603 - Superintendencia de Seguros de la Nación,219,administracion,False,rule
+203 - Agencia Nacional de Seguridad Vial,193,administracion,False,rule
+349 - Procuración del Tesoro de la Nación,186,administracion,False,rule
+208 - Agencia Nacional de Materiales Controlados,174,administracion,False,rule
+670 - Unidad de Información Financiera,166,administracion,False,rule
+363 - Ministerio de Agricultura; Ganadería y Pesca,165,administracion,False,rule
+317 - Secretaría de Gobierno de Ambiente y Desarrollo Sustentable,153,administracion,False,rule
+322 - Secretaría de Gobierno de Turismo,153,administracion,False,rule
+366 - Secretaría de Innovación Pública,135,administracion,False,rule
+202 - Instituto Nacional contra la Discriminación; Xenofobia y el Racismo,127,administracion,False,rule
+366 - Ministerio de Modernización,122,administracion,False,rule
+620 - Tribunal Fiscal de la Nación,118,administracion,False,rule
+328 - Secretaría de Gobierno de Energía,112,administracion,False,rule
+614 - Instituto Nacional de las Semillas,109,administracion,False,rule
+209 - Agencia de Acceso a la Información Pública,108,administracion,False,rule
+363 - Secretaría de Gobierno de Agroindustria,105,administracion,False,rule
+202 - Instituto Nacional contra la Discriminación; la Xenofobia y el Racismo,99,administracion,False,rule
+368 - SECRETARÍA DE COMUNICACIÓN Y MEDIOS DE LA PRESIDENCIA DE LA NACIÓN,91,administracion,False,rule
+323 - Comision Nacional de Comercio Exterior,83,administracion,False,rule
+612 - Tribunal de Tasaciones de la Nación,77,administracion,False,rule
+347 - Secretaría de Medios y Comunicación Pública,73,administracion,False,rule
+656 - Organismo Regulador de Seguridad de Presas,61,administracion,False,rule
+206 - Centro Internacional para la Promoción de los Derechos Humanos,54,administracion,False,rule
+329 - Ministerio de Comunicaciones,39,administracion,False,rule
+120 - Agencia de Deportes Nacional,36,administracion,False,rule
+362 - Ministerio de Producción,31,administracion,False,rule
+347 - Sistema Federal de Medios y Contenidos Públicos,28,administracion,False,rule
+328 - Secretaría de Energía,20,administracion,False,rule
+674 - ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD,18,administracion,False,rule
+328 - Ministerio de Energía y Minería,15,administracion,False,rule
+322 - Ministerio de Turismo,14,administracion,False,rule
+389 - Ministerio de Desregulación y Transformación del Estado,11,administracion,False,rule
+317 - Ministerio de Ambiente y Desarrollo Sustentable,9,administracion,False,rule
+363 - Ministerio de Agroindustria,8,administracion,False,rule
+716 - BICE Fideicomisos S.A,3,administracion,False,rule
+367 - Ministerio de Finanzas,1,administracion,False,rule
+673 - AGENCIA NACIONAL DE PUERTOS Y NAVEGACIÓN,1,administracion,False,rule
+105 - Comisión Nacional de Energía Atómica,5541,ciencia_universidad,False,rule
+607 - Instituto Nacional de Investigación y Desarrollo Pesquero,2151,ciencia_universidad,False,rule
+112 - Autoridad Regulatoria Nuclear,965,ciencia_universidad,False,rule
+106 - Comisión Nacional de Actividades Espaciales,765,ciencia_universidad,False,rule
+450 - Instituto Geográfico Nacional,478,ciencia_universidad,False,hand-check
+101 - Fundación Miguel Lillo,472,ciencia_universidad,False,rule
+108 - Instituto Nacional del Agua,359,ciencia_universidad,False,hand-check
+624 - Servicio Geológico Minero Argentino,334,ciencia_universidad,False,hand-check
+452 - Servicio Metereológico Nacional,273,ciencia_universidad,False,hand-check
+336 - SECRETARÍA DE INNOVACIÓN; CIENCIA Y TECNOLOGÍA,269,ciencia_universidad,False,rule
+121 - Banco Nacional de Datos Genéticos,261,ciencia_universidad,False,hand-check
+804 - Comisión Nacional de Evaluación y Acreditación Universitaria,222,ciencia_universidad,False,hand-check
+336 - Secretaría de Gobierno de Ciencia; Tecnología e Innovación Productiva,200,ciencia_universidad,False,rule
+103 - Consejo Nacional de Investigaciones Científicas y Técnicas,136,ciencia_universidad,False,rule
+173 - AGENCIA NACIONAL DE PROMOCIÓN DE LA INVESTIGACIÓN; EL DESARROLLO TECNOLÓGICO Y LA INNOVACIÓN,68,ciencia_universidad,False,rule
+608 - Instituto Nacional de Tecnología Industrial,40,ciencia_universidad,False,rule
+336 - Ministerio de Ciencia; Tecnología e Innovación Productiva,4,ciencia_universidad,False,rule
+337 - Secretaría de Cultura,1347,cultura_educacion,False,rule
+113 - Teatro Nacional Cervantes,944,cultura_educacion,False,rule
+330 - SECRETARIA DE EDUCACIÓN – MINISTERIO DE CAPITAL HUMANO,870,cultura_educacion,False,rule
+116 - Biblioteca Nacional,673,cultura_educacion,False,rule
+337 - Secretaría de Gobierno de Cultura,644,cultura_educacion,False,rule
+801 - Instituto Nacional de Cine y Artes Audiovisuales - INCAA,432,cultura_educacion,False,rule
+330 - Ministerio de Educación; Cultura; Ciencia y Tecnología,277,cultura_educacion,False,rule
+802 - Fondo Nacional de las Artes,189,cultura_educacion,False,hand-check
+337 - Ministerio de Cultura,129,cultura_educacion,False,rule
+117 - Instituto Nacional del Teatro,103,cultura_educacion,False,rule
+330 - Ministerio de Educación,19,cultura_educacion,False,rule
+604 - Dirección Nacional de Vialidad,16158,infraestructura,True,rule
+556 - Autoridad de Cuenca Matanza Riachuelo,581,infraestructura,False,hand-check
+613 - Ente Nacional de Obras Hídricas de Saneamiento,457,infraestructura,False,rule
+327 - Ministerio de Transporte,412,infraestructura,False,rule
+325 - Ministerio del Interior; Obras Públicas y Vivienda,411,infraestructura,False,rule
+364-Ministerio de Obras Públicas,216,infraestructura,False,rule
+365-Ministerio de Desarrollo Territorial y Hábitat,182,infraestructura,False,hand-check
+377 - INFRAESTRUCTURA ECONOMICA Y SOCIAL,29,infraestructura,False,rule
+906 - Administración Nacional de Laboratorios e Institutos de Salud “Dr. Carlos Malbrán,4474,salud_social,False,rule
+903 - Hospital Nacional Dr Baldomero Sommer,2160,salud_social,False,rule
+908 - Hospital Nacional Profesor Alejandro Posadas,1973,salud_social,False,rule
+904 - Administración Nacional de Medicamentos; Alimentos y Tecnología Médica - ANMAT,1511,salud_social,False,rule
+311 - Ministerio de Salud y Desarrollo Social,1379,salud_social,False,rule
+850 - Administración Nacional de la Seguridad Social,1189,salud_social,False,rule
+310 - Ministerio de Salud,1060,salud_social,False,rule
+909 - Colonia Nacional Dr. Manuel Montes de Oca,1039,salud_social,False,rule
+350 - Ministerio de Trabajo; Empleo y Seguridad Social,967,salud_social,False,rule
+311 - Ministerio de Desarrollo Social,915,salud_social,False,rule
+902 - Hospital Nacional en Red Especializado en Salud Mental y Adicciones Licenciada Laura Bonaparte,789,salud_social,False,rule
+905 - Instituto Nacional Central Único Coordinador de Ablación e Implante,730,salud_social,False,rule
+910 - Instituto Nacional de Rehabilitación Psicofísica del Sur Dr. Juan Otimio Tesone,689,salud_social,False,rule
+908 - Hospital Nacional Dr. Alejandro Posadas,681,salud_social,False,rule
+310 - Secretaría de Gobierno de Salud,566,salud_social,False,rule
+350 - Secretaría de Gobierno de Trabajo y Empleo,382,salud_social,False,hand-check
+914 - Superintendencia de Servicios de Salud,381,salud_social,False,rule
+303 - Secretaría de Políticas Integrales sobre Drogas,374,salud_social,False,hand-check
+303 - Secretaría de Políticas Integrales Sobre Drogas de la Nación Argentina  (SEDRONAR),309,salud_social,False,hand-check
+341 - Secretaría Nacional de Niñez; Adolescencia y Familia,258,salud_social,False,hand-check
+914 - Superintendecia de Servicios de Salud,256,salud_social,False,rule
+917 - Agencia Nacional de Discapacidad,235,salud_social,False,hand-check
+386-Ministerio de las Mujeres; Géneros y Diversidad,192,salud_social,False,hand-check
+345 - Consejo Nacional de Coordinación de Politicas Sociales,162,salud_social,False,hand-check
+910 - Instituto Nacional de Rehabilitación Psicofísica del Sur DR. Juan otimio Tessone,143,salud_social,False,rule
+311 - Desarrollo Humano y Economía Solidaria,120,salud_social,False,hand-check
+388 - MINSTERIO DE CAPITAL HUMANO,41,salud_social,False,rule
+915 - Instituto Nacional del Cáncer,37,salud_social,False,rule
+919 - ADMINISTRACION NACIONAL DE ESTABLECIMIENTOS DE SALUD,31,salud_social,False,rule
+911 - Instituto Nacional de Servicios Sociales para Jubilados y Pensionados - INSSJP,28,salud_social,False,rule
+118 - Instituto Nacional de Asuntos Indígenas,25,salud_social,False,hand-check
+918 - Instituto Nacional de las Mujeres,11,salud_social,False,hand-check
+916 - Agencia Nacional de Laboratorios Públicos,6,salud_social,False,rule
+374 - Estado Mayor General del Ejercito,44418,seguridad_defensa,True,rule
+379 - Estado Mayor General de la Armada,22823,seguridad_defensa,True,rule
+381 - Estado Mayor General de La Fuerza Aérea,18812,seguridad_defensa,True,rule
+375 - Gendarmeria Nacional,15279,seguridad_defensa,True,rule
+371 - Estado Mayor Conjunto (EMCO),2740,seguridad_defensa,False,rule
+403 - Superintendencia de Bienestar de la Policia Federal Argentina,1965,seguridad_defensa,False,rule
+376 - Subsecretaría de Planeamiento Operativo y Servicio Logístico de la Defensa,1527,seguridad_defensa,False,rule
+343 - Ministerio de Seguridad,1051,seguridad_defensa,False,rule
+370 - Ministerio de Defensa,878,seguridad_defensa,False,rule
+376 - Subsecreataría de Planeamiento Operativo y Servicio Logístico de la Defensa,637,seguridad_defensa,False,rule
+382 - Policia de Seguridad Aeroportuaria,559,seguridad_defensa,False,rule
+380 - Prefectura Naval Argentina,546,seguridad_defensa,True,rule
+451 - Dirección General de Fabricaciones Militares,517,seguridad_defensa,False,rule
+470 - Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares,447,seguridad_defensa,False,rule
+326 - Super Intendencia de la Administracion de la Policia Federal,434,seguridad_defensa,False,rule
+331 - Servicio Penitenciario Federal,384,seguridad_defensa,False,rule
+250 - Caja de Retiros Jubilaciones y Pensiones de la Policía Federal,370,seguridad_defensa,False,rule
+372 - Instituto de Investigaciones Científicas y Técnicas para la Defensa,195,seguridad_defensa,False,rule
+9196 - Dirección de Obra Social del Servicio Penitenciario Federal,28,seguridad_defensa,False,rule
+376 - Subsecretaría del Servicio Logístico de la Defensa,6,seguridad_defensa,False,rule

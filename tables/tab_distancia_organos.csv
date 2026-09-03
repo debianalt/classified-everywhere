@@ -1,0 +1,9 @@
+"variable","categoria","n_adj","km_mediana","km_p25","km_p75"
+"anclado","anclado",82498,26,0,622
+"anclado","no_anclado",56696,0,0,47
+"tipo_organismo","administracion",18445,0,0,23
+"tipo_organismo","ciencia_universidad",9666,29,0,571
+"tipo_organismo","cultura_educacion",4066,0,0,12
+"tipo_organismo","infraestructura",9535,373,0,840
+"tipo_organismo","salud_social",17399,13,0,47
+"tipo_organismo","seguridad_defensa",80083,21,0,571

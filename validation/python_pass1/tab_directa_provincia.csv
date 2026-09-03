@@ -1,0 +1,73 @@
+provincia,era,n,share_directa,nea
+Buenos Aires,fernandez,27308,0.31847810165519264,False
+Buenos Aires,macri,8946,0.46054102392130564,False
+Buenos Aires,milei,20017,0.2645751111555178,False
+CABA,fernandez,44803,0.3793719170591255,False
+CABA,macri,18706,0.4913931358922271,False
+CABA,milei,28509,0.2781226980953383,False
+Catamarca,fernandez,148,0.6081081081081081,False
+Catamarca,macri,98,0.7244897959183674,False
+Catamarca,milei,55,0.4,False
+Chaco,fernandez,600,0.4066666666666667,True
+Chaco,macri,284,0.6232394366197183,True
+Chaco,milei,334,0.2844311377245509,True
+Chubut,fernandez,784,0.4094387755102041,False
+Chubut,macri,231,0.6363636363636364,False
+Chubut,milei,464,0.2672413793103448,False
+Corrientes,fernandez,2189,0.4531749657377798,True
+Corrientes,macri,543,0.3701657458563536,True
+Corrientes,milei,1539,0.43079922027290446,True
+Córdoba,fernandez,6056,0.3972919418758256,False
+Córdoba,macri,1736,0.5754608294930875,False
+Córdoba,milei,4949,0.3230955748636088,False
+Entre Ríos,fernandez,615,0.3934959349593496,False
+Entre Ríos,macri,173,0.5433526011560693,False
+Entre Ríos,milei,425,0.3176470588235294,False
+Formosa,fernandez,265,0.7509433962264151,True
+Formosa,macri,37,0.6216216216216216,True
+Formosa,milei,133,0.6466165413533834,True
+Jujuy,fernandez,249,0.5783132530120482,False
+Jujuy,macri,68,0.5147058823529411,False
+Jujuy,milei,101,0.5841584158415841,False
+La Pampa,fernandez,233,0.4248927038626609,False
+La Pampa,macri,123,0.6341463414634146,False
+La Pampa,milei,70,0.3142857142857143,False
+La Rioja,fernandez,130,0.7,False
+La Rioja,macri,61,0.639344262295082,False
+La Rioja,milei,65,0.38461538461538464,False
+Mendoza,fernandez,1630,0.4331288343558282,False
+Mendoza,macri,494,0.6356275303643725,False
+Mendoza,milei,2195,0.30159453302961275,False
+Misiones,fernandez,671,0.44113263785394935,True
+Misiones,macri,163,0.5276073619631901,True
+Misiones,milei,597,0.3852596314907873,True
+Neuquén,fernandez,284,0.36619718309859156,False
+Neuquén,macri,102,0.5784313725490197,False
+Neuquén,milei,216,0.12962962962962962,False
+Río Negro,fernandez,749,0.49132176234979974,False
+Río Negro,macri,246,0.6504065040650406,False
+Río Negro,milei,323,0.38080495356037153,False
+Salta,fernandez,311,0.41479099678456594,False
+Salta,macri,146,0.4794520547945205,False
+Salta,milei,223,0.36771300448430494,False
+San Juan,fernandez,636,0.4937106918238994,False
+San Juan,macri,127,0.6456692913385826,False
+San Juan,milei,459,0.46187363834422657,False
+San Luis,fernandez,350,0.44285714285714284,False
+San Luis,macri,210,0.5285714285714286,False
+San Luis,milei,208,0.27884615384615385,False
+Santa Cruz,fernandez,311,0.41479099678456594,False
+Santa Cruz,macri,109,0.5321100917431193,False
+Santa Cruz,milei,184,0.42391304347826086,False
+Santa Fe,fernandez,2672,0.46070359281437123,False
+Santa Fe,macri,1105,0.583710407239819,False
+Santa Fe,milei,2448,0.3304738562091503,False
+Santiago del Estero,fernandez,145,0.6758620689655173,False
+Santiago del Estero,macri,83,0.7831325301204819,False
+Santiago del Estero,milei,84,0.6785714285714286,False
+Tierra del Fuego,fernandez,397,0.44584382871536526,False
+Tierra del Fuego,macri,217,0.3271889400921659,False
+Tierra del Fuego,milei,282,0.40425531914893614,False
+Tucumán,fernandez,286,0.44755244755244755,False
+Tucumán,macri,145,0.6827586206896552,False
+Tucumán,milei,246,0.3780487804878049,False

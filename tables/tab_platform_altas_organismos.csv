@@ -1,0 +1,163 @@
+"organismo","primer_ejercicio","ultimo_ejercicio","n_adj","tipo","anclaje"
+"305 - Jefatura de Gabinete de Ministros",2016,2026,1401,"administracion",FALSE
+"301 - Secretaria General de la Presidencia de la Nación",2016,2026,1350,"administracion",FALSE
+"311 - Ministerio de Salud y Desarrollo Social",2016,2021,1046,"salud_social",FALSE
+"343 - Ministerio de Seguridad",2016,2026,968,"seguridad_defensa",FALSE
+"332 - Ministerio de Justicia y Derechos Humanos",2016,2026,749,"administracion",FALSE
+"337 - Secretaría de Gobierno de Cultura",2016,2020,609,"cultura_educacion",FALSE
+"307 - Ministerio de Relaciones Exteriores y Culto",2016,2020,583,"administracion",FALSE
+"205 - Agencia de Administración de Bienes del Estado",2016,2026,531,"administracion",FALSE
+"109 - Sindicatura General de la Nación",2016,2026,473,"administracion",FALSE
+"338 - Secretaria Legal y Técnica",2016,2026,304,"administracion",FALSE
+"366 - Secretaría de Gobierno de Modernización",2016,2019,286,"administracion",FALSE
+"362 - Ministerio de Producción y Trabajo",2016,2020,206,"administracion",FALSE
+"328 - Secretaría de Gobierno de Energía",2016,2022,109,"administracion",FALSE
+"329 - Ministerio de Comunicaciones",2016,2017,37,"administracion",FALSE
+"604 - Dirección Nacional de Vialidad",2017,2026,15529,"infraestructura",TRUE
+"623 - Servicio Nacional de Sanidad y Calidad Agroalimentaria",2017,2026,1282,"administracion",FALSE
+"850 - Administración Nacional de la Seguridad Social",2017,2026,1096,"salud_social",FALSE
+"112 - Autoridad Regulatoria Nuclear",2017,2026,907,"ciencia_universidad",FALSE
+"661 - Comisión Nacional de Regulación de Transporte",2017,2026,871,"administracion",FALSE
+"310 - Ministerio de Salud",2017,2026,853,"salud_social",FALSE
+"370 - Ministerio de Defensa",2017,2026,801,"seguridad_defensa",FALSE
+"201 - Dirección Nacional de Migraciones",2017,2026,795,"administracion",TRUE
+"350 - Ministerio de Trabajo; Empleo y Seguridad Social",2017,2026,720,"salud_social",FALSE
+"311 - Ministerio de Desarrollo Social",2017,2024,657,"salud_social",FALSE
+"376 - Subsecreataría de Planeamiento Operativo y Servicio Logístico de la Defensa",2017,2020,616,"seguridad_defensa",FALSE
+"908 - Hospital Nacional Dr. Alejandro Posadas",2017,2020,581,"salud_social",FALSE
+"207 - Ente Nacional de Comunicaciones",2017,2026,508,"administracion",FALSE
+"451 - Dirección General de Fabricaciones Militares",2017,2019,502,"seguridad_defensa",FALSE
+"347 - Secretaría de Gobierno del Sistema Federal de Medios y Contenidos Públicos",2017,2019,487,"administracion",FALSE
+"321 - Instituto Nacional de Estadísticas y Censos",2017,2026,484,"administracion",FALSE
+"382 - Policia de Seguridad Aeroportuaria",2017,2026,481,"seguridad_defensa",FALSE
+"602 - Comisión Nacional de Valores",2017,2026,459,"administracion",FALSE
+"671 - JUNTA DE SEGURIDAD EN EL TRANSPORTE",2017,2026,448,"administracion",FALSE
+"613 - Ente Nacional de Obras Hídricas de Saneamiento",2017,2024,425,"infraestructura",FALSE
+"669 - Administración Nacional de Aviación Civil",2017,2026,421,"administracion",FALSE
+"310 - Secretaría de Gobierno de Salud",2017,2021,413,"salud_social",FALSE
+"450 - Instituto Geográfico Nacional",2017,2026,401,"ciencia_universidad",FALSE
+"200 - Registro Nacional de las Personas",2017,2026,382,"administracion",FALSE
+"327 - Ministerio de Transporte",2017,2024,370,"infraestructura",FALSE
+"325 - Ministerio del Interior; Obras Públicas y Vivienda",2017,2021,355,"infraestructura",FALSE
+"303 - Secretaría de Políticas Integrales sobre Drogas",2017,2020,346,"salud_social",FALSE
+"331 - Servicio Penitenciario Federal",2017,2026,345,"seguridad_defensa",FALSE
+"114 - Instituto Nacional de Asociativismo y Economía Social",2017,2026,342,"administracion",FALSE
+"852 - Superintendencia de Riesgos de Trabajo",2017,2022,308,"administracion",FALSE
+"357- Ministerio de Hacienda",2017,2020,293,"administracion",FALSE
+"350 - Secretaría de Gobierno de Trabajo y Empleo",2017,2020,277,"salud_social",FALSE
+"330 - Ministerio de Educación; Cultura; Ciencia y Tecnología",2017,2021,239,"cultura_educacion",FALSE
+"914 - Superintendecia de Servicios de Salud",2017,2020,234,"salud_social",FALSE
+"341 - Secretaría Nacional de Niñez; Adolescencia y Familia",2017,2024,232,"salud_social",FALSE
+"452 - Servicio Metereológico Nacional",2017,2025,227,"ciencia_universidad",FALSE
+"664 - Organismo Regulador del Sistema Nacional de Aeropuertos",2017,2026,222,"administracion",FALSE
+"804 - Comisión Nacional de Evaluación y Acreditación Universitaria",2017,2026,204,"ciencia_universidad",FALSE
+"372 - Instituto de Investigaciones Científicas y Técnicas para la Defensa",2017,2026,179,"seguridad_defensa",FALSE
+"336 - Secretaría de Gobierno de Ciencia; Tecnología e Innovación Productiva",2017,2020,172,"ciencia_universidad",FALSE
+"603 - Superintendencia de Seguros de la Nación",2017,2026,170,"administracion",FALSE
+"208 - Agencia Nacional de Materiales Controlados",2017,2025,154,"administracion",FALSE
+"670 - Unidad de Información Financiera",2017,2026,142,"administracion",FALSE
+"317 - Secretaría de Gobierno de Ambiente y Desarrollo Sustentable",2017,2020,137,"administracion",FALSE
+"322 - Secretaría de Gobierno de Turismo",2017,2020,133,"administracion",FALSE
+"345 - Consejo Nacional de Coordinación de Politicas Sociales",2017,2026,133,"salud_social",FALSE
+"337 - Ministerio de Cultura",2017,2018,129,"cultura_educacion",FALSE
+"366 - Ministerio de Modernización",2017,2019,122,"administracion",FALSE
+"202 - Instituto Nacional contra la Discriminación; Xenofobia y el Racismo",2017,2019,107,"administracion",FALSE
+"614 - Instituto Nacional de las Semillas",2017,2019,102,"administracion",FALSE
+"620 - Tribunal Fiscal de la Nación",2017,2026,98,"administracion",FALSE
+"363 - Secretaría de Gobierno de Agroindustria",2017,2021,94,"administracion",FALSE
+"323 - Comision Nacional de Comercio Exterior",2017,2024,76,"administracion",FALSE
+"656 - Organismo Regulador de Seguridad de Presas",2017,2026,55,"administracion",FALSE
+"362 - Ministerio de Producción",2017,2019,31,"administracion",FALSE
+"347 - Sistema Federal de Medios y Contenidos Públicos",2017,2018,28,"administracion",FALSE
+"118 - Instituto Nacional de Asuntos Indígenas",2017,2024,19,"salud_social",FALSE
+"330 - Ministerio de Educación",2017,2019,19,"cultura_educacion",FALSE
+"328 - Ministerio de Energía y Minería",2017,2018,15,"administracion",FALSE
+"317 - Ministerio de Ambiente y Desarrollo Sustentable",2017,2019,9,"administracion",FALSE
+"363 - Ministerio de Agroindustria",2017,2018,8,"administracion",FALSE
+"376 - Subsecretaría del Servicio Logístico de la Defensa",2017,2018,6,"seguridad_defensa",FALSE
+"336 - Ministerio de Ciencia; Tecnología e Innovación Productiva",2017,2018,4,"ciencia_universidad",FALSE
+"379 - Estado Mayor General de la Armada",2018,2026,21670,"seguridad_defensa",TRUE
+"381 - Estado Mayor General de La Fuerza Aérea",2018,2026,18184,"seguridad_defensa",TRUE
+"375 - Gendarmeria Nacional",2018,2026,15159,"seguridad_defensa",TRUE
+"107 - Administración de Parques Nacionales",2018,2026,5906,"administracion",TRUE
+"105 - Comisión Nacional de Energía Atómica",2018,2026,5326,"ciencia_universidad",FALSE
+"906 - Administración Nacional de Laboratorios e Institutos de Salud “Dr. Carlos Malbrán",2018,2026,4243,"salud_social",FALSE
+"371 - Estado Mayor Conjunto (EMCO)",2018,2026,2605,"seguridad_defensa",FALSE
+"903 - Hospital Nacional Dr Baldomero Sommer",2018,2026,2012,"salud_social",FALSE
+"607 - Instituto Nacional de Investigación y Desarrollo Pesquero",2018,2026,1945,"ciencia_universidad",FALSE
+"904 - Administración Nacional de Medicamentos; Alimentos y Tecnología Médica - ANMAT",2018,2026,1492,"salud_social",FALSE
+"909 - Colonia Nacional Dr. Manuel Montes de Oca",2018,2026,948,"salud_social",FALSE
+"113 - Teatro Nacional Cervantes",2018,2026,884,"cultura_educacion",FALSE
+"651 - Ente Nacional Regulador del Gas",2018,2026,777,"administracion",FALSE
+"902 - Hospital Nacional en Red Especializado en Salud Mental y Adicciones Licenciada Laura Bonaparte",2018,2026,757,"salud_social",FALSE
+"609 - Instituto Nacional de Vitivinicultura",2018,2026,725,"administracion",FALSE
+"106 - Comisión Nacional de Actividades Espaciales",2018,2026,671,"ciencia_universidad",FALSE
+"905 - Instituto Nacional Central Único Coordinador de Ablación e Implante",2018,2026,613,"salud_social",FALSE
+"116 - Biblioteca Nacional",2018,2026,596,"cultura_educacion",FALSE
+"556 - Autoridad de Cuenca Matanza Riachuelo",2018,2026,537,"infraestructura",FALSE
+"380 - Prefectura Naval Argentina",2018,2026,463,"seguridad_defensa",TRUE
+"101 - Fundación Miguel Lillo",2018,2026,438,"ciencia_universidad",FALSE
+"622 - Instituto Nacional de la Propiedad Industrial",2018,2026,338,"administracion",FALSE
+"250 - Caja de Retiros Jubilaciones y Pensiones de la Policía Federal",2018,2026,324,"seguridad_defensa",FALSE
+"326 - Super Intendencia de la Administracion de la Policia Federal",2018,2026,321,"seguridad_defensa",FALSE
+"624 - Servicio Geológico Minero Argentino",2018,2026,291,"ciencia_universidad",FALSE
+"917 - Agencia Nacional de Discapacidad",2018,2025,211,"salud_social",FALSE
+"364-Ministerio de Obras Públicas",2018,2024,199,"infraestructura",FALSE
+"802 - Fondo Nacional de las Artes",2018,2026,180,"cultura_educacion",FALSE
+"203 - Agencia Nacional de Seguridad Vial",2018,2026,173,"administracion",FALSE
+"910 - Instituto Nacional de Rehabilitación Psicofísica del Sur DR. Juan otimio Tessone",2018,2019,137,"salud_social",FALSE
+"103 - Consejo Nacional de Investigaciones Científicas y Técnicas",2018,2026,132,"ciencia_universidad",FALSE
+"117 - Instituto Nacional del Teatro",2018,2026,86,"cultura_educacion",FALSE
+"612 - Tribunal de Tasaciones de la Nación",2018,2026,69,"administracion",FALSE
+"206 - Centro Internacional para la Promoción de los Derechos Humanos",2018,2026,53,"administracion",FALSE
+"608 - Instituto Nacional de Tecnología Industrial",2018,2026,40,"ciencia_universidad",FALSE
+"915 - Instituto Nacional del Cáncer",2018,2025,37,"salud_social",FALSE
+"322 - Ministerio de Turismo",2018,2019,14,"administracion",FALSE
+"918 - Instituto Nacional de las Mujeres",2018,2019,11,"salud_social",FALSE
+"916 - Agencia Nacional de Laboratorios Públicos",2018,2023,6,"salud_social",FALSE
+"367 - Ministerio de Finanzas",2018,2018,1,"administracion",FALSE
+"374 - Estado Mayor General del Ejercito",2019,2026,41351,"seguridad_defensa",TRUE
+"403 - Superintendencia de Bienestar de la Policia Federal Argentina",2019,2026,1870,"seguridad_defensa",FALSE
+"470 - Instituto de Ayuda Financiera para pago de Retiros y Pensiones Militares",2019,2026,441,"seguridad_defensa",FALSE
+"108 - Instituto Nacional del Agua",2019,2025,330,"ciencia_universidad",FALSE
+"652 - Ente Nacional Regulador de la Electricidad",2019,2026,198,"administracion",FALSE
+"349 - Procuración del Tesoro de la Nación",2019,2026,178,"administracion",FALSE
+"209 - Agencia de Acceso a la Información Pública",2019,2026,96,"administracion",FALSE
+"120 - Agencia de Deportes Nacional",2019,2020,34,"administracion",FALSE
+"911 - Instituto Nacional de Servicios Sociales para Jubilados y Pensionados - INSSJP",2019,2021,28,"salud_social",FALSE
+"9196 - Dirección de Obra Social del Servicio Penitenciario Federal",2019,2021,28,"seguridad_defensa",FALSE
+"716 - BICE Fideicomisos S.A",2019,2023,3,"administracion",FALSE
+"908 - Hospital Nacional Profesor Alejandro Posadas",2020,2026,1712,"salud_social",FALSE
+"376 - Subsecretaría de Planeamiento Operativo y Servicio Logístico de la Defensa",2020,2026,1469,"seguridad_defensa",FALSE
+"337 - Secretaría de Cultura",2020,2026,1273,"cultura_educacion",FALSE
+"852 - Superintendencia de Riesgos del Trabajo",2020,2026,757,"administracion",FALSE
+"330 - SECRETARIA DE EDUCACIÓN – MINISTERIO DE CAPITAL HUMANO",2020,2026,745,"cultura_educacion",FALSE
+"307 - Ministerio de Relaciones Exteriores; Comercio Internacional y Culto",2020,2026,721,"administracion",FALSE
+"910 - Instituto Nacional de Rehabilitación Psicofísica del Sur Dr. Juan Otimio Tesone",2020,2025,660,"salud_social",FALSE
+"322 - Ministerio de Turismo y Deportes",2020,2026,583,"administracion",FALSE
+"357 - Ministerio de Economía",2020,2026,422,"administracion",FALSE
+"325 - Ministerio del Interior",2020,2026,409,"administracion",FALSE
+"801 - Instituto Nacional de Cine y Artes Audiovisuales - INCAA",2020,2026,397,"cultura_educacion",FALSE
+"362 - Ministerio de Desarrollo Productivo",2020,2026,394,"administracion",FALSE
+"317 - Ministerio de Ambiente y Desarrollo Sostenible",2020,2026,351,"administracion",FALSE
+"914 - Superintendencia de Servicios de Salud",2020,2026,313,"salud_social",FALSE
+"303 - Secretaría de Políticas Integrales Sobre Drogas de la Nación Argentina  (SEDRONAR)",2020,2026,288,"salud_social",FALSE
+"614 - Instituto Nacional de Semillas",2020,2026,255,"administracion",FALSE
+"121 - Banco Nacional de Datos Genéticos",2020,2026,238,"ciencia_universidad",FALSE
+"336 - SECRETARÍA DE INNOVACIÓN; CIENCIA Y TECNOLOGÍA",2020,2026,220,"ciencia_universidad",FALSE
+"386-Ministerio de las Mujeres; Géneros y Diversidad",2020,2023,170,"salud_social",FALSE
+"365-Ministerio de Desarrollo Territorial y Hábitat",2020,2023,169,"infraestructura",FALSE
+"363 - Ministerio de Agricultura; Ganadería y Pesca",2020,2023,144,"administracion",FALSE
+"366 - Secretaría de Innovación Pública",2020,2022,129,"administracion",FALSE
+"202 - Instituto Nacional contra la Discriminación; la Xenofobia y el Racismo",2020,2024,86,"administracion",FALSE
+"368 - SECRETARÍA DE COMUNICACIÓN Y MEDIOS DE LA PRESIDENCIA DE LA NACIÓN",2020,2026,85,"administracion",FALSE
+"347 - Secretaría de Medios y Comunicación Pública",2020,2023,66,"administracion",FALSE
+"328 - Secretaría de Energía",2020,2024,18,"administracion",FALSE
+"173 - AGENCIA NACIONAL DE PROMOCIÓN DE LA INVESTIGACIÓN; EL DESARROLLO TECNOLÓGICO Y LA INNOVACIÓN",2022,2026,58,"ciencia_universidad",FALSE
+"311 - Desarrollo Humano y Economía Solidaria",2024,2026,102,"salud_social",FALSE
+"388 - MINSTERIO DE CAPITAL HUMANO",2024,2026,39,"salud_social",FALSE
+"377 - INFRAESTRUCTURA ECONOMICA Y SOCIAL",2024,2026,29,"infraestructura",FALSE
+"389 - Ministerio de Desregulación y Transformación del Estado",2025,2026,11,"administracion",FALSE
+"673 - AGENCIA NACIONAL DE PUERTOS Y NAVEGACIÓN",2025,2025,1,"administracion",FALSE
+"919 - ADMINISTRACION NACIONAL DE ESTABLECIMIENTOS DE SALUD",2026,2026,31,"salud_social",FALSE
+"674 - ENTE NACIONAL REGULADOR DEL GAS Y LA ELECTRICIDAD",2026,2026,18,"administracion",FALSE

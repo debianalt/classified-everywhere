@@ -1,0 +1,13 @@
+"provincia","n_proveedores","estrato","nea","categorias_comunes","benzecri_dim1","benzecri_dim2","congruencia_dim1","dim_que_matchea","congruencia_dim1_vs_dim1","rv","rv_p"
+"Río Negro",191,"middle",FALSE,25,48.8,27.4,0.689,1,0.689,0.535,1.32e-06
+"Córdoba",690,"core",FALSE,25,36.2,28.7,0.701,1,0.701,0.673,3.36e-07
+"CABA",3954,"core",FALSE,25,49,34.2,0.711,2,0.641,0.495,2.03e-06
+"Misiones",228,"outer",TRUE,24,49,16.6,0.741,1,0.741,0.416,0.00173
+"Santa Fe",457,"core",FALSE,25,45.3,30.2,0.761,1,0.761,0.753,7.59e-11
+"Chubut",243,"middle",FALSE,25,45.7,30.9,0.769,1,0.769,0.605,1.29e-06
+"Neuquén",155,"middle",FALSE,25,50.8,19.6,0.772,1,0.772,0.601,1.25e-06
+"Chaco",161,"outer",TRUE,24,50.7,21.4,0.783,1,0.783,0.542,7.8e-06
+"Corrientes",157,"outer",TRUE,25,36.8,25.6,0.793,1,0.793,0.437,0.00179
+"Entre Ríos",176,"middle",FALSE,25,48,30.8,0.818,1,0.818,0.675,1.57e-07
+"Mendoza",325,"core",FALSE,25,52,15.5,0.88,1,0.88,0.557,3.47e-06
+"Buenos Aires",2618,"core",FALSE,25,60.5,22.5,0.973,1,0.973,0.709,4.56e-10

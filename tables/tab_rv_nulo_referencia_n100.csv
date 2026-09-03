@@ -1,0 +1,3 @@
+"distribucion","replicas","p2.5","mediana","p97.5","comunes_medianas"
+"Random slices of the country at n = 150",400,0.26,0.464,0.683,25
+"Two halves of the country against each other",200,0.802,0.941,0.976,25

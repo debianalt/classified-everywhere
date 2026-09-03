@@ -1,0 +1,20 @@
+apartado_raw,apartado_num,familia,n_filas
+Apartado 2: Adjudicación Simple por Especialidad,2,cualitativo,1413
+Apartado g: Adjudicación Simple por especialidad,2,cualitativo,2
+Apartado 3: Adjudicación Simple por Exclusividad,3,cualitativo,4603
+Apartado h: Adjudicación Simple por exclusividad,3,cualitativo,22
+Apartado 1: Compulsa Abreviada Por Monto,1,cuantitativo,57626
+Apartado a: Compulsa Abreviada por monto mayor a M 150 y menor a M 1.300,1,cuantitativo,107
+Apartado f: Compulsa Abreviada por monto hasta M 150,1,cuantitativo,82
+Apartado 8: Adjudicación Simple Interadministrativa,8,interadministrativo,4548
+Apartado l: Adjudicación Simple interadministrativa,8,interadministrativo,61
+Apartado 9: Adjudicación Simple con Universidades Nacionales,9,interadministrativo,866
+Apartado 4: Compulsa Abreviada por Licitación o Concurso Desierto o Fracasado,4,otros,61
+Apartado 5: Adjudicación Simple por Emergencia,5,otros,176
+Apartado 5: Compulsa Abreviada por Urgencia,5,otros,1714
+Apartado d: Compulsa Abreviada por urgencia,5,otros,1
+Apartado 7: Adjudicación Simple por Desarme  Traslado o Examen Previo,7,otros,1103
+Apartado k: Adjudicación Simple por desarme  traslado o examen previo,7,otros,4
+Apartado 10: Adjudicación Simple con Efectores de Desarrollo Local y Economía Social,10,otros,493
+Apartado 10: Compulsa Abreviada con Efectores de Desarrollo Local y Economía Social,10,otros,19
+Apartado 11: Adjudicación Simple por Locación de Inmuebles,11,otros,1182

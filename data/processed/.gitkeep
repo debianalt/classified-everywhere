@@ -1,0 +1,3 @@
+# The parquets of the data layer are rebuilt here by scripts 00-02, 09,
+# 33, 34 and 43. They are not distributed: they carry supplier names and
+# taxpayer identifiers. See data/README.md.

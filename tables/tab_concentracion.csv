@@ -1,0 +1,25 @@
+"provincia","grupo","n_adj","proveedores","share_prov_lider","share_region_lider","share_pais_lider","personeria_lider","cliente_lider","anios_lider","directa_lider"
+"San Juan","Cuyo",1100,110,0.649,0.132,0.0044,"Persona Fisica","seguridad_defensa",6,0.427
+"Corrientes","North-east",3870,157,0.405,0.238,0.0096,"Persona Fisica","seguridad_defensa",7,0.412
+"San Luis","Cuyo",670,73,0.319,0.04,0.0013,"Sociedad Anonima","seguridad_defensa",7,0.112
+"Río Negro","Patagonia",1172,191,0.288,0.079,0.0021,"Persona Fisica","seguridad_defensa",7,0.358
+"La Pampa","Pampean",370,94,0.243,0.005,6e-04,"Sociedad Responsabilidad Limitada","administracion",6,0.267
+"Salta","North-west",581,133,0.239,0.062,9e-04,"Persona Fisica","seguridad_defensa",7,0.173
+"Tierra del Fuego","Patagonia",794,131,0.207,0.038,0.001,"Persona Fisica","seguridad_defensa",5,0.665
+"Tucumán","North-west",555,134,0.186,0.046,6e-04,"Otras Formas Societarias","seguridad_defensa",5,0.01
+"Catamarca","North-west",247,59,0.154,0.017,2e-04,"Sociedad Responsabilidad Limitada","infraestructura",5,0.684
+"Misiones","North-east",1272,228,0.15,0.029,0.0012,"Persona Fisica","seguridad_defensa",7,0.309
+"Mendoza","Cuyo",3642,326,0.146,0.098,0.0032,"Persona Fisica","seguridad_defensa",4,0.338
+"Chaco","North-east",1047,161,0.138,0.022,9e-04,"Persona Fisica","seguridad_defensa",7,0.194
+"Chubut","Patagonia",1291,243,0.137,0.041,0.0011,"Persona Fisica","seguridad_defensa",7,0.006
+"La Rioja","North-west",223,64,0.13,0.013,2e-04,"Sociedad Anonima","seguridad_defensa",5,0.034
+"Santiago del Estero","North-west",252,81,0.107,0.012,2e-04,"Persona Fisica","seguridad_defensa",3,0.852
+"Santa Cruz","Patagonia",517,140,0.106,0.013,3e-04,"Persona Fisica","infraestructura",6,0.364
+"Formosa","North-east",408,111,0.105,0.007,3e-04,"Persona Fisica","infraestructura",4,0.651
+"Neuquén","Patagonia",508,155,0.098,0.012,3e-04,"Persona Fisica","seguridad_defensa",6,0.02
+"Santa Fe","Pampean",5419,459,0.095,0.029,0.0032,"Sociedad Responsabilidad Limitada","seguridad_defensa",7,0.407
+"Entre Ríos","Pampean",1045,177,0.091,0.005,6e-04,"Cooperativas","infraestructura",5,0.116
+"Córdoba","Pampean",11132,690,0.079,0.049,0.0054,"Sociedades De Hecho","seguridad_defensa",7,0.338
+"Jujuy","North-west",379,98,0.061,0.01,1e-04,"Sociedad Responsabilidad Limitada","seguridad_defensa",3,0.174
+"Buenos Aires","Metropolitan",48748,2624,0.04,0.016,0.0121,"Persona Fisica","seguridad_defensa",7,0.424
+"CABA","Metropolitan",77884,3963,0.025,0.015,0.0118,"Sociedad Responsabilidad Limitada","seguridad_defensa",7,0.357

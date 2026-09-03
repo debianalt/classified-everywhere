@@ -1,0 +1,13 @@
+"provincia","estrato","replicas","rv_mediano","ic_lo","ic_hi","eje2_mediano"
+"CABA","core",300,0.427,0.261,0.633,0.549
+"Buenos Aires","core",300,0.581,0.39,0.759,0.59
+"Córdoba","core",300,0.464,0.25,0.703,0.602
+"Santa Fe","core",300,0.636,0.486,0.776,0.656
+"Mendoza","core",300,0.619,0.397,0.763,0.428
+"Chubut","middle",300,0.508,0.389,0.617,0.597
+"Misiones","outer",300,0.69,0.471,0.785,0.403
+"Río Negro","middle",300,0.613,0.536,0.676,0.487
+"Entre Ríos","middle",300,0.77,0.722,0.812,0.763
+"Chaco","outer",300,0.623,0.404,0.696,0.322
+"Corrientes","outer",300,0.787,0.743,0.811,0.751
+"Neuquén","middle",300,0.617,0.593,0.658,0.437

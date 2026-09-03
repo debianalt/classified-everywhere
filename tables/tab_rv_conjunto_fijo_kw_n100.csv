@@ -1,0 +1,7 @@
+"prueba","estadistico","p","provincias"
+"Kruskal-Wallis entre estratos, RV conjunto variable",5.529,0.063,18
+"Kruskal-Wallis entre estratos, RV conjunto fijo",5.15,0.0761,18
+"Kruskal-Wallis entre estratos, RV conjunto fijo a n = 100",1.324,0.516,18
+"Spearman: n vs RV conjunto fijo",0.48,0.0457,18
+"Spearman: n vs RV conjunto fijo a n = 100",-0.199,0.427,18
+"Spearman: RV variable vs RV fijo",0.674,0.00283,18

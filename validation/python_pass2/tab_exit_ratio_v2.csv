@@ -1,0 +1,25 @@
+provincia,firmas_ganadoras,sociedades_ganadoras,stock,exit_ratio_firmas,exit_ratio_soc,nea
+Buenos Aires,2911,1458,294076,1.0102,0.8587,False
+CABA,4545,3553,442975,1.047,1.3893,False
+Catamarca,64,30,5251,1.2438,0.9896,False
+Chaco,173,57,17962,0.9829,0.5496,True
+Chubut,266,99,13280,2.0441,1.2912,False
+Corrientes,161,67,14308,1.1483,0.8111,True
+Córdoba,752,424,96901,0.792,0.7579,False
+Entre Ríos,193,81,18888,1.0427,0.7428,False
+Formosa,111,25,5355,2.1153,0.8086,True
+Jujuy,104,40,8974,1.1826,0.772,False
+La Pampa,101,37,8217,1.2543,0.7799,False
+La Rioja,72,29,5388,1.3637,0.9323,False
+Mendoza,362,193,53654,0.6885,0.623,False
+Misiones,254,76,14270,1.8164,0.9225,True
+Neuquén,168,67,13901,1.2333,0.8348,False
+Río Negro,209,70,16061,1.328,0.7549,False
+Salta,151,50,19910,0.774,0.435,False
+San Juan,128,64,13967,0.9352,0.7937,False
+San Luis,83,45,12387,0.6838,0.6292,False
+Santa Cruz,154,51,5835,2.6933,1.5139,False
+Santa Fe,506,305,87158,0.5924,0.6061,False
+Santiago del Estero,96,29,11295,0.8673,0.4447,False
+Tierra del Fuego,140,73,6089,2.3463,2.0766,False
+Tucumán,155,64,24096,0.6564,0.46,False

@@ -1,0 +1,14 @@
+"region","cohorte","sobrevive_en","n_cohorte","tasa_supervivencia"
+"NEA","macri","fernandez",225,0.636
+"NEA","macri","milei",225,0.32
+"NEA","fernandez","milei",321,0.312
+"Metro","macri","fernandez",4233,0.558
+"Metro","macri","milei",4233,0.356
+"Metro","fernandez","milei",2602,0.313
+"Resto","macri","fernandez",1610,0.55
+"Resto","macri","milei",1610,0.294
+"Resto","fernandez","milei",1559,0.303
+"Chaco","macri","milei",68,0.294
+"Corrientes","macri","milei",54,0.352
+"Formosa","macri","milei",25,0.24
+"Misiones","macri","milei",78,0.346

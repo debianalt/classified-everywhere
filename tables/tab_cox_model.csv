@@ -1,0 +1,58 @@
+"modelo","termino","HR","ic_lo","ic_hi","z","p"
+"aditivo","regionMetro",0.964,0.861,1.08,-0.62,0.532
+"aditivo","regionResto",0.988,0.884,1.105,-0.21,0.834
+"aditivo","territorialanclado",0.813,0.764,0.864,-6.63,3.36e-11
+"aditivo","formaSRL",1.027,0.947,1.113,0.64,0.52
+"aditivo","formaPersFisica",1.213,1.128,1.304,5.21,1.88e-07
+"aditivo","formaOtraForma",1.358,1.229,1.5,6.01,1.9e-09
+"aditivo","rubroALQUILER",0.937,0.806,1.089,-0.85,0.397
+"aditivo","rubroELECTRICIDAD Y TEL",1.35,1.13,1.615,3.3,0.000978
+"aditivo","rubroEQUIPOS",1.253,1.066,1.473,2.74,0.0062
+"aditivo","rubroLIBRERIA PAP. Y UT",1.664,1.382,2.004,5.37,7.81e-08
+"aditivo","rubroMANT. REPARACION Y",1.13,0.988,1.292,1.79,0.0737
+"aditivo","rubroOTROS",1.29,1.133,1.467,3.86,0.000114
+"aditivo","rubroPROD. MEDICO/FARMA",0.707,0.564,0.886,-3.01,0.00263
+"aditivo","rubroSERV. PROFESIONAL ",1.359,1.187,1.556,4.44,9.01e-06
+"aditivo","entrada_c",1.157,1.137,1.177,16.61,5.66e-62
+"aditivo","intensidad_entrada",0.505,0.467,0.545,-17.4,8.09e-68
+"con interaccion region x territorial","regionMetro",0.76,0.598,0.968,-2.23,0.0259
+"con interaccion region x territorial","regionResto",0.771,0.602,0.988,-2.05,0.0401
+"con interaccion region x territorial","territorialanclado",0.613,0.471,0.798,-3.65,0.000267
+"con interaccion region x territorial","formaSRL",1.026,0.946,1.112,0.61,0.54
+"con interaccion region x territorial","formaPersFisica",1.21,1.126,1.301,5.16,2.52e-07
+"con interaccion region x territorial","formaOtraForma",1.353,1.224,1.495,5.93,3.08e-09
+"con interaccion region x territorial","rubroALQUILER",0.93,0.8,1.082,-0.94,0.347
+"con interaccion region x territorial","rubroELECTRICIDAD Y TEL",1.35,1.129,1.614,3.29,0.000989
+"con interaccion region x territorial","rubroEQUIPOS",1.252,1.065,1.472,2.73,0.00641
+"con interaccion region x territorial","rubroLIBRERIA PAP. Y UT",1.668,1.385,2.009,5.4,6.85e-08
+"con interaccion region x territorial","rubroMANT. REPARACION Y",1.128,0.987,1.29,1.77,0.0772
+"con interaccion region x territorial","rubroOTROS",1.289,1.132,1.466,3.85,0.00012
+"con interaccion region x territorial","rubroPROD. MEDICO/FARMA",0.704,0.562,0.883,-3.03,0.00241
+"con interaccion region x territorial","rubroSERV. PROFESIONAL ",1.358,1.186,1.554,4.43,9.52e-06
+"con interaccion region x territorial","entrada_c",1.158,1.138,1.178,16.64,3.46e-62
+"con interaccion region x territorial","intensidad_entrada",0.504,0.467,0.545,-17.39,9.1e-68
+"con interaccion region x territorial","regionMetro:territorialanclado",1.335,1.018,1.753,2.09,0.037
+"con interaccion region x territorial","regionResto:territorialanclado",1.352,1.024,1.785,2.13,0.0333
+"estratificado por rubro y cohorte","regionMetro",0.935,0.834,1.048,-1.15,0.25
+"estratificado por rubro y cohorte","regionResto",0.966,0.864,1.081,-0.6,0.552
+"estratificado por rubro y cohorte","territorialanclado",0.815,0.767,0.867,-6.47,9.91e-11
+"estratificado por rubro y cohorte","formaSRL",1.03,0.949,1.117,0.7,0.481
+"estratificado por rubro y cohorte","formaPersFisica",1.222,1.135,1.314,5.36,8.4e-08
+"estratificado por rubro y cohorte","formaOtraForma",1.361,1.23,1.505,6,1.99e-09
+"estratificado por rubro y cohorte","intensidad_banda2-5",0.627,0.585,0.673,-13.13,2.14e-39
+"estratificado por rubro y cohorte","intensidad_banda6-20",0.362,0.304,0.431,-11.43,2.92e-30
+"estratificado por rubro y cohorte","intensidad_banda20+",0.238,0.156,0.364,-6.64,3.22e-11
+"estratificado + intensidad","regionMetro",0.945,0.842,1.061,-0.95,0.34
+"estratificado + intensidad","regionResto",0.984,0.879,1.102,-0.28,0.782
+"estratificado + intensidad","territorialanclado",0.813,0.764,0.865,-6.5,7.97e-11
+"estratificado + intensidad","formaSRL",1.024,0.944,1.112,0.57,0.568
+"estratificado + intensidad","formaPersFisica",1.219,1.132,1.312,5.25,1.49e-07
+"estratificado + intensidad","formaOtraForma",1.357,1.226,1.501,5.9,3.65e-09
+"efecto por periodo","regionMetro",0.946,0.843,1.062,-0.95,0.344
+"efecto por periodo","regionResto",0.984,0.879,1.102,-0.27,0.784
+"efecto por periodo","territorialanclado",0.817,0.764,0.873,-5.92,3.26e-09
+"efecto por periodo","periodoanios 4+",NA,NA,NA,NA,NA
+"efecto por periodo","formaSRL",1.024,0.944,1.112,0.57,0.566
+"efecto por periodo","formaPersFisica",1.219,1.132,1.313,5.26,1.47e-07
+"efecto por periodo","formaOtraForma",1.357,1.226,1.501,5.9,3.7e-09
+"efecto por periodo","territorialanclado:periodoanios 4+",0.968,0.823,1.139,-0.39,0.698

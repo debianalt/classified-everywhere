@@ -1,0 +1,26 @@
+"categoria","dim1","dim2","variable","ctr_dim1","ctr_dim2","n","pct"
+"A_cliente.seguridad_defensa",-0.783,-0.204,"A_cliente",14.23,1.02,4017,38
+"A_directa.mixto",-0.718,0.594,"A_directa",7.48,5.38,2505,23.7
+"A_rubro.ALIMENTOS",-0.665,-0.256,"A_rubro",1.63,0.25,635,6
+"A_escala.chica",-0.649,-0.464,"A_escala",8.29,4.47,3407,32.2
+"A_rubro.OTROS",-0.479,0.115,"A_rubro",4.33,0.26,3264,30.9
+"A_personeria.SRL",-0.331,0.51,"A_personeria",1.58,3.95,2496,23.6
+"A_registro.reg22plus",-0.263,-0.96,"A_registro",0.74,10.45,1862,17.6
+"A_registro.reg16_18",-0.148,0.497,"A_registro",0.74,8.79,5858,55.4
+"A_escala.media",-0.136,-0.198,"A_escala",0.36,0.81,3406,32.2
+"A_rubro.MANT. REPARACION Y",-0.127,-0.27,"A_rubro",0.2,0.94,2107,19.9
+"A_personeria.PersFisica",-0.106,-0.826,"A_personeria",0.28,17.78,4278,40.4
+"A_rubro.EQUIPOS",-0.086,1.252,"A_rubro",0.03,5.99,628,5.9
+"A_cliente.ciencia_universidad",-0.082,0.562,"A_cliente",0.03,1.47,764,7.2
+"A_directa.sin_directa",-0.017,0.249,"A_directa",0.01,1.35,3568,33.7
+"A_personeria.SA",0.105,0.947,"A_personeria",0.18,15.57,2850,26.9
+"A_cliente.infraestructura",0.183,-0.197,"A_cliente",0.25,0.3,1296,12.2
+"A_cliente.administracion",0.382,0.148,"A_cliente",2.06,0.33,2440,23.1
+"A_directa.mayoria_directa",0.413,-0.527,"A_directa",4.45,7.63,4507,42.6
+"A_registro.reg19_21",0.474,-0.392,"A_registro",3.72,2.67,2860,27
+"A_rubro.SERV. PROFESIONAL ",0.515,-0.06,"A_rubro",2.83,0.04,1841,17.4
+"A_cliente.cultura_educacion",0.692,0.063,"A_cliente",1.63,0.01,588,5.6
+"A_escala.grande",0.779,0.605,"A_escala",11.95,7.61,3407,32.2
+"A_personeria.OtraForma",1.024,-0.458,"A_personeria",5.8,1.22,956,9
+"A_cliente.salud_social",1.106,0.167,"A_cliente",10.44,0.25,1475,13.9
+"A_rubro.ALQUILER",1.789,-0.51,"A_rubro",16.79,1.44,907,8.6
