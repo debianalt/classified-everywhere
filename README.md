@@ -14,8 +14,8 @@ registration cohort — and compares sub-national configurations of that space.
 
 | Included | |
 |---|---|
-| `*.R`, `*.py` | every script of the pipeline, 60 files |
-| `tables/` | the 158 canonical outputs every number in the paper is quoted from |
+| `*.R`, `*.py` | every script of the pipeline, 61 files |
+| `tables/` | the 166 canonical outputs every number in the paper is quoted from |
 | `figures/` | the twelve submission figures as PNG (TIFF and EPS on request) |
 | `data/raw/` | the public inputs that are small and carry no personal data |
 | `data/raw/covariates/` | the hand-coded covariates, with `SOURCES.md` |
@@ -89,7 +89,7 @@ company denominators, the consumer price index and the exchange-rate series;
 `09_buyer_typology.py` classifies the buying organisms; `33_uoc_gazetteer.py`
 places the 539 purchasing units at their seats; `34_flujos_intercambio.py`
 joins each award's unit seat to its supplier's locality; `43_apartado.py`
-extracts the legal ground of each award made outside open competition.
+extracts the legal ground of each award made outside open competition. `48_objetos_unidad.py` lists what one anchored unit buys, in the register's own words, choosing the unit by a declared rule (Table S37).
 
 **Analysis layer, R.** `theme_house.R` holds the analysis window, the palette,
 the category labels and the shared space builder, and every script sources it.

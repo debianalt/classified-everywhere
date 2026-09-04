@@ -973,6 +973,84 @@ def build():
         "infrastructure clients come from anchored organs, the road "
         "districts.")
 
+    B["S36"] = block(
+        "S36", "The documentary corpus: dated public statements quoted in the "
+               "text, with their sources.",
+        md_table("tab_corpus_voces.csv",
+                 cols=["id", "actor", "tipo", "fecha", "fuente", "citado_en"],
+                 renames={"id": "Id", "actor": "Actor", "tipo": "Type",
+                          "fecha": "Date", "fuente": "Source",
+                          "citado_en": "Quoted in"}),
+        "Every item is a public document or a public statement reported in the "
+        "press, read on 4 September 2026 and archived with its full text by the "
+        "authors; every source is public and its address is given. Firms and natural persons "
+        "named in the documents are not named in the manuscript. Items dated "
+        "before the analysis window are position-takings whose date the text "
+        "states where it quotes them; items marked 'Table S36 only' were read "
+        "and archived but are not quoted in the text. Translations are the "
+        "authors'.")
+
+    B["S37"] = block(
+        "S37", "A year in the ledger: the median garrison and the median "
+               "anchored unit of the north-east.",
+        md_table("tab_unidad_mediana_eleccion.csv",
+                 cols=["uoc", "prov_uoc", "tipo_organismo", "n_adj", "elegida"],
+                 renames={"uoc": "Purchasing unit", "prov_uoc": "Province",
+                          "tipo_organismo": "Type of organ", "n_adj": "Awards",
+                          "elegida": "Chosen"},
+                 digits={"n_adj": 0}, maps={"tipo_organismo": TIPO})
+        + "\n\n" + md_table("tab_unidad_guarnicion_resumen.csv",
+                            cols=["ejercicio", "adjudicaciones", "proveedores",
+                                  "pct_personas_fisicas", "pct_proveedores_locales",
+                                  "pct_directa", "pct_cuantitativo"],
+                            renames={"ejercicio": "Year",
+                                     "adjudicaciones": "Awards",
+                                     "proveedores": "Distinct suppliers",
+                                     "pct_personas_fisicas": "To natural persons (%)",
+                                     "pct_proveedores_locales": "To suppliers of the same locality (%)",
+                                     "pct_directa": "Direct contracting (%)",
+                                     "pct_cuantitativo": "Exempt on the amount (%)"},
+                            digits={"adjudicaciones": 0, "proveedores": 0,
+                                    "pct_personas_fisicas": 1,
+                                    "pct_proveedores_locales": 1,
+                                    "pct_directa": 1, "pct_cuantitativo": 1})
+        + "\n\n" + md_table("tab_unidad_guarnicion_objetos.csv",
+                            cols=["familia_objeto", "objeto_norm", "adjudicaciones",
+                                  "proveedores", "pct_personas_fisicas"],
+                            renames={"familia_objeto": "Family",
+                                     "objeto_norm": "Object of the process, as recorded (normalised)",
+                                     "adjudicaciones": "Awards",
+                                     "proveedores": "Distinct suppliers",
+                                     "pct_personas_fisicas": "To natural persons (%)"},
+                            digits={"adjudicaciones": 0, "proveedores": 0,
+                                    "pct_personas_fisicas": 1},
+                            sort=lambda r: -int(r["adjudicaciones"]), limit=20)
+        + "\n\n" + md_table("tab_unidad_mediana_resumen.csv",
+                            cols=["ejercicio", "adjudicaciones", "proveedores",
+                                  "pct_personas_fisicas", "pct_proveedores_locales",
+                                  "pct_directa"],
+                            renames={"ejercicio": "Year",
+                                     "adjudicaciones": "Awards",
+                                     "proveedores": "Distinct suppliers",
+                                     "pct_personas_fisicas": "To natural persons (%)",
+                                     "pct_proveedores_locales": "To suppliers of the same locality (%)",
+                                     "pct_directa": "Direct contracting (%)"},
+                            digits={"adjudicaciones": 0, "proveedores": 0,
+                                    "pct_personas_fisicas": 1,
+                                    "pct_proveedores_locales": 1,
+                                    "pct_directa": 1}),
+        "First panel: the 29 anchored purchasing units seated in the four "
+        "north-eastern provinces with at least 50 awards in the window, ranked "
+        "by awards; the median unit of all 29 and the median of the 24 "
+        "security and defence units are marked. Second and third panels: the "
+        "median garrison, the Gendarmerie's Sixth Regional Command in the city "
+        "of Formosa, year by year and by object of purchase (the twenty most "
+        "frequent objects, in the register's wording, normalised and grouped "
+        "by family). Fourth panel: the median anchored unit of any type, the "
+        "Mburucuyá National Park in Corrientes, year by year. Localities are "
+        "compared as recorded in the register. Counts only; suppliers are not "
+        "named.")
+
     B["S13"] = block(
         "S13", "The size control: every province drawn down to 150 "
                "suppliers.",
