@@ -14,8 +14,8 @@ registration cohort — and compares sub-national configurations of that space.
 
 | Included | |
 |---|---|
-| `*.R`, `*.py` | every script of the pipeline, 58 files |
-| `tables/` | the 150 canonical outputs every number in the paper is quoted from |
+| `*.R`, `*.py` | every script of the pipeline, 60 files |
+| `tables/` | the 158 canonical outputs every number in the paper is quoted from |
 | `figures/` | the twelve submission figures as PNG (TIFF and EPS on request) |
 | `data/raw/` | the public inputs that are small and carry no personal data |
 | `data/raw/covariates/` | the hand-coded covariates, with `SOURCES.md` |
@@ -93,7 +93,8 @@ extracts the legal ground of each award made outside open competition.
 
 **Analysis layer, R.** `theme_house.R` holds the analysis window, the palette,
 the category labels and the shared space builder, and every script sources it.
-`30_espacio_c10.R` is the canonical diagnostic of the published space;
+`30_espacio_c10.R` is the canonical diagnostic of the published space and
+`47_csmca_reconciliacion.R` reads its class-specific axes on the individuals;
 `13_publication_figures.R`, `17`, `18`, `22`, `28`, `35` and `36` write the
 figures; `38_tablas_si.R` writes the supplementary tables; `99_crossval.R`
 compares the R results against the frozen Python pass in `validation/`.

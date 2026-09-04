@@ -705,6 +705,27 @@ def build():
                             sort=lambda r: -float(r["dim.2"])),
         "A supplementary element takes no part in building the axes; its test " "value states how far its position departs from the centre of the " "cloud. Coordinates are in the scale of the cloud of categories, the " "barycentre of a category's individuals dilated by the inverse square " "root of the axis eigenvalue; the stratum gap of 0.8 standard deviations " "quoted in the text is computed on the undilated barycentres, 0.09 for " "the core and −0.33 for the outer stratum, against the standard deviation " "of the individuals on the axis, 0.51.")
 
+    B["S10b"] = block(
+        "S10b", "Size of the supplementary categories.",
+        md_table("tab_c10_supvars_n.csv",
+                 renames={"variable": "Variable", "categoria": "Category",
+                          "n": "Suppliers", "share": "Share (%)"},
+                 digits={"n": 0, "share": 1},
+                 maps={"variable": {"intensidad": "Award intensity",
+                                    "tenure": "Tenure",
+                                    "cohorte_arca": "Founding cohort",
+                                    "fundamento": "Ground of the exception",
+                                    "estrato": "Stratum"},
+                       "categoria": {"sin_fundamento":
+                                         "Never exempted from competition",
+                                     "solo_aritmetico":
+                                         "Exempted on the amount",
+                                     "consagrado":
+                                         "Named on exclusivity or specialty"}}),
+        "Counts over the 10,580 suppliers of the space. A third hold a single "
+        "award in the window, so their profile on the six active variables is "
+        "that one exchange.")
+
     B["S11"] = block(
         "S11", "The per-province solutions against the national "
                "configuration, axis by axis.",
@@ -894,6 +915,63 @@ def build():
         "core structure. The axes of a specific analysis can reorder across "
         "subclouds, so the best absolute correlation is reported with the "
         "axis that achieves it.")
+
+    B["S12b"] = block(
+        "S12b", "What each class-specific axis carries, and the dispersion of "
+                "the subclouds on the national axes.",
+        md_table("tab_csmca_ejes_individuos.csv",
+                 cols=["estrato", "eje_cs", "tasa_modif_cs", "r_nac1",
+                       "r_nac2", "r_nac3", "r_nac4", "r_nac5",
+                       "eje_nacional_que_carga"],
+                 renames={"estrato": "Stratum",
+                          "eje_cs": "Class-specific axis",
+                          "tasa_modif_cs": "Modified rate (%)",
+                          "r_nac1": "National axis 1",
+                          "r_nac2": "National axis 2",
+                          "r_nac3": "National axis 3",
+                          "r_nac4": "National axis 4",
+                          "r_nac5": "National axis 5",
+                          "eje_nacional_que_carga": "Axis it carries"},
+                 digits={"eje_cs": 0, "tasa_modif_cs": 1, "r_nac1": 2,
+                         "r_nac2": 2, "r_nac3": 2, "r_nac4": 2, "r_nac5": 2,
+                         "eje_nacional_que_carga": 0},
+                 maps={"estrato": STRATUM})
+        + "\n\n" + md_table("tab_csmca_dispersion.csv",
+                            cols=["estrato", "n", "media_nac2", "de_nac1",
+                                  "de_nac2", "cociente_de2_core",
+                                  "share_var_eje2"],
+                            renames={"estrato": "Stratum", "n": "Suppliers",
+                                     "media_nac2": "Mean, axis 2",
+                                     "de_nac1": "SD, axis 1",
+                                     "de_nac2": "SD, axis 2",
+                                     "cociente_de2_core":
+                                         "SD on axis 2, ratio to core",
+                                     "share_var_eje2":
+                                         "Variance on axis 2 (%)"},
+                            digits={"n": 0, "media_nac2": 2, "de_nac1": 2,
+                                    "de_nac2": 2, "cociente_de2_core": 2},
+                            pct=("share_var_eje2",),
+                            maps={"estrato": STRATUM})
+        + "\n\n" + md_table("tab_csmca_contribuciones.csv",
+                            cols=["estrato", "categoria", "contrib", "coord"],
+                            renames={"estrato": "Stratum",
+                                     "categoria": "Category",
+                                     "contrib": "Contribution (%)",
+                                     "coord": "Coordinate"},
+                            digits={"contrib": 1, "coord": 2},
+                            where=lambda r: r["eje_cs"] == "1",
+                            maps={"estrato": STRATUM, "categoria": CAT}),
+        "Correlations are computed over the individuals of each subcloud, "
+        "between their class-specific coordinates and their coordinates on "
+        "the national axes; the sign of an axis is arbitrary. The second panel "
+        "gives each subcloud's dispersion on the national plane, and the third "
+        "the eight categories contributing most to each stratum's first "
+        "class-specific axis. Passivating each subcloud on its own 5% count, "
+        "which retires the equipment sector and the science and culture "
+        "clients in the middle and outer strata, moves no correlation by more "
+        "than 0.01. In those two strata 98 and 99 per cent of the awards of "
+        "infrastructure clients come from anchored organs, the road "
+        "districts.")
 
     B["S13"] = block(
         "S13", "The size control: every province drawn down to 150 "

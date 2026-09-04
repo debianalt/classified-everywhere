@@ -1,0 +1,19 @@
+"estrato","categoria","share_subnube","pasivada_nacional","pasivada_propia"
+"core","A_rubro.ELECTRICIDAD Y TEL",5,TRUE,TRUE
+"core","A_rubro.LIBRERIA PAP. Y UT",3.5,TRUE,TRUE
+"core","A_rubro.PROD. MEDICO/FARMA",4.4,TRUE,TRUE
+"core","A_escala.sin_ars",4.1,TRUE,TRUE
+"middle","A_rubro.ELECTRICIDAD Y TEL",4,TRUE,TRUE
+"middle","A_rubro.EQUIPOS",3.9,FALSE,TRUE
+"middle","A_rubro.LIBRERIA PAP. Y UT",1.4,TRUE,TRUE
+"middle","A_rubro.PROD. MEDICO/FARMA",0.7,TRUE,TRUE
+"middle","A_cliente.ciencia_universidad",4,FALSE,TRUE
+"middle","A_cliente.cultura_educacion",1.8,FALSE,TRUE
+"middle","A_escala.sin_ars",1.3,TRUE,TRUE
+"outer","A_rubro.ELECTRICIDAD Y TEL",3.8,TRUE,TRUE
+"outer","A_rubro.EQUIPOS",2.4,FALSE,TRUE
+"outer","A_rubro.LIBRERIA PAP. Y UT",2.2,TRUE,TRUE
+"outer","A_rubro.PROD. MEDICO/FARMA",0.9,TRUE,TRUE
+"outer","A_cliente.ciencia_universidad",3.1,FALSE,TRUE
+"outer","A_cliente.cultura_educacion",2.3,FALSE,TRUE
+"outer","A_escala.sin_ars",0.9,TRUE,TRUE

@@ -420,10 +420,13 @@ f3b <- ggplot(proc, aes(100 * delta, reorder(provincia, delta),
   scale_colour_manual(values = group_pal(), guide = "none") +
   scale_fill_manual(values = group_pal(), guide = "none") +
   scale_shape_manual(values = GROUP_SHAPES, guide = "none") +
-  labs(x = "Change in direct contracting, 2019 to 2024–25 (pp)",
+  # the unit (percentage points) is stated in the caption: with it on the
+  # axis the label overran the right edge of the sheet (4 Sep 2026)
+  labs(x = "Change in direct contracting, 2019 to 2024–25",
        y = NULL, tag = "b") +
   theme_house() +
-  theme(panel.grid.major.y = element_blank())
+  theme(panel.grid.major.y = element_blank(),
+        plot.margin = margin(5.5, 10, 5.5, 5.5))
 
 pub(f3a + f3b + plot_layout(widths = c(1.3, 1), guides = "collect") &
       theme(legend.position = "bottom"), "3", 4.45)

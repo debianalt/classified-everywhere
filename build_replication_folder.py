@@ -36,7 +36,7 @@ for d in ("data/raw/covariates", "data/processed", "tables", "figures",
 n_code = 0
 # generate_docx.py stays out: it holds the author's name, ORCID, email and
 # postal address in constants and cannot run without the manuscript sources
-SKIP_CODE = {"generate_docx.py"}
+SKIP_CODE = {"generate_docx.py", "update_anon_link.py"}  # submission tooling, not analysis
 for p in sorted(SRC.glob("*.R")) + sorted(SRC.glob("*.py")):
     if p.name in SKIP_CODE:
         continue
