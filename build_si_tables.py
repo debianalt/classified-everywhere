@@ -63,6 +63,8 @@ CAT = {
     "A_rubro.SERV. PROFESIONAL": "Professional services",
     "A_rubro.MANT. REPARACION Y": "Maintenance and repair",
     "A_rubro.ELECTRICIDAD Y TEL": "Electrical and telecoms",
+    # passivated by the 5% rule, so it reaches the page only in Table S8c
+    "A_rubro.LIBRERIA PAP. Y UT": "Stationery",
     "A_rubro.REPUESTOS": "Spare parts", "A_rubro.OTROS": "Other sectors",
     "A_cliente.seguridad_defensa": "Security and defence",
     "A_cliente.infraestructura": "Infrastructure",
@@ -673,6 +675,30 @@ def build():
                  maps={"variable": VAR}),
         "Percentages of each axis's inertia.")
 
+    B["S8c"] = block(
+        "S8c", "The passivated categories in a fit with nothing passivated.",
+        md_table("tab_pasivacion_raras.csv",
+                 renames={"categoria": "Category", "n": "Suppliers",
+                          "pct": "Suppliers (%)",
+                          "coord1": "Axis 1", "coord2": "Axis 2",
+                          "coord3": "Axis 3", "ctr1": "Ctr 1",
+                          "ctr2": "Ctr 2", "ctr3": "Ctr 3"},
+                 digits={"n": 0, "pct": 2, "coord1": 2, "coord2": 2,
+                         "coord3": 2, "ctr1": 2, "ctr2": 2, "ctr3": 2},
+                 maps={"categoria": CAT}),
+        "Contributions are percentages of an axis's inertia in a fit of the "
+        "same six variables with nothing passivated. Together the four take "
+        "5.1 per cent of the first axis and 10.9 of the second, against the "
+        "13.8 that four categories of average weight would carry; on the "
+        "third they take 21.0, most of it the medical and pharmaceutical "
+        "sector and the no-peso category. The rule therefore removes little "
+        "from the two axes the analysis reads, and the unpassivated solution "
+        "is the published one: correlated over the individuals, its first "
+        "three axes match the published ones at 0.98, 0.95 and 0.88. It is "
+        "retained because fixing one set of categories on the whole cloud is "
+        "what allows a province, a stratum and the national space to be read "
+        "on the same coordinates.")
+
     B["S9"] = block(
         "S9", "Eigenvalues and modified rates.",
         md_table("tab_c10_benzecri.csv",
@@ -725,6 +751,42 @@ def build():
         "Counts over the 10,580 suppliers of the space. A third hold a single "
         "award in the window, so their profile on the six active variables is "
         "that one exchange.")
+
+    B["S10c"] = block(
+        "S10c", "The space refitted without the one-off sellers.",
+        md_table("tab_robustez_unaadj.csv",
+                 cols=["minimo_adj", "n", "benzecri_1", "benzecri_2",
+                       "eje_acceso", "r_con_eje_publicado", "core", "middle",
+                       "outer", "brecha_core_outer", "rho_anclaje"],
+                 renames={"minimo_adj": "Minimum awards", "n": "Suppliers",
+                          "benzecri_1": "Rate 1 (%)",
+                          "benzecri_2": "Rate 2 (%)",
+                          "eje_acceso": "Axis of access",
+                          "r_con_eje_publicado": "*r* with published axis",
+                          "core": "Core", "middle": "Middle",
+                          "outer": "Outer",
+                          "brecha_core_outer": "Core-outer gap",
+                          "rho_anclaje": "ρ with anchored demand"},
+                 digits={"n": 0, "benzecri_1": 1, "benzecri_2": 1,
+                         "eje_acceso": 0, "r_con_eje_publicado": 2,
+                         "core": 2, "middle": 2, "outer": 2,
+                         "brecha_core_outer": 2, "rho_anclaje": 2}),
+        "The first row is the published solution. Each row is a specific "
+        "multiple correspondence analysis of its own population, with the 5 "
+        "per cent rule applied to that population; it passivates the same "
+        "four categories every time, so all four solutions carry twenty-five "
+        "active categories. Rates are modified rates. The axis of access is "
+        "identified by correlating the individuals' coordinates in the "
+        "restricted solution with their coordinates in the published space "
+        "and taking the axis closest to the published second one; the column "
+        "gives that correlation and the stratum coordinates are read on that "
+        "axis, signed so that the corporate pole is positive. Stratum "
+        "coordinates are in the scale of the cloud of categories, in which a "
+        "difference is a difference in standard deviations of the axis, as in "
+        "Table S10. At the threshold of two awards the opposition is split "
+        "across the first two restricted axes, the next one carrying 0.53 of "
+        "the published axis, and a single axis therefore under-reads the "
+        "ordering of the jurisdictions.")
 
     B["S11"] = block(
         "S11", "The per-province solutions against the national "
