@@ -697,7 +697,11 @@ def build():
         "three axes match the published ones at 0.98, 0.95 and 0.88. It is "
         "retained because fixing one set of categories on the whole cloud is "
         "what allows a province, a stratum and the national space to be read "
-        "on the same coordinates.")
+        "on the same coordinates. Greenacre (2013) argues the general case, "
+        "on abundance tables in ecology and not on multiple correspondence "
+        "analysis: the low mass of a rare object offsets its distant position, "
+        "so its contribution stays small. The measurement above is the check "
+        "he prescribes.")
 
     B["S9"] = block(
         "S9", "Eigenvalues and modified rates.",
@@ -1045,12 +1049,12 @@ def build():
                           "citado_en": "Quoted in"}),
         "Every item is a public document or a public statement reported in the "
         "press, read on 4 September 2026 and archived with its full text by the "
-        "authors; every source is public and its address is given. Firms and natural persons "
+        "author; every source is public and its address is given. Firms and natural persons "
         "named in the documents are not named in the manuscript. Items dated "
         "before the analysis window are position-takings whose date the text "
         "states where it quotes them; items marked 'Table S36 only' were read "
         "and archived but are not quoted in the text. Translations are the "
-        "authors'.")
+        "author's.")
 
     B["S37"] = block(
         "S37", "A year in the ledger: the median garrison and the median "
