@@ -16,6 +16,19 @@
 # The surrogate key is a random permutation under a fixed seed, so the file
 # itself leaks no order; it is not a defence against someone with the source.
 #
+# One consequence of the permutation, measured on 8 Sep 2026 and worth stating
+# because a replicator meets it: the key puts the individuals in a different
+# order from the one the published solution was fitted on, and the order of the
+# individuals fixes the sign of the singular vectors. Refitting the space from
+# supplier_space.csv returns the same eigenvalues to four decimals and the
+# first two axes with the published sign, correlation 0.99999 on the category
+# coordinates, and the THIRD axis negated. The sign of a principal axis is a
+# convention, not a result: the third axis opposes the same categories either
+# way. Only the printed signs of Axis 3 differ, in the supplementary tables
+# that carry that column. The key was left as it is, because the two axes the
+# paper reads reproduce exactly and a rank-ordered key would leak the order of
+# the identifiers to buy a sign that carries no claim.
+#
 # Run: Rscript 46_release_anonimizada.R   (~1 min)
 
 source("theme_house.R", chdir = TRUE)

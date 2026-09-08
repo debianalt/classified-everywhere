@@ -50,6 +50,17 @@ random permutation under a fixed seed, so the files leak no order of their own;
 that is all it is. `46_release_anonimizada.R` builds them and asserts the
 counts and the absence of identifying columns before writing.
 
+**The third axis comes out mirrored, and that is expected.** The key puts the
+individuals in a different order from the one the published solution was fitted
+on, and the order of the individuals fixes the sign of the singular vectors.
+Refitting the space from `supplier_space.csv` returns the same eigenvalues,
+0.2725, 0.2587 and 0.2183, and the first two axes with the published sign, at a
+correlation of 0.99999 on the category coordinates; the third arrives negated.
+The sign of a principal axis is a convention rather than a result, and the third
+axis opposes the same categories either way, so what differs is the printed sign
+in the supplementary tables that carry an Axis 3 column. The two axes the
+analysis reads reproduce exactly.
+
 **Not included: the supplier microdata.** The COMPR.AR award file, the SIPRO
 supplier register and the taxpayer register carry taxpayer identifiers and
 names, and roughly two in five suppliers in this population are natural
