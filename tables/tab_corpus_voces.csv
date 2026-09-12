@@ -1,10 +1,10 @@
 id,actor,tipo,fecha,fuente,citado_en,archivo
 V01,"Andrés Ibarra, Minister of Modernisation",Government statement,2017-08-30,"argentina.gob.ar, 'Transparentamos las contrataciones y compras del Estado'",Section 2,argentina_gob_ibarra_comprar_transparentamos.html
-V02,"National Procurement Office, General Communication 9/2020",Agency circular,2020-04,"infoleg.gob.ar, Comunicación General ONC 9/2020",Section 7,onc_cg9_2020.txt
+V02,"National Procurement Office, General Communication 9/2020",Agency circular,2020-04,"infoleg.gob.ar, Comunicación General ONC 9/2020",Table S36 only,onc_cg9_2020.txt
 V03,National government (President Fernández; Secretary Navarro; Minister Arroyo),Press report of official statements,2020-04-07,Infobae,Section 7,infobae_2020-04-07_arroyo_sobreprecios.html
 V04,Argentine Chamber of Commerce and Services with the Argentine Union of State Suppliers (UAPE),Chamber statement,2023-08-01,"cac.com.ar, note to the Chief of Cabinet",Table S36 only,cac_uape_2023-08-01_mora_pagos.html
 V05,Argentine Union of State Suppliers (UAPE),Institutional self-description,"undated, read 2026-09-04",uape.org.ar,Table S36 only,uape_politica_calidad.html
-V06,"Entrepreneurs selling to the state (a software contractor, a furniture firm, a business-school lecturer)",Press interviews,2015-09-17,"El Cronista, 'El desafío de venderle al Estado'",Section 4,cronista_2015-09-17_desafio_venderle_al_estado.html
+V06,"Entrepreneurs selling to the state (a software contractor, a furniture firm, a business-school lecturer)",Press interviews,2015-09-17,"El Cronista, 'El desafío de venderle al Estado'",Table S36 only,cronista_2015-09-17_desafio_venderle_al_estado.html
 V07,"Small firms' preconceptions, guide by ACIJ and Apyme",Guide for small firms,2009-12-28,"acij.org.ar, 'Cómo hacer negocios con el Estado'",Section 2,acij_2009-12-28_como_hacer_negocios_con_el_estado.html
 V08,"Decree 1023/2001, art. 25 (d) 2 and 3, text in force",Statute,2001; re-enacted 2024-12-13,"servicios.infoleg.gob.ar, texto actualizado",Section 6,infoleg_decreto_1023_2001_texto_actualizado.html
 V09,National Procurement Office as governing body; Attorney-General's opinions on exclusivity,Administrative doctrine (compilation),2023-05,"fiscalia.chubut.gov.ar, 'Dictámenes por exclusividad'",Section 6,ptn_dictamenes_exclusividad.pdf
@@ -16,7 +16,7 @@ V14,Officials of the Ministry of Deregulation and State Transformation; Sindicat
 V15,Ministry of Economy officials; President Milei,Press report of official statements,2026 (after the window),iProfesional,Table S36 only,iprofesional_2026_deuda_flotante_pagadios.html
 V16,"Joint Chiefs of Staff of the Armed Forces, communiqué",Official communiqué (reported),2024-06-11,El Destape,Section 7,eldestape_2024-06-11_emco_comunicado_viveres.html
 V17,"Ministry of Defence, Resolution 1611/2022, Supplier Development Programme and Defence Supplier Register",Ministerial programme,2022-12-19,argentina.gob.ar (news and register page),Section 2,argentina_gob_2022-12-19_prodef_repro_def.html
-V18,A supplier of clothing and equipment to the forces (self-presentation; not named),Company website,"undated, read 2026-09-04",company website,Section 6,empresa_tipo_lealforce_autopresentacion.html
+V18,A supplier of clothing and equipment to the forces (self-presentation; not named),Company website,"undated, read 2026-09-04",company website,Table S36 only,empresa_tipo_lealforce_autopresentacion.html
 V19,"Argentine Army, XII Jungle Brigade Command, Public Tender 3/2016",Notice in the Official Gazette,2016-01-29,boletinoficial.gob.ar/detalleAviso/tercera/2170005/20160129,Table S36 only,bo_2016-01-29_lp_3_brigada_monte_xii_alimentos.html
 V20,"Argentine Army, IX Mechanised Brigade Command, Public Tender 0154/2024 (bakery inputs; awarded to a sole proprietor, not named)",Notice in the Official Gazette,2024-05-28,boletinoficial.gob.ar/detalleAviso/tercera/2374502/20240528,Section 6,bo_2024-05-28_lp_0154_brigada_ix_panaderia.html
 V21,"Argentine Army, VI Mountain Brigade Command, Public Tender 0566/2025 (fresh food; awarded to a company, not named)",Notice in the Official Gazette,2025-08-18,boletinoficial.gob.ar/detalleAviso/tercera/2398502/20250818,Table S36 only,bo_2025-08-18_lp_0566_brigada_vi_viveres.html
