@@ -7,7 +7,7 @@ FILES = ["00_abstract.md", "01_introduction.md", "02_framework.md",
          "07_conclusions.md", "08_references.md"]
 
 # The BJS limit counts abstract + text + notes + bibliography; tables and
-# figures sit on separate sheets and do NOT count. Excluded here: embeds,
+# figures do NOT count, wherever they are placed. Excluded here: embeds,
 # table rows, and the figure/table apparatus (captions **Figure ...,
 # titles **Table ..., *Note* and *Source* paragraphs), which lives in the
 # section files so it renders under each figure and table in Obsidian.

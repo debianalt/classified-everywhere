@@ -578,6 +578,36 @@ def build():
         "A leading share falls as suppliers multiply, as the largest share of "
         "any set must. The second panel gives the rank correlations.")
 
+    B["S6f"] = block(
+        "S6f", "Direct contracting by jurisdiction and presidency.",
+        md_table("tab_directa_jurisdiccion_era.csv",
+                 cols=["provincia", "grupo", "n_adj_macri",
+                       "share_directa_macri", "n_adj_fernandez",
+                       "share_directa_fernandez", "n_adj_milei",
+                       "share_directa_milei", "delta"],
+                 renames={"provincia": "Jurisdiction", "grupo": "Region",
+                          "n_adj_macri": "Awards, Macri",
+                          "share_directa_macri": "Direct contracting, Macri (%)",
+                          "n_adj_fernandez": "Awards, Fernández",
+                          "share_directa_fernandez": "Direct contracting, Fernández (%)",
+                          "n_adj_milei": "Awards, Milei",
+                          "share_directa_milei": "Direct contracting, Milei (%)",
+                          "delta": "Change, Macri to Milei (points)"},
+                 pct=("share_directa_macri", "share_directa_fernandez",
+                      "share_directa_milei", "delta"),
+                 digits={"n_adj_macri": 0, "n_adj_fernandez": 0,
+                         "n_adj_milei": 0, "share_directa_macri": 1,
+                         "share_directa_fernandez": 1,
+                         "share_directa_milei": 1, "delta": 1},
+                 sort=lambda r: float(r["delta"])),
+        "Direct contracting is the share of awards made through direct "
+        "contracting. The Macri period is 2019 alone, so a jurisdiction can "
+        "rest on few awards in it (25 in Formosa, 9,746 in the federal "
+        "capital), and a change between the first and the third presidency is "
+        "imprecise where those awards are few. The share rises in Tierra del "
+        "Fuego, Corrientes, Formosa, Jujuy and Misiones and falls in the "
+        "other 19 jurisdictions.")
+
     B["S7"] = block(
         "S7", "Variants of the inequality series.",
         md_table("tab_robustez_theil.csv",
@@ -1867,6 +1897,18 @@ def build():
 BLOCK_RE = re.compile(
     r"\n*<!-- TABLE:[^>]*? -->.*?<!-- /TABLE:[^>]*? -->\n*", re.S)
 PARA_SEP = "\n\n"
+# Sentences that `recorte.py aplicar --mover` deposits between a block's opening
+# marker and its table ("antes de su tabla"). They sit INSIDE the markers, so
+# stripping a block would delete them; they are kept and put back (9 Oct 2026).
+LEAD_RE = re.compile(
+    r"<!-- TABLE:(\S+?) -->\n\n(?!\*\*Table)(.*?)\n\n(?=\*\*Table \1\.\*\*)", re.S)
+
+
+def _with_lead(block_text, key, lead):
+    if not lead:
+        return block_text
+    opening = f"<!-- TABLE:{key} -->\n\n"
+    return block_text.replace(opening, opening + lead + "\n\n", 1)
 
 
 def _natural(key):
@@ -1876,6 +1918,7 @@ def _natural(key):
 
 
 def inject(text, blocks):
+    leads = {m.group(1): m.group(2).strip() for m in LEAD_RE.finditer(text)}
     text = BLOCK_RE.sub(PARA_SEP, text)
     paras = text.split(PARA_SEP)
     # Anchors are resolved against the original paragraph list and only then
@@ -1905,7 +1948,7 @@ def inject(text, blocks):
         out.append(para)
         for key, idx in pending:
             if idx == i:
-                out.append(blocks[key])
+                out.append(_with_lead(blocks[key], key, leads.get(key)))
                 placed.add(key)
     return PARA_SEP.join(out), placed, missing
 
